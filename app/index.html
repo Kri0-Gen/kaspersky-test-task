@@ -1,0 +1,24 @@
+<!doctype html>
+<html lang="en" ng-app="usersApp">
+  <head>
+    <meta charset="utf-8">
+    <title>Users</title>
+
+    <link rel="stylesheet" href="user-list/user-list.css" />
+    <link rel="stylesheet" href="greeting/greeting.css" />
+
+    <script src="bower_components/angular/angular.js"></script>
+    <script src="bower_components/angular-route/angular-route.js"></script>
+    <script src="bower_components/angular-resource/angular-resource.js"></script>
+    <script src="app.module.js"></script>
+    <script src="app.config.js"></script>
+    <script src="greeting/greeting.module.js"></script>
+    <script src="greeting/greeting.component.js"></script>
+    <script src="user-list/user-list.module.js"></script>
+    <script src="user-list/user-list.component.js"></script>
+    <script src="users-service/users-service.service.js"></script>
+  </head>
+  <body>
+    <div ng-view></div>
+  </body>
+</html>

@@ -1,0 +1,75 @@
+<div class="user-list">
+  <div class="user-list__control-panel">
+    <label>View mode</label>
+    <select ng-model="$ctrl.getSetMode" ng-model-options="{ getterSetter: true }" class="user-list__select-mode">
+      <option selected value="list">List</option>
+      <option value="plates">Plates</option>
+      <option value="groups">Groups</option>
+    </select>
+    <label>Sort by</label>
+    <select ng-model="$ctrl.getSetSorting" ng-model-options="{ getterSetter: true }" class="user-list__sorting">
+      <option selected value="none">None</option>
+      <option value="fullName">Full name</option>
+      <option value="position">Position</option>
+      <option value="email">E-mail</option>
+      <option value="phone">Phone</option>
+    </select>
+    <input type="text" placeholder="Filter by name, email or phone..." ng-model="$ctrl.setFilter" ng-model-options="{ getterSetter: true }" class="user-list__filter"/>
+    <span class="user-list__counter" ng-if="$ctrl.totalCount !== null">Rows: <span ng-if="$ctrl.totalCount !== $ctrl.filteredCount">{{$ctrl.filteredCount}} / </span>{{$ctrl.totalCount}}</span>
+  </div>
+
+<!--
+ToDo: было б хорошо разделить на 3 разных шаблона, но пока не нашёл как
+  <user-template-list   ng-if="$ctrl.mode==='list'"></user-template-list>
+  <user-template-plates ng-if="$ctrl.mode==='plates'"></user-template-plates>
+  <user-template-groups ng-if="$ctrl.mode==='groups'"></user-template-groups>
+-->
+  <table ng-if="$ctrl.mode==='list'" class="animate-if user-list__list-table">
+    <thead>
+      <th>
+        <input type="checkbox"/>
+      </th>
+      <th>Полное имя</th>
+      <th>Должность</th>
+      <th>Электронная почта</th>
+      <th>Телефон</th>
+    </thead>
+    <tbody>
+      <tr ng-repeat="user in $ctrl.users">
+        <td>
+          <input type="checkbox"/>
+        </td>
+        <td>{{user.fullName}}</td>
+        <td>{{user.position}}</td>
+        <td>{{user.email}}</td>
+        <td>{{user.phone}}</td>
+      </tr>
+    </tbody>
+  </table>
+  <div ng-if="$ctrl.mode==='plates'">
+	<div ng-repeat="user in $ctrl.users" class="user-list__user-plate">
+	  <div class="user-list__user-plate_checkbox">
+       <input type="checkbox"/>
+     </div>
+     <div class="user-list__plate_row user-list__plate_row_name">{{user.fullName}}</div>
+     <div class="user-list__plate_row">
+       <img src="./user-list/img/user_photo.png"/>
+     </div>
+	  <div class="user-list__plate_row">{{user.position}}</div>
+	  <div class="user-list__plate_row">{{user.phone}}</div>
+	</div>
+  </div>
+  <div ng-if="$ctrl.mode==='groups'">
+    <div ng-repeat="group in $ctrl.groups | orderBy:'name'" class="user-list__group">
+		<span>{{group.name || 'No group'}}</span>
+	   <div ng-repeat="user in group.users" class="user-list__group-item">
+		  <div class="user-list__group-item_name">{{user.fullName}}</div>
+	     <div class="user-list__group-item_position">{{user.position}}</div>
+	   </div>
+      <div class="user-list__group_item-add">Добавить пользователя</div>
+    </div>
+    <div class="user-list__group">
+      <span class="user-list__group-add">Добавить группу</span>
+    </div>
+  </div>
+</div>

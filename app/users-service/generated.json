@@ -1,0 +1,5890 @@
+[
+  {
+    "guid": "b2d27ac7-fa8c-4324-b049-effda03a704a",
+    "group": "",
+    "position": "Accountant",
+    "fullName": "Toni Estes",
+    "email": "toniestes@visalia.com",
+    "phone": "+7 (800) 487-2238"
+  },
+  {
+    "guid": "1b0b2daa-7792-40c8-bcd5-2f01ec8b6cd1",
+    "group": "",
+    "position": "CEO",
+    "fullName": "Hatfield Bradley",
+    "email": "hatfieldbradley@visalia.com",
+    "phone": "+7 (808) 592-2675"
+  },
+  {
+    "guid": "81a7b175-1c10-49e8-b4ab-545b273f4564",
+    "group": "Разработка",
+    "position": "QA",
+    "fullName": "Hillary Alvarez",
+    "email": "hillaryalvarez@visalia.com",
+    "phone": "+7 (951) 415-3180"
+  },
+  {
+    "guid": "70733473-a420-41dd-ab58-49401b08dbaa",
+    "group": "Дизайнеры",
+    "position": "Big boss",
+    "fullName": "Dixon Oneill",
+    "email": "dixononeill@visalia.com",
+    "phone": "+7 (804) 407-2503"
+  },
+  {
+    "guid": "8b211a2b-362a-4123-b8e9-af3046e8d0ec",
+    "group": "Управление",
+    "position": "Accountant",
+    "fullName": "Dickerson Haley",
+    "email": "dickersonhaley@visalia.com",
+    "phone": "+7 (804) 427-3440"
+  },
+  {
+    "guid": "91ec4d2d-e39b-4834-83e8-12d32824298c",
+    "group": "Тестирование",
+    "position": "CEO",
+    "fullName": "Rosa Webb",
+    "email": "rosawebb@visalia.com",
+    "phone": "+7 (861) 464-2562"
+  },
+  {
+    "guid": "5e6aa54f-5c9d-400e-9cea-4fb7d22a5e65",
+    "group": "Тестирование",
+    "position": "QA",
+    "fullName": "Tiffany Levy",
+    "email": "tiffanylevy@visalia.com",
+    "phone": "+7 (841) 432-2594"
+  },
+  {
+    "guid": "b3424da2-afea-40e6-aaa9-1617cb7c3978",
+    "group": "Дизайнеры",
+    "position": "CEO",
+    "fullName": "Gould Carlson",
+    "email": "gouldcarlson@visalia.com",
+    "phone": "+7 (984) 597-3997"
+  },
+  {
+    "guid": "f6d587e6-02ea-47d0-852a-937f437052ed",
+    "group": "",
+    "position": "Manager",
+    "fullName": "Mullen Pacheco",
+    "email": "mullenpacheco@visalia.com",
+    "phone": "+7 (803) 490-3444"
+  },
+  {
+    "guid": "4d002117-0c9b-46c0-9916-14092f2ffad6",
+    "group": "Управление",
+    "position": "CEO",
+    "fullName": "Georgia Battle",
+    "email": "georgiabattle@visalia.com",
+    "phone": "+7 (879) 418-3245"
+  },
+  {
+    "guid": "8499fc53-b7ba-45cf-b18c-18840d6392d5",
+    "group": "Управление",
+    "position": "Accountant",
+    "fullName": "Collins Schneider",
+    "email": "collinsschneider@visalia.com",
+    "phone": "+7 (909) 543-2116"
+  },
+  {
+    "guid": "9e851e8c-d9ce-4683-ba7b-73686fe616d1",
+    "group": "Бухгалтерия",
+    "position": "Accountant",
+    "fullName": "Guthrie Pearson",
+    "email": "guthriepearson@visalia.com",
+    "phone": "+7 (814) 469-2240"
+  },
+  {
+    "guid": "abbb3240-f6e2-48f3-a859-3ba96f5e4cc9",
+    "group": "Дизайнеры",
+    "position": "CEO",
+    "fullName": "Fry Raymond",
+    "email": "fryraymond@visalia.com",
+    "phone": "+7 (897) 504-3748"
+  },
+  {
+    "guid": "a51ebafb-721f-4aef-a002-626bb8a37123",
+    "group": "Управление",
+    "position": "Manager",
+    "fullName": "Kirkland Hawkins",
+    "email": "kirklandhawkins@visalia.com",
+    "phone": "+7 (907) 400-2825"
+  },
+  {
+    "guid": "b8a475f7-373d-4550-bd54-34412ee2d186",
+    "group": "Разработка",
+    "position": "Developer",
+    "fullName": "Montoya Rasmussen",
+    "email": "montoyarasmussen@visalia.com",
+    "phone": "+7 (812) 503-3954"
+  },
+  {
+    "guid": "190527c4-bc1b-421b-ba35-6e7b9198a7ab",
+    "group": "Управление",
+    "position": "Accountant",
+    "fullName": "Robles Morrow",
+    "email": "roblesmorrow@visalia.com",
+    "phone": "+7 (985) 597-3038"
+  },
+  {
+    "guid": "c2a943b6-edab-452a-850d-c0dee0e60978",
+    "group": "Тестирование",
+    "position": "System administrator",
+    "fullName": "Henderson Rodriquez",
+    "email": "hendersonrodriquez@visalia.com",
+    "phone": "+7 (914) 463-2406"
+  },
+  {
+    "guid": "45d1f6ad-d145-43f8-8136-dbbdafa478bc",
+    "group": "Тестирование",
+    "position": "Developer",
+    "fullName": "Velazquez Puckett",
+    "email": "velazquezpuckett@visalia.com",
+    "phone": "+7 (923) 410-3223"
+  },
+  {
+    "guid": "e3a8bce9-3252-44c9-86e0-7ecf20a52fd5",
+    "group": "Бухгалтерия",
+    "position": "CEO",
+    "fullName": "Beck Snider",
+    "email": "becksnider@visalia.com",
+    "phone": "+7 (915) 521-2353"
+  },
+  {
+    "guid": "1d4f01ef-e425-4435-981f-03afb2b110e9",
+    "group": "",
+    "position": "Accountant",
+    "fullName": "Garza Morris",
+    "email": "garzamorris@visalia.com",
+    "phone": "+7 (892) 481-2077"
+  },
+  {
+    "guid": "d70bdfc9-6416-4b17-8da0-eeb63c88f59e",
+    "group": "Бухгалтерия",
+    "position": "System administrator",
+    "fullName": "Kathy Petty",
+    "email": "kathypetty@visalia.com",
+    "phone": "+7 (936) 498-3865"
+  },
+  {
+    "guid": "fa75b0ff-6766-451a-b938-d94d4c19ae49",
+    "group": "Бухгалтерия",
+    "position": "QA",
+    "fullName": "Mercado Olsen",
+    "email": "mercadoolsen@visalia.com",
+    "phone": "+7 (936) 471-2841"
+  },
+  {
+    "guid": "f48f5260-c934-4f87-9096-7c3119cfbf48",
+    "group": "Тестирование",
+    "position": "Big boss",
+    "fullName": "Henry Clay",
+    "email": "henryclay@visalia.com",
+    "phone": "+7 (907) 537-2868"
+  },
+  {
+    "guid": "7a1bee79-abbb-4b70-b426-09253902496b",
+    "group": "Бухгалтерия",
+    "position": "Big boss",
+    "fullName": "Lola Boone",
+    "email": "lolaboone@visalia.com",
+    "phone": "+7 (939) 480-2615"
+  },
+  {
+    "guid": "ffa26a02-fbc4-4efc-bfec-5c85a47fb381",
+    "group": "Тестирование",
+    "position": "Developer",
+    "fullName": "Mendoza Conway",
+    "email": "mendozaconway@visalia.com",
+    "phone": "+7 (822) 596-2439"
+  },
+  {
+    "guid": "23ef9238-0afe-414c-a19a-5be5bfb16df1",
+    "group": "Бухгалтерия",
+    "position": "Developer",
+    "fullName": "Spencer Lara",
+    "email": "spencerlara@visalia.com",
+    "phone": "+7 (961) 448-2188"
+  },
+  {
+    "guid": "9c269398-7202-46e6-86d2-fc7bcf1c2556",
+    "group": "",
+    "position": "Developer",
+    "fullName": "Trisha Sutton",
+    "email": "trishasutton@visalia.com",
+    "phone": "+7 (814) 510-3468"
+  },
+  {
+    "guid": "46fcead7-3929-4579-b68f-68597eb4aa2a",
+    "group": "Дизайнеры",
+    "position": "Big boss",
+    "fullName": "Hughes Malone",
+    "email": "hughesmalone@visalia.com",
+    "phone": "+7 (942) 511-3241"
+  },
+  {
+    "guid": "7fef2147-37bf-4927-bf56-59edc96fb3ef",
+    "group": "",
+    "position": "Big boss",
+    "fullName": "Ward Barnes",
+    "email": "wardbarnes@visalia.com",
+    "phone": "+7 (869) 424-3156"
+  },
+  {
+    "guid": "1465bb53-db78-49fb-9c91-f0b0d2b564f0",
+    "group": "Разработка",
+    "position": "Accountant",
+    "fullName": "Penny Villarreal",
+    "email": "pennyvillarreal@visalia.com",
+    "phone": "+7 (861) 425-2192"
+  },
+  {
+    "guid": "1807f8e5-15e3-4665-bd22-768dc65ac73b",
+    "group": "Тестирование",
+    "position": "CEO",
+    "fullName": "Rush Delgado",
+    "email": "rushdelgado@visalia.com",
+    "phone": "+7 (998) 572-3184"
+  },
+  {
+    "guid": "8f4e37b0-ac7f-4556-9181-05977f4a64f4",
+    "group": "Тестирование",
+    "position": "Accountant",
+    "fullName": "Silva Huffman",
+    "email": "silvahuffman@visalia.com",
+    "phone": "+7 (967) 571-2269"
+  },
+  {
+    "guid": "b2ded682-592d-497c-b2e1-fa816b63adaa",
+    "group": "Управление",
+    "position": "Developer",
+    "fullName": "Lauri Day",
+    "email": "lauriday@visalia.com",
+    "phone": "+7 (959) 405-2722"
+  },
+  {
+    "guid": "ce416cab-76e6-419b-afca-338ca1c487aa",
+    "group": "Дизайнеры",
+    "position": "System administrator",
+    "fullName": "Carmella Becker",
+    "email": "carmellabecker@visalia.com",
+    "phone": "+7 (825) 461-3354"
+  },
+  {
+    "guid": "5daaba0b-02af-4926-9bdc-c5ddaa2a8704",
+    "group": "Бухгалтерия",
+    "position": "Manager",
+    "fullName": "Durham Hoffman",
+    "email": "durhamhoffman@visalia.com",
+    "phone": "+7 (909) 402-3785"
+  },
+  {
+    "guid": "834061af-ae33-4500-b8dd-4933e67f8064",
+    "group": "Разработка",
+    "position": "Developer",
+    "fullName": "Traci Blackburn",
+    "email": "traciblackburn@visalia.com",
+    "phone": "+7 (931) 464-2761"
+  },
+  {
+    "guid": "7a7be329-bdbf-447e-b448-f1d749b425b4",
+    "group": "Разработка",
+    "position": "QA",
+    "fullName": "Wiggins Bush",
+    "email": "wigginsbush@visalia.com",
+    "phone": "+7 (913) 401-3496"
+  },
+  {
+    "guid": "3c3bd3bd-7b24-4515-8d3f-f88e8789ab32",
+    "group": "",
+    "position": "Manager",
+    "fullName": "Latisha Pate",
+    "email": "latishapate@visalia.com",
+    "phone": "+7 (905) 406-2136"
+  },
+  {
+    "guid": "d799f21b-8a4c-4164-803b-10eeb6662b26",
+    "group": "",
+    "position": "Accountant",
+    "fullName": "Olivia Gay",
+    "email": "oliviagay@visalia.com",
+    "phone": "+7 (891) 434-2694"
+  },
+  {
+    "guid": "3b65bfd6-38f4-461c-9495-e520a4090a49",
+    "group": "Тестирование",
+    "position": "Big boss",
+    "fullName": "Bush Shaffer",
+    "email": "bushshaffer@visalia.com",
+    "phone": "+7 (879) 516-3358"
+  },
+  {
+    "guid": "5b0bb7a3-18ab-4ca0-9992-01532912753f",
+    "group": "Тестирование",
+    "position": "CEO",
+    "fullName": "Gretchen Nolan",
+    "email": "gretchennolan@visalia.com",
+    "phone": "+7 (832) 457-3641"
+  },
+  {
+    "guid": "c25a7f44-9f96-4efb-a6cc-a30199520fa0",
+    "group": "Управление",
+    "position": "Accountant",
+    "fullName": "Carey Curry",
+    "email": "careycurry@visalia.com",
+    "phone": "+7 (958) 449-3935"
+  },
+  {
+    "guid": "f2291812-385d-4b54-9bf2-bd79d859f530",
+    "group": "Управление",
+    "position": "Developer",
+    "fullName": "Rosella Cannon",
+    "email": "rosellacannon@visalia.com",
+    "phone": "+7 (847) 401-3044"
+  },
+  {
+    "guid": "d4132c82-30f9-496e-bbe0-8032000245f4",
+    "group": "",
+    "position": "QA",
+    "fullName": "Felecia Donovan",
+    "email": "feleciadonovan@visalia.com",
+    "phone": "+7 (981) 575-3333"
+  },
+  {
+    "guid": "de04db50-54da-4e2b-a0fd-f03329cb5b11",
+    "group": "Тестирование",
+    "position": "Accountant",
+    "fullName": "Darla Riley",
+    "email": "darlariley@visalia.com",
+    "phone": "+7 (806) 582-2595"
+  },
+  {
+    "guid": "e91c41fe-f3e0-40aa-9280-632a3642a9e4",
+    "group": "Дизайнеры",
+    "position": "Developer",
+    "fullName": "Petersen Payne",
+    "email": "petersenpayne@visalia.com",
+    "phone": "+7 (850) 419-3780"
+  },
+  {
+    "guid": "ffedc473-38e5-4737-b82f-578e59cce8a1",
+    "group": "Дизайнеры",
+    "position": "Accountant",
+    "fullName": "Beryl Graves",
+    "email": "berylgraves@visalia.com",
+    "phone": "+7 (819) 457-2932"
+  },
+  {
+    "guid": "b46b117e-d865-4fdc-95f7-7a27b5778110",
+    "group": "Дизайнеры",
+    "position": "Manager",
+    "fullName": "Earline Chan",
+    "email": "earlinechan@visalia.com",
+    "phone": "+7 (960) 445-3053"
+  },
+  {
+    "guid": "833c1709-6ac6-429b-a7fd-a5f13acd3680",
+    "group": "Тестирование",
+    "position": "Accountant",
+    "fullName": "Alvarado Hanson",
+    "email": "alvaradohanson@visalia.com",
+    "phone": "+7 (987) 473-2291"
+  },
+  {
+    "guid": "6753e5db-5b02-401a-aa83-3b12209eb6d2",
+    "group": "Бухгалтерия",
+    "position": "System administrator",
+    "fullName": "Byrd Spencer",
+    "email": "byrdspencer@visalia.com",
+    "phone": "+7 (990) 403-2503"
+  },
+  {
+    "guid": "2f427a9d-35a7-4551-8f9d-202592f5bafc",
+    "group": "",
+    "position": "System administrator",
+    "fullName": "Hood Barry",
+    "email": "hoodbarry@visalia.com",
+    "phone": "+7 (814) 596-3753"
+  },
+  {
+    "guid": "63883adc-b133-4f03-866f-8820ee9cde4d",
+    "group": "Разработка",
+    "position": "Big boss",
+    "fullName": "Nina Bell",
+    "email": "ninabell@visalia.com",
+    "phone": "+7 (826) 519-3746"
+  },
+  {
+    "guid": "e35ee71b-5819-4e21-931e-85d520f91067",
+    "group": "Дизайнеры",
+    "position": "QA",
+    "fullName": "Harmon Sellers",
+    "email": "harmonsellers@visalia.com",
+    "phone": "+7 (844) 417-2973"
+  },
+  {
+    "guid": "98e7e5c6-a927-46f4-92c8-950091189e1c",
+    "group": "Управление",
+    "position": "CEO",
+    "fullName": "Louise Pope",
+    "email": "louisepope@visalia.com",
+    "phone": "+7 (983) 591-3684"
+  },
+  {
+    "guid": "55554c2d-3ca3-4442-90e6-4f2faf72416d",
+    "group": "Разработка",
+    "position": "CEO",
+    "fullName": "Bird Blankenship",
+    "email": "birdblankenship@visalia.com",
+    "phone": "+7 (863) 524-3272"
+  },
+  {
+    "guid": "361a8e63-97c2-48fc-8371-27c5c4377a9f",
+    "group": "",
+    "position": "Big boss",
+    "fullName": "Suarez Carpenter",
+    "email": "suarezcarpenter@visalia.com",
+    "phone": "+7 (815) 481-2327"
+  },
+  {
+    "guid": "33a25db2-500f-4aad-8b58-cc9188a2a32f",
+    "group": "Разработка",
+    "position": "CEO",
+    "fullName": "Lowe Glass",
+    "email": "loweglass@visalia.com",
+    "phone": "+7 (881) 523-2223"
+  },
+  {
+    "guid": "a1c1c400-bd22-400c-9c13-eadcc451b73f",
+    "group": "Тестирование",
+    "position": "Manager",
+    "fullName": "Nguyen Livingston",
+    "email": "nguyenlivingston@visalia.com",
+    "phone": "+7 (901) 450-2934"
+  },
+  {
+    "guid": "fe06e680-9628-44be-be49-ad7e922d58db",
+    "group": "Тестирование",
+    "position": "Developer",
+    "fullName": "Nancy Burns",
+    "email": "nancyburns@visalia.com",
+    "phone": "+7 (905) 560-2291"
+  },
+  {
+    "guid": "6318f1fc-89ce-4b3f-944d-f7bd99341b4f",
+    "group": "",
+    "position": "Big boss",
+    "fullName": "Barrett Morse",
+    "email": "barrettmorse@visalia.com",
+    "phone": "+7 (962) 439-3463"
+  },
+  {
+    "guid": "0a9dd374-cb87-4c2d-afa8-330a62abc5c0",
+    "group": "",
+    "position": "System administrator",
+    "fullName": "Johns Hodges",
+    "email": "johnshodges@visalia.com",
+    "phone": "+7 (925) 507-2546"
+  },
+  {
+    "guid": "bc374fe4-c2f6-4025-905b-328611fd223a",
+    "group": "Тестирование",
+    "position": "CEO",
+    "fullName": "Dianna Russo",
+    "email": "diannarusso@visalia.com",
+    "phone": "+7 (964) 544-2752"
+  },
+  {
+    "guid": "82f1b30d-243e-4cb7-84a7-0f211b999fbe",
+    "group": "Управление",
+    "position": "Developer",
+    "fullName": "Corrine Horn",
+    "email": "corrinehorn@visalia.com",
+    "phone": "+7 (950) 520-3347"
+  },
+  {
+    "guid": "41f0c464-8cd8-442b-ab7f-a76c8025c24e",
+    "group": "Бухгалтерия",
+    "position": "Developer",
+    "fullName": "Mcleod Thompson",
+    "email": "mcleodthompson@visalia.com",
+    "phone": "+7 (878) 417-2803"
+  },
+  {
+    "guid": "efd3382d-d63c-45b5-9156-8e88bd6c3770",
+    "group": "Дизайнеры",
+    "position": "System administrator",
+    "fullName": "Lorie Garrett",
+    "email": "loriegarrett@visalia.com",
+    "phone": "+7 (946) 585-3532"
+  },
+  {
+    "guid": "1ac621a1-313b-43fc-869e-6bb3f81de23f",
+    "group": "Управление",
+    "position": "CEO",
+    "fullName": "Lenore Newman",
+    "email": "lenorenewman@visalia.com",
+    "phone": "+7 (816) 401-2304"
+  },
+  {
+    "guid": "deb7410a-d407-42b7-bcc1-467d27496307",
+    "group": "Тестирование",
+    "position": "Developer",
+    "fullName": "Sawyer Moreno",
+    "email": "sawyermoreno@visalia.com",
+    "phone": "+7 (868) 571-2837"
+  },
+  {
+    "guid": "9eb86f89-5b8b-4e06-ba41-1b7da5bc81ed",
+    "group": "",
+    "position": "Big boss",
+    "fullName": "Finley Key",
+    "email": "finleykey@visalia.com",
+    "phone": "+7 (850) 472-3718"
+  },
+  {
+    "guid": "bee17af0-bec1-43d5-b5d5-e8491d5f6cfd",
+    "group": "Тестирование",
+    "position": "Developer",
+    "fullName": "Maynard Schmidt",
+    "email": "maynardschmidt@visalia.com",
+    "phone": "+7 (808) 418-3779"
+  },
+  {
+    "guid": "e52e84fc-5b8d-48eb-84d5-cd24465fb961",
+    "group": "Дизайнеры",
+    "position": "Big boss",
+    "fullName": "Amy Colon",
+    "email": "amycolon@visalia.com",
+    "phone": "+7 (921) 484-2442"
+  },
+  {
+    "guid": "e2a9c38f-b60d-49a9-bb58-7544c2fffd60",
+    "group": "",
+    "position": "Manager",
+    "fullName": "Lynda Tanner",
+    "email": "lyndatanner@visalia.com",
+    "phone": "+7 (906) 478-2959"
+  },
+  {
+    "guid": "291f4030-33c2-4079-810e-ec3d0bc2c9eb",
+    "group": "Дизайнеры",
+    "position": "CEO",
+    "fullName": "Campos Thomas",
+    "email": "camposthomas@visalia.com",
+    "phone": "+7 (888) 489-2731"
+  },
+  {
+    "guid": "63db29a4-d381-473a-a60c-09da59f29a16",
+    "group": "",
+    "position": "Accountant",
+    "fullName": "Elnora Richmond",
+    "email": "elnorarichmond@visalia.com",
+    "phone": "+7 (917) 551-3208"
+  },
+  {
+    "guid": "ceeecb17-cea7-4415-835f-7b750ef48fac",
+    "group": "",
+    "position": "System administrator",
+    "fullName": "Mcbride Mcleod",
+    "email": "mcbridemcleod@visalia.com",
+    "phone": "+7 (826) 527-3475"
+  },
+  {
+    "guid": "3dd2dc2b-8be9-4508-bc9c-d037033f1ac0",
+    "group": "Управление",
+    "position": "Big boss",
+    "fullName": "Imelda Duran",
+    "email": "imeldaduran@visalia.com",
+    "phone": "+7 (939) 505-2413"
+  },
+  {
+    "guid": "ffe1327a-44f2-4b31-b295-0cd8634bbc30",
+    "group": "Разработка",
+    "position": "Accountant",
+    "fullName": "Rivera Willis",
+    "email": "riverawillis@visalia.com",
+    "phone": "+7 (915) 547-2219"
+  },
+  {
+    "guid": "f4979b17-7b8d-4646-a3ad-0c8e10ed017a",
+    "group": "",
+    "position": "Developer",
+    "fullName": "Madden Mcfarland",
+    "email": "maddenmcfarland@visalia.com",
+    "phone": "+7 (872) 591-3060"
+  },
+  {
+    "guid": "d8215ff6-673c-4048-8a7c-73c8cf58a353",
+    "group": "",
+    "position": "CEO",
+    "fullName": "Polly Gibson",
+    "email": "pollygibson@visalia.com",
+    "phone": "+7 (940) 440-3443"
+  },
+  {
+    "guid": "9520c4fe-b6e6-47d6-9d4f-4cf28250f5e6",
+    "group": "Разработка",
+    "position": "Manager",
+    "fullName": "Alexander Huff",
+    "email": "alexanderhuff@visalia.com",
+    "phone": "+7 (926) 460-3248"
+  },
+  {
+    "guid": "b42de2fb-1f03-42d2-bcd7-9bb49e383817",
+    "group": "Дизайнеры",
+    "position": "QA",
+    "fullName": "Shannon Kerr",
+    "email": "shannonkerr@visalia.com",
+    "phone": "+7 (812) 449-3008"
+  },
+  {
+    "guid": "88792d6f-e1ec-4454-99c8-e06c2affa44b",
+    "group": "Бухгалтерия",
+    "position": "System administrator",
+    "fullName": "Erin Fields",
+    "email": "erinfields@visalia.com",
+    "phone": "+7 (851) 446-2525"
+  },
+  {
+    "guid": "c283b017-fee1-41ae-8f5c-0eba27a8a8c8",
+    "group": "Управление",
+    "position": "Developer",
+    "fullName": "Patterson York",
+    "email": "pattersonyork@visalia.com",
+    "phone": "+7 (896) 517-3267"
+  },
+  {
+    "guid": "1570eaf5-ec87-4dfd-b545-9dac00393de2",
+    "group": "Тестирование",
+    "position": "CEO",
+    "fullName": "Nieves Briggs",
+    "email": "nievesbriggs@visalia.com",
+    "phone": "+7 (808) 526-2167"
+  },
+  {
+    "guid": "aec61b97-3b3b-4e2a-875f-55315770e24c",
+    "group": "Разработка",
+    "position": "CEO",
+    "fullName": "Stark Salazar",
+    "email": "starksalazar@visalia.com",
+    "phone": "+7 (841) 496-2229"
+  },
+  {
+    "guid": "5bbcb1a7-2490-46ab-9f4f-5bec8f422a31",
+    "group": "Тестирование",
+    "position": "System administrator",
+    "fullName": "Hill Hester",
+    "email": "hillhester@visalia.com",
+    "phone": "+7 (925) 597-2473"
+  },
+  {
+    "guid": "d5a2685c-b7a7-40b1-9aaa-89558a2f509f",
+    "group": "Бухгалтерия",
+    "position": "QA",
+    "fullName": "Newman Pena",
+    "email": "newmanpena@visalia.com",
+    "phone": "+7 (870) 569-2353"
+  },
+  {
+    "guid": "66f0b41e-c971-4723-a241-0de7419d40d8",
+    "group": "Управление",
+    "position": "Manager",
+    "fullName": "Melinda Holland",
+    "email": "melindaholland@visalia.com",
+    "phone": "+7 (802) 480-3642"
+  },
+  {
+    "guid": "be406cb9-fc8c-4bf2-8bdd-35ba264988a1",
+    "group": "Тестирование",
+    "position": "Developer",
+    "fullName": "Bryan Johnston",
+    "email": "bryanjohnston@visalia.com",
+    "phone": "+7 (953) 501-3371"
+  },
+  {
+    "guid": "cee604db-3d26-4f1e-9331-3cfe5994c7d8",
+    "group": "Дизайнеры",
+    "position": "Accountant",
+    "fullName": "Nikki Jackson",
+    "email": "nikkijackson@visalia.com",
+    "phone": "+7 (956) 587-2559"
+  },
+  {
+    "guid": "f5c434c3-e147-43f3-91f5-bdee8a639855",
+    "group": "Разработка",
+    "position": "CEO",
+    "fullName": "Estella Conrad",
+    "email": "estellaconrad@visalia.com",
+    "phone": "+7 (991) 592-3945"
+  },
+  {
+    "guid": "f25a1afa-978e-452d-ac83-b3f210e0a559",
+    "group": "Управление",
+    "position": "Manager",
+    "fullName": "Georgina Hampton",
+    "email": "georginahampton@visalia.com",
+    "phone": "+7 (825) 463-2217"
+  },
+  {
+    "guid": "91227d63-3f7a-4146-8806-43ecdba35416",
+    "group": "Дизайнеры",
+    "position": "QA",
+    "fullName": "Goff Prince",
+    "email": "goffprince@visalia.com",
+    "phone": "+7 (812) 406-3466"
+  },
+  {
+    "guid": "faecdf8c-0d28-489a-adcb-573374c8590d",
+    "group": "Разработка",
+    "position": "Accountant",
+    "fullName": "Marilyn Eaton",
+    "email": "marilyneaton@visalia.com",
+    "phone": "+7 (916) 579-3856"
+  },
+  {
+    "guid": "34678c15-d3df-4e64-ab91-83d5b3d6cc8d",
+    "group": "Тестирование",
+    "position": "Big boss",
+    "fullName": "Higgins Bonner",
+    "email": "higginsbonner@visalia.com",
+    "phone": "+7 (816) 518-2210"
+  },
+  {
+    "guid": "2e48ab73-011b-4277-bff4-66585212e69c",
+    "group": "Бухгалтерия",
+    "position": "Accountant",
+    "fullName": "Parks Madden",
+    "email": "parksmadden@visalia.com",
+    "phone": "+7 (862) 424-3185"
+  },
+  {
+    "guid": "ede19221-db02-4328-9823-4c2962f2a505",
+    "group": "Тестирование",
+    "position": "Big boss",
+    "fullName": "Molly Dunn",
+    "email": "mollydunn@visalia.com",
+    "phone": "+7 (834) 536-3355"
+  },
+  {
+    "guid": "8a066e70-c957-45a2-9149-e1fe893d5969",
+    "group": "Тестирование",
+    "position": "CEO",
+    "fullName": "Sasha Rocha",
+    "email": "sasharocha@visalia.com",
+    "phone": "+7 (996) 479-3118"
+  },
+  {
+    "guid": "df99a02e-7067-4c6e-8d91-bfd4055e4ab8",
+    "group": "Дизайнеры",
+    "position": "Developer",
+    "fullName": "Logan Greene",
+    "email": "logangreene@visalia.com",
+    "phone": "+7 (891) 431-2004"
+  },
+  {
+    "guid": "78c0c834-f8a0-4eb1-99ba-93271334644f",
+    "group": "Бухгалтерия",
+    "position": "QA",
+    "fullName": "Rachael Cooley",
+    "email": "rachaelcooley@visalia.com",
+    "phone": "+7 (967) 551-3995"
+  },
+  {
+    "guid": "e3784ffb-85f5-4d55-a276-a4870fcf9dcd",
+    "group": "",
+    "position": "Manager",
+    "fullName": "Leonard Joyce",
+    "email": "leonardjoyce@visalia.com",
+    "phone": "+7 (927) 512-2503"
+  },
+  {
+    "guid": "8021804f-05d1-4cc5-82c2-f2b64db115c8",
+    "group": "Бухгалтерия",
+    "position": "System administrator",
+    "fullName": "Nielsen Farmer",
+    "email": "nielsenfarmer@visalia.com",
+    "phone": "+7 (904) 420-3766"
+  },
+  {
+    "guid": "783dcab9-700b-4859-85e5-14b3b83b9bb4",
+    "group": "Дизайнеры",
+    "position": "QA",
+    "fullName": "Martin Waller",
+    "email": "martinwaller@visalia.com",
+    "phone": "+7 (876) 531-2561"
+  },
+  {
+    "guid": "3fd2e892-5305-4a53-af44-1c7ab6291b94",
+    "group": "",
+    "position": "CEO",
+    "fullName": "Rose Nielsen",
+    "email": "rosenielsen@visalia.com",
+    "phone": "+7 (968) 438-2538"
+  },
+  {
+    "guid": "01caaed7-5158-4577-879f-4555c9cd5e14",
+    "group": "Дизайнеры",
+    "position": "Manager",
+    "fullName": "Short Gallagher",
+    "email": "shortgallagher@visalia.com",
+    "phone": "+7 (856) 415-3814"
+  },
+  {
+    "guid": "0a46d03e-ea7c-4450-add6-ba345a602067",
+    "group": "Бухгалтерия",
+    "position": "Developer",
+    "fullName": "Kendra Sullivan",
+    "email": "kendrasullivan@visalia.com",
+    "phone": "+7 (818) 454-2747"
+  },
+  {
+    "guid": "48613eac-c3e4-4d3b-a71b-029989362d26",
+    "group": "Разработка",
+    "position": "Accountant",
+    "fullName": "Hooper Dodson",
+    "email": "hooperdodson@visalia.com",
+    "phone": "+7 (920) 558-2948"
+  },
+  {
+    "guid": "723cc946-0763-4e99-8134-776c85449982",
+    "group": "Управление",
+    "position": "Developer",
+    "fullName": "Tania Lott",
+    "email": "tanialott@visalia.com",
+    "phone": "+7 (819) 512-2119"
+  },
+  {
+    "guid": "ab15d6ed-ff87-4881-9743-2c0657845a6b",
+    "group": "Тестирование",
+    "position": "Big boss",
+    "fullName": "Kerri Grimes",
+    "email": "kerrigrimes@visalia.com",
+    "phone": "+7 (870) 494-2665"
+  },
+  {
+    "guid": "0dbc87cc-f95e-4e14-9eeb-54dab1fdce95",
+    "group": "",
+    "position": "QA",
+    "fullName": "June Sims",
+    "email": "junesims@visalia.com",
+    "phone": "+7 (856) 570-2043"
+  },
+  {
+    "guid": "b149e880-4a0e-41cc-b5da-845a61c61fa5",
+    "group": "Тестирование",
+    "position": "CEO",
+    "fullName": "Miranda Vazquez",
+    "email": "mirandavazquez@visalia.com",
+    "phone": "+7 (948) 449-2023"
+  },
+  {
+    "guid": "9629642e-7386-49a8-b690-54ea963ab966",
+    "group": "Разработка",
+    "position": "CEO",
+    "fullName": "Lizzie Crawford",
+    "email": "lizziecrawford@visalia.com",
+    "phone": "+7 (966) 508-2915"
+  },
+  {
+    "guid": "0f124b0f-087a-4b65-9438-93fc8d700e41",
+    "group": "Бухгалтерия",
+    "position": "Big boss",
+    "fullName": "Iva Aguilar",
+    "email": "ivaaguilar@visalia.com",
+    "phone": "+7 (969) 506-2310"
+  },
+  {
+    "guid": "81d44586-e7e8-4473-9f02-91019812a14a",
+    "group": "Бухгалтерия",
+    "position": "QA",
+    "fullName": "Hull Hartman",
+    "email": "hullhartman@visalia.com",
+    "phone": "+7 (926) 517-2910"
+  },
+  {
+    "guid": "feca59c2-4359-4368-a32c-fefcbb598fbf",
+    "group": "Дизайнеры",
+    "position": "CEO",
+    "fullName": "English Whitley",
+    "email": "englishwhitley@visalia.com",
+    "phone": "+7 (826) 563-2304"
+  },
+  {
+    "guid": "ce15f25d-0a6b-4c08-ae82-fda8ae4de972",
+    "group": "Бухгалтерия",
+    "position": "Accountant",
+    "fullName": "Kasey Taylor",
+    "email": "kaseytaylor@visalia.com",
+    "phone": "+7 (869) 570-2748"
+  },
+  {
+    "guid": "5a9acff1-9016-4c49-8890-3ede7c07b53f",
+    "group": "Дизайнеры",
+    "position": "CEO",
+    "fullName": "Pamela Haney",
+    "email": "pamelahaney@visalia.com",
+    "phone": "+7 (828) 589-2892"
+  },
+  {
+    "guid": "f34d0694-5d26-47ad-86ba-f23f834a3e00",
+    "group": "",
+    "position": "Developer",
+    "fullName": "Zamora Hogan",
+    "email": "zamorahogan@visalia.com",
+    "phone": "+7 (960) 563-3435"
+  },
+  {
+    "guid": "2f9f63c3-b86a-4bfa-89f4-92c9fb7f3f75",
+    "group": "Управление",
+    "position": "QA",
+    "fullName": "Maddox Craig",
+    "email": "maddoxcraig@visalia.com",
+    "phone": "+7 (910) 501-2057"
+  },
+  {
+    "guid": "167fa043-2699-4a3c-8cb8-785cfaab98e6",
+    "group": "Дизайнеры",
+    "position": "Developer",
+    "fullName": "Vinson Mccall",
+    "email": "vinsonmccall@visalia.com",
+    "phone": "+7 (901) 500-2297"
+  },
+  {
+    "guid": "161693ce-3ec0-4975-9cd8-36af26988bc7",
+    "group": "Тестирование",
+    "position": "Big boss",
+    "fullName": "John Lamb",
+    "email": "johnlamb@visalia.com",
+    "phone": "+7 (813) 579-2763"
+  },
+  {
+    "guid": "497247fc-455f-440e-8ed8-98c746372792",
+    "group": "Бухгалтерия",
+    "position": "Developer",
+    "fullName": "Mcknight Lloyd",
+    "email": "mcknightlloyd@visalia.com",
+    "phone": "+7 (971) 484-3951"
+  },
+  {
+    "guid": "b09efc55-fe8f-465a-8548-1b60c76b1340",
+    "group": "Тестирование",
+    "position": "System administrator",
+    "fullName": "Tanner Cervantes",
+    "email": "tannercervantes@visalia.com",
+    "phone": "+7 (899) 473-3990"
+  },
+  {
+    "guid": "1236c818-394f-4c77-8939-cf93487817af",
+    "group": "Управление",
+    "position": "QA",
+    "fullName": "Kelly Hoover",
+    "email": "kellyhoover@visalia.com",
+    "phone": "+7 (845) 594-4000"
+  },
+  {
+    "guid": "abd07a5e-4ab1-458b-8ed6-da51a46e30df",
+    "group": "Дизайнеры",
+    "position": "CEO",
+    "fullName": "Lynnette Barron",
+    "email": "lynnettebarron@visalia.com",
+    "phone": "+7 (932) 458-3769"
+  },
+  {
+    "guid": "05937116-e0b0-49aa-a491-b053360bac3d",
+    "group": "Бухгалтерия",
+    "position": "Big boss",
+    "fullName": "Cameron Hinton",
+    "email": "cameronhinton@visalia.com",
+    "phone": "+7 (892) 400-2000"
+  },
+  {
+    "guid": "b1231a9b-6543-433b-b172-907d2db60359",
+    "group": "Дизайнеры",
+    "position": "Accountant",
+    "fullName": "Monique Singleton",
+    "email": "moniquesingleton@visalia.com",
+    "phone": "+7 (925) 459-2595"
+  },
+  {
+    "guid": "af53f4d3-3f87-4a9b-8da3-eb52c4159e59",
+    "group": "Тестирование",
+    "position": "QA",
+    "fullName": "Michael Dale",
+    "email": "michaeldale@visalia.com",
+    "phone": "+7 (845) 486-3902"
+  },
+  {
+    "guid": "36673a46-e724-4275-a6d4-9b21594e0d2b",
+    "group": "Тестирование",
+    "position": "Developer",
+    "fullName": "Shelley Washington",
+    "email": "shelleywashington@visalia.com",
+    "phone": "+7 (949) 465-2084"
+  },
+  {
+    "guid": "72d1a65e-a9a1-4289-8dfa-f44c7dee5842",
+    "group": "Управление",
+    "position": "Big boss",
+    "fullName": "Joseph Richard",
+    "email": "josephrichard@visalia.com",
+    "phone": "+7 (971) 550-3398"
+  },
+  {
+    "guid": "b7208a54-5448-4991-9d42-9254a1278ae9",
+    "group": "Управление",
+    "position": "CEO",
+    "fullName": "Margie Fernandez",
+    "email": "margiefernandez@visalia.com",
+    "phone": "+7 (813) 536-3930"
+  },
+  {
+    "guid": "ee65df7a-5465-45c7-946d-b070b138d973",
+    "group": "Управление",
+    "position": "Accountant",
+    "fullName": "Shannon Mcknight",
+    "email": "shannonmcknight@visalia.com",
+    "phone": "+7 (994) 439-3539"
+  },
+  {
+    "guid": "1dab3c20-90dc-4c66-9256-aaca6f898cab",
+    "group": "",
+    "position": "System administrator",
+    "fullName": "Baldwin Barton",
+    "email": "baldwinbarton@visalia.com",
+    "phone": "+7 (855) 452-3753"
+  },
+  {
+    "guid": "678f3bb8-5567-4cd1-a8d5-b9c4be5326af",
+    "group": "",
+    "position": "Manager",
+    "fullName": "Weeks Compton",
+    "email": "weekscompton@visalia.com",
+    "phone": "+7 (845) 593-3095"
+  },
+  {
+    "guid": "21d54221-5049-4250-8f8f-93028bf4a564",
+    "group": "Разработка",
+    "position": "Manager",
+    "fullName": "Brady Oconnor",
+    "email": "bradyoconnor@visalia.com",
+    "phone": "+7 (832) 576-3354"
+  },
+  {
+    "guid": "6394632d-d917-4199-bc2a-566f54868275",
+    "group": "Разработка",
+    "position": "Big boss",
+    "fullName": "Randall Stark",
+    "email": "randallstark@visalia.com",
+    "phone": "+7 (825) 432-2536"
+  },
+  {
+    "guid": "2f7504db-33b3-45fb-a15d-cee6a192b39a",
+    "group": "Разработка",
+    "position": "Accountant",
+    "fullName": "Casey Sargent",
+    "email": "caseysargent@visalia.com",
+    "phone": "+7 (863) 458-3751"
+  },
+  {
+    "guid": "fa249ec3-2b03-487f-aac0-8077b3f80cf3",
+    "group": "Тестирование",
+    "position": "QA",
+    "fullName": "Fannie Wiggins",
+    "email": "fanniewiggins@visalia.com",
+    "phone": "+7 (902) 517-2614"
+  },
+  {
+    "guid": "9a9d11f6-adec-467f-b580-ba0b965b3621",
+    "group": "Дизайнеры",
+    "position": "Developer",
+    "fullName": "Berry Kidd",
+    "email": "berrykidd@visalia.com",
+    "phone": "+7 (952) 523-2612"
+  },
+  {
+    "guid": "691e2643-11e8-4c22-b695-d9750042c73b",
+    "group": "Бухгалтерия",
+    "position": "System administrator",
+    "fullName": "Anderson Forbes",
+    "email": "andersonforbes@visalia.com",
+    "phone": "+7 (801) 568-3247"
+  },
+  {
+    "guid": "16817aae-a02b-42fb-b40f-effb481d39f4",
+    "group": "Дизайнеры",
+    "position": "QA",
+    "fullName": "Willa Vasquez",
+    "email": "willavasquez@visalia.com",
+    "phone": "+7 (838) 547-3834"
+  },
+  {
+    "guid": "cdabf131-e443-4229-a5f2-09d2d06814b5",
+    "group": "Бухгалтерия",
+    "position": "Manager",
+    "fullName": "Knapp Humphrey",
+    "email": "knapphumphrey@visalia.com",
+    "phone": "+7 (906) 473-3056"
+  },
+  {
+    "guid": "d1af2e21-21ce-416b-8550-ffca95335863",
+    "group": "",
+    "position": "QA",
+    "fullName": "Hurley Mejia",
+    "email": "hurleymejia@visalia.com",
+    "phone": "+7 (993) 450-2041"
+  },
+  {
+    "guid": "64f302b3-8cf5-488c-8ad2-cbb811dfd5ac",
+    "group": "Дизайнеры",
+    "position": "System administrator",
+    "fullName": "Raquel Chavez",
+    "email": "raquelchavez@visalia.com",
+    "phone": "+7 (950) 468-3846"
+  },
+  {
+    "guid": "e06ff4f6-f82f-4496-b6cb-4287cb2c3f06",
+    "group": "Дизайнеры",
+    "position": "Accountant",
+    "fullName": "Wendi Russell",
+    "email": "wendirussell@visalia.com",
+    "phone": "+7 (940) 545-2404"
+  },
+  {
+    "guid": "bf142a15-11dd-4ce8-ab68-5e64a0735db7",
+    "group": "Бухгалтерия",
+    "position": "Big boss",
+    "fullName": "Whitney Wells",
+    "email": "whitneywells@visalia.com",
+    "phone": "+7 (808) 406-3530"
+  },
+  {
+    "guid": "92920873-f787-4874-880f-547578579d56",
+    "group": "Тестирование",
+    "position": "Developer",
+    "fullName": "Dorothy Copeland",
+    "email": "dorothycopeland@visalia.com",
+    "phone": "+7 (946) 485-2327"
+  },
+  {
+    "guid": "11764e39-bb98-4ac4-aba2-2caef07706aa",
+    "group": "Бухгалтерия",
+    "position": "System administrator",
+    "fullName": "Gale Barlow",
+    "email": "galebarlow@visalia.com",
+    "phone": "+7 (837) 411-2563"
+  },
+  {
+    "guid": "47f83707-2ad9-4042-9c0c-a995a52d435a",
+    "group": "",
+    "position": "Developer",
+    "fullName": "Clay Cherry",
+    "email": "claycherry@visalia.com",
+    "phone": "+7 (997) 551-3706"
+  },
+  {
+    "guid": "65c541a6-987f-48ee-a2cd-7f98c61e7c48",
+    "group": "Управление",
+    "position": "Accountant",
+    "fullName": "Abbott Miles",
+    "email": "abbottmiles@visalia.com",
+    "phone": "+7 (900) 578-3160"
+  },
+  {
+    "guid": "e586e121-b615-485d-b679-6376d13ed964",
+    "group": "",
+    "position": "System administrator",
+    "fullName": "Cross Clemons",
+    "email": "crossclemons@visalia.com",
+    "phone": "+7 (981) 514-3244"
+  },
+  {
+    "guid": "e619ff82-0ce7-423b-a478-aefed601b2f0",
+    "group": "Бухгалтерия",
+    "position": "System administrator",
+    "fullName": "Stafford Adams",
+    "email": "staffordadams@visalia.com",
+    "phone": "+7 (842) 508-3283"
+  },
+  {
+    "guid": "95e435f0-337f-4144-bb45-171b6beed13e",
+    "group": "Бухгалтерия",
+    "position": "QA",
+    "fullName": "Simpson Molina",
+    "email": "simpsonmolina@visalia.com",
+    "phone": "+7 (921) 551-2601"
+  },
+  {
+    "guid": "3cf3a631-7222-4b94-8532-a582843015b7",
+    "group": "Дизайнеры",
+    "position": "Big boss",
+    "fullName": "Mildred Johnson",
+    "email": "mildredjohnson@visalia.com",
+    "phone": "+7 (926) 520-2319"
+  },
+  {
+    "guid": "859df874-7bbe-45b6-8cfb-f525d7546896",
+    "group": "Бухгалтерия",
+    "position": "Big boss",
+    "fullName": "Delores Yang",
+    "email": "deloresyang@visalia.com",
+    "phone": "+7 (807) 462-3228"
+  },
+  {
+    "guid": "fcdc6736-9a7e-40ea-b945-7ad3140da688",
+    "group": "",
+    "position": "Accountant",
+    "fullName": "Araceli Harrell",
+    "email": "araceliharrell@visalia.com",
+    "phone": "+7 (926) 461-2921"
+  },
+  {
+    "guid": "c250b243-56e4-4779-9e9d-be88692293ee",
+    "group": "Бухгалтерия",
+    "position": "QA",
+    "fullName": "Madeleine Rhodes",
+    "email": "madeleinerhodes@visalia.com",
+    "phone": "+7 (965) 474-2485"
+  },
+  {
+    "guid": "dbe6655f-fa94-476c-aacb-a4104ce3b46a",
+    "group": "Разработка",
+    "position": "Big boss",
+    "fullName": "Dionne Tran",
+    "email": "dionnetran@visalia.com",
+    "phone": "+7 (865) 449-3924"
+  },
+  {
+    "guid": "053f438e-271d-447e-9240-266cb88fb121",
+    "group": "Дизайнеры",
+    "position": "CEO",
+    "fullName": "Levine Mcintosh",
+    "email": "levinemcintosh@visalia.com",
+    "phone": "+7 (891) 568-3613"
+  },
+  {
+    "guid": "f490f0f9-5ce0-4c09-b8b2-251a52d3800a",
+    "group": "Тестирование",
+    "position": "Accountant",
+    "fullName": "Tamara Preston",
+    "email": "tamarapreston@visalia.com",
+    "phone": "+7 (941) 483-2105"
+  },
+  {
+    "guid": "00dbfb22-7075-422f-87c8-8ff940a54d33",
+    "group": "",
+    "position": "System administrator",
+    "fullName": "Hutchinson Hancock",
+    "email": "hutchinsonhancock@visalia.com",
+    "phone": "+7 (985) 440-2637"
+  },
+  {
+    "guid": "83f016b2-00b1-42bf-8ab2-a197eeb57ef0",
+    "group": "Тестирование",
+    "position": "Manager",
+    "fullName": "Key Kirkland",
+    "email": "keykirkland@visalia.com",
+    "phone": "+7 (865) 507-2561"
+  },
+  {
+    "guid": "caeb53d5-6667-49ff-8cec-c01ca88b4c7e",
+    "group": "Бухгалтерия",
+    "position": "Big boss",
+    "fullName": "Jennings Thornton",
+    "email": "jenningsthornton@visalia.com",
+    "phone": "+7 (985) 507-3298"
+  },
+  {
+    "guid": "57f15b8c-07ef-46a5-9ca9-7055bba0e0bb",
+    "group": "Дизайнеры",
+    "position": "Accountant",
+    "fullName": "Beulah Kennedy",
+    "email": "beulahkennedy@visalia.com",
+    "phone": "+7 (913) 486-3841"
+  },
+  {
+    "guid": "4aab7dfe-6b21-46b1-a7d0-c829f7d0e335",
+    "group": "",
+    "position": "CEO",
+    "fullName": "Barker Schultz",
+    "email": "barkerschultz@visalia.com",
+    "phone": "+7 (948) 591-2193"
+  },
+  {
+    "guid": "cc886518-346f-48e6-96d9-d3ee74e14466",
+    "group": "Тестирование",
+    "position": "Accountant",
+    "fullName": "Barry Lawrence",
+    "email": "barrylawrence@visalia.com",
+    "phone": "+7 (901) 423-3377"
+  },
+  {
+    "guid": "01fe06f5-c75a-4c6c-8001-0b8ef4d6baec",
+    "group": "Разработка",
+    "position": "System administrator",
+    "fullName": "Ballard Shields",
+    "email": "ballardshields@visalia.com",
+    "phone": "+7 (854) 578-3287"
+  },
+  {
+    "guid": "0ad37325-14a6-4249-bc47-db56f7badb37",
+    "group": "Управление",
+    "position": "Developer",
+    "fullName": "Osborne Dalton",
+    "email": "osbornedalton@visalia.com",
+    "phone": "+7 (898) 526-3645"
+  },
+  {
+    "guid": "be19e490-85a9-4cce-94e3-ab66b7561163",
+    "group": "Управление",
+    "position": "System administrator",
+    "fullName": "Wood Trujillo",
+    "email": "woodtrujillo@visalia.com",
+    "phone": "+7 (913) 553-2941"
+  },
+  {
+    "guid": "2d07f244-649c-479b-ba86-e2b4cdd3ef66",
+    "group": "Разработка",
+    "position": "CEO",
+    "fullName": "Ellison Griffith",
+    "email": "ellisongriffith@visalia.com",
+    "phone": "+7 (976) 420-2130"
+  },
+  {
+    "guid": "3b4a751d-5097-4011-ae52-d6cb89ff598d",
+    "group": "Бухгалтерия",
+    "position": "Developer",
+    "fullName": "Barron Mcguire",
+    "email": "barronmcguire@visalia.com",
+    "phone": "+7 (955) 499-3028"
+  },
+  {
+    "guid": "3915870d-d91f-4cd7-9b94-f8b32d17c96c",
+    "group": "Управление",
+    "position": "QA",
+    "fullName": "Rivers Bradford",
+    "email": "riversbradford@visalia.com",
+    "phone": "+7 (856) 543-2157"
+  },
+  {
+    "guid": "8c029072-4c69-4b8e-b5a2-5172d1554e0a",
+    "group": "Бухгалтерия",
+    "position": "Manager",
+    "fullName": "Armstrong Bauer",
+    "email": "armstrongbauer@visalia.com",
+    "phone": "+7 (992) 578-3757"
+  },
+  {
+    "guid": "fa2d4682-2643-4b7b-a4e7-a04681e3e974",
+    "group": "Дизайнеры",
+    "position": "CEO",
+    "fullName": "Ford Stephenson",
+    "email": "fordstephenson@visalia.com",
+    "phone": "+7 (993) 579-3678"
+  },
+  {
+    "guid": "e0f213e5-eb35-4525-b5c1-e6d1ea7ef7c3",
+    "group": "",
+    "position": "CEO",
+    "fullName": "Joy Alford",
+    "email": "joyalford@visalia.com",
+    "phone": "+7 (870) 527-2124"
+  },
+  {
+    "guid": "030b611f-440a-41b2-9c54-a5422a2900c6",
+    "group": "Дизайнеры",
+    "position": "Big boss",
+    "fullName": "Conner English",
+    "email": "connerenglish@visalia.com",
+    "phone": "+7 (903) 567-3759"
+  },
+  {
+    "guid": "41f39f0b-5dba-4d01-9a81-de6694cc1e5c",
+    "group": "Бухгалтерия",
+    "position": "Manager",
+    "fullName": "Dianne Hickman",
+    "email": "diannehickman@visalia.com",
+    "phone": "+7 (816) 528-3010"
+  },
+  {
+    "guid": "883a134c-ea2d-4086-897e-d25d30bb440c",
+    "group": "",
+    "position": "Developer",
+    "fullName": "Hamilton Ferrell",
+    "email": "hamiltonferrell@visalia.com",
+    "phone": "+7 (857) 512-3334"
+  },
+  {
+    "guid": "9a88549b-2a69-4566-afa0-e922c30837b3",
+    "group": "Бухгалтерия",
+    "position": "Accountant",
+    "fullName": "Bowers Henry",
+    "email": "bowershenry@visalia.com",
+    "phone": "+7 (801) 463-3996"
+  },
+  {
+    "guid": "571c4a74-adb2-4d7d-be65-a5c916b9bc69",
+    "group": "Тестирование",
+    "position": "Accountant",
+    "fullName": "Florine Oneil",
+    "email": "florineoneil@visalia.com",
+    "phone": "+7 (884) 547-2094"
+  },
+  {
+    "guid": "2ff65be9-dc3c-42a9-b1bc-83ee2e02f60d",
+    "group": "Управление",
+    "position": "CEO",
+    "fullName": "Effie Small",
+    "email": "effiesmall@visalia.com",
+    "phone": "+7 (987) 456-3062"
+  },
+  {
+    "guid": "ce2870d7-5fb5-4a22-b578-bf7c71655d96",
+    "group": "",
+    "position": "Developer",
+    "fullName": "Ann Wall",
+    "email": "annwall@visalia.com",
+    "phone": "+7 (999) 454-3362"
+  },
+  {
+    "guid": "00c81d31-7140-4f02-b9f2-f91e786b91ea",
+    "group": "Тестирование",
+    "position": "CEO",
+    "fullName": "Tammy Marks",
+    "email": "tammymarks@visalia.com",
+    "phone": "+7 (843) 456-3879"
+  },
+  {
+    "guid": "758ee841-954e-4fc0-8b25-063b778836e1",
+    "group": "Тестирование",
+    "position": "Big boss",
+    "fullName": "Farmer Pierce",
+    "email": "farmerpierce@visalia.com",
+    "phone": "+7 (997) 425-2163"
+  },
+  {
+    "guid": "8aafbfb5-c3fb-4a30-8b49-9c79de8a23a0",
+    "group": "Бухгалтерия",
+    "position": "Big boss",
+    "fullName": "Atkins Jennings",
+    "email": "atkinsjennings@visalia.com",
+    "phone": "+7 (865) 502-2209"
+  },
+  {
+    "guid": "27c765e2-4c94-4c98-be04-5e934f63f73f",
+    "group": "Разработка",
+    "position": "Big boss",
+    "fullName": "Lorene Harrington",
+    "email": "loreneharrington@visalia.com",
+    "phone": "+7 (890) 590-3546"
+  },
+  {
+    "guid": "06d7a29d-dcab-49e4-965c-8d4f47c85871",
+    "group": "",
+    "position": "CEO",
+    "fullName": "Claudia May",
+    "email": "claudiamay@visalia.com",
+    "phone": "+7 (915) 571-2941"
+  },
+  {
+    "guid": "94ac9945-8f94-499d-b3af-8556f67709f1",
+    "group": "Тестирование",
+    "position": "Developer",
+    "fullName": "Chris Robbins",
+    "email": "chrisrobbins@visalia.com",
+    "phone": "+7 (897) 535-3402"
+  },
+  {
+    "guid": "03038b50-cb4c-4952-b2e2-d62ff2880f7e",
+    "group": "Тестирование",
+    "position": "CEO",
+    "fullName": "Meredith Case",
+    "email": "meredithcase@visalia.com",
+    "phone": "+7 (978) 597-3465"
+  },
+  {
+    "guid": "6b54fb61-c94a-471e-8e6b-ee9660f3c62f",
+    "group": "Тестирование",
+    "position": "Manager",
+    "fullName": "Randi Savage",
+    "email": "randisavage@visalia.com",
+    "phone": "+7 (895) 406-2979"
+  },
+  {
+    "guid": "4b3c89fd-9ae8-48e7-a4ae-38efae9414c6",
+    "group": "Управление",
+    "position": "Manager",
+    "fullName": "Angel Sawyer",
+    "email": "angelsawyer@visalia.com",
+    "phone": "+7 (843) 460-2731"
+  },
+  {
+    "guid": "54ba4947-4091-4192-8c74-12b32f863fff",
+    "group": "Тестирование",
+    "position": "Developer",
+    "fullName": "Myrtle Cabrera",
+    "email": "myrtlecabrera@visalia.com",
+    "phone": "+7 (838) 424-3820"
+  },
+  {
+    "guid": "7aa024fa-c992-482e-8d53-2513f9e8f102",
+    "group": "Разработка",
+    "position": "Big boss",
+    "fullName": "Leanne Duffy",
+    "email": "leanneduffy@visalia.com",
+    "phone": "+7 (917) 488-2384"
+  },
+  {
+    "guid": "db809741-e2f4-4802-91cc-4397c54ae4dc",
+    "group": "Дизайнеры",
+    "position": "Big boss",
+    "fullName": "Mcclain Keith",
+    "email": "mcclainkeith@visalia.com",
+    "phone": "+7 (871) 496-3231"
+  },
+  {
+    "guid": "59f149dc-c295-450c-af7a-69837cbc67b0",
+    "group": "Бухгалтерия",
+    "position": "QA",
+    "fullName": "Wilma Pennington",
+    "email": "wilmapennington@visalia.com",
+    "phone": "+7 (944) 401-2128"
+  },
+  {
+    "guid": "0831fa21-4205-4ecf-b7fe-4a63c7f866ad",
+    "group": "Бухгалтерия",
+    "position": "CEO",
+    "fullName": "Clarice Snyder",
+    "email": "claricesnyder@visalia.com",
+    "phone": "+7 (808) 435-3017"
+  },
+  {
+    "guid": "2824383e-1e2b-4b73-9b28-bf777baeed2b",
+    "group": "Бухгалтерия",
+    "position": "QA",
+    "fullName": "Juliana Guerrero",
+    "email": "julianaguerrero@visalia.com",
+    "phone": "+7 (807) 477-3228"
+  },
+  {
+    "guid": "14f3804d-9260-46fb-9a03-7d7b265b67e5",
+    "group": "Управление",
+    "position": "Accountant",
+    "fullName": "Ortega Heath",
+    "email": "ortegaheath@visalia.com",
+    "phone": "+7 (992) 589-3917"
+  },
+  {
+    "guid": "aab07a54-59a7-4dba-87f0-ea0d80e3c862",
+    "group": "Разработка",
+    "position": "Developer",
+    "fullName": "Kirby Rios",
+    "email": "kirbyrios@visalia.com",
+    "phone": "+7 (872) 436-2889"
+  },
+  {
+    "guid": "e301902a-f4fb-4be4-8f69-e67f0dee8170",
+    "group": "Управление",
+    "position": "Manager",
+    "fullName": "Diane Buckley",
+    "email": "dianebuckley@visalia.com",
+    "phone": "+7 (915) 481-3863"
+  },
+  {
+    "guid": "013b6d2d-df26-4a99-a854-76fb61a2cd1c",
+    "group": "Бухгалтерия",
+    "position": "CEO",
+    "fullName": "Tammie Lyons",
+    "email": "tammielyons@visalia.com",
+    "phone": "+7 (979) 432-2480"
+  },
+  {
+    "guid": "53720bb9-325f-40b6-9ace-51fe82ce3b55",
+    "group": "Разработка",
+    "position": "Big boss",
+    "fullName": "Andrews Yates",
+    "email": "andrewsyates@visalia.com",
+    "phone": "+7 (936) 548-3215"
+  },
+  {
+    "guid": "c4345cf5-8db6-406e-8f0d-37183567960b",
+    "group": "Дизайнеры",
+    "position": "System administrator",
+    "fullName": "Natalie Burton",
+    "email": "natalieburton@visalia.com",
+    "phone": "+7 (948) 484-2189"
+  },
+  {
+    "guid": "b0c890bc-1091-404b-9b0b-435a2137bb6f",
+    "group": "Тестирование",
+    "position": "QA",
+    "fullName": "Ida Gilliam",
+    "email": "idagilliam@visalia.com",
+    "phone": "+7 (918) 578-3291"
+  },
+  {
+    "guid": "b65b1c0a-f200-4f00-a4da-96df7fbe872e",
+    "group": "Разработка",
+    "position": "Developer",
+    "fullName": "Zelma Weeks",
+    "email": "zelmaweeks@visalia.com",
+    "phone": "+7 (991) 460-3465"
+  },
+  {
+    "guid": "c7cc07e2-69b3-49fb-9ef6-468a39425b0a",
+    "group": "Управление",
+    "position": "Accountant",
+    "fullName": "Sullivan Reilly",
+    "email": "sullivanreilly@visalia.com",
+    "phone": "+7 (858) 450-3894"
+  },
+  {
+    "guid": "8f468bca-eb4b-4bab-9b7c-d38c1c558768",
+    "group": "",
+    "position": "Developer",
+    "fullName": "Kenya Gibbs",
+    "email": "kenyagibbs@visalia.com",
+    "phone": "+7 (854) 543-2885"
+  },
+  {
+    "guid": "1b9f764e-7182-4dd8-be3f-7e7c93cb2d22",
+    "group": "Управление",
+    "position": "Accountant",
+    "fullName": "Lilian Howard",
+    "email": "lilianhoward@visalia.com",
+    "phone": "+7 (960) 486-3582"
+  },
+  {
+    "guid": "cf3924fd-6066-4437-9348-15afaad71a30",
+    "group": "Бухгалтерия",
+    "position": "CEO",
+    "fullName": "Leta Sanchez",
+    "email": "letasanchez@visalia.com",
+    "phone": "+7 (936) 428-2383"
+  },
+  {
+    "guid": "7c7b5709-063b-43d1-bf76-baab47b92e7e",
+    "group": "Управление",
+    "position": "Accountant",
+    "fullName": "Garner Ashley",
+    "email": "garnerashley@visalia.com",
+    "phone": "+7 (945) 465-3511"
+  },
+  {
+    "guid": "b2c7b6b1-7479-4b15-95b5-dc4c2567ce4e",
+    "group": "Тестирование",
+    "position": "QA",
+    "fullName": "Teri Haynes",
+    "email": "terihaynes@visalia.com",
+    "phone": "+7 (854) 498-3386"
+  },
+  {
+    "guid": "3a2bdd3a-97ab-446c-aa48-a7229b915ed3",
+    "group": "Дизайнеры",
+    "position": "System administrator",
+    "fullName": "Annabelle Hayden",
+    "email": "annabellehayden@visalia.com",
+    "phone": "+7 (888) 538-3100"
+  },
+  {
+    "guid": "cb6373b4-a363-4824-9f4c-8ebec8502183",
+    "group": "Бухгалтерия",
+    "position": "System administrator",
+    "fullName": "Carpenter Everett",
+    "email": "carpentereverett@visalia.com",
+    "phone": "+7 (907) 556-2653"
+  },
+  {
+    "guid": "03fd1974-26d0-4909-8a77-61f0b5607990",
+    "group": "Управление",
+    "position": "Manager",
+    "fullName": "Maxine Garza",
+    "email": "maxinegarza@visalia.com",
+    "phone": "+7 (854) 554-3175"
+  },
+  {
+    "guid": "58dec727-bbe2-4266-987c-873c3d4a8160",
+    "group": "Бухгалтерия",
+    "position": "Big boss",
+    "fullName": "Rochelle Sweeney",
+    "email": "rochellesweeney@visalia.com",
+    "phone": "+7 (875) 413-2461"
+  },
+  {
+    "guid": "aad83787-3ba1-484a-a7e5-6da765dbd055",
+    "group": "Управление",
+    "position": "QA",
+    "fullName": "Reynolds Blake",
+    "email": "reynoldsblake@visalia.com",
+    "phone": "+7 (851) 429-2815"
+  },
+  {
+    "guid": "8c2efae1-959e-45db-b6d0-e6551ef85cc6",
+    "group": "",
+    "position": "Manager",
+    "fullName": "Kathie Holloway",
+    "email": "kathieholloway@visalia.com",
+    "phone": "+7 (842) 461-2946"
+  },
+  {
+    "guid": "986aa378-f29b-485f-b190-2b169c19a11c",
+    "group": "Бухгалтерия",
+    "position": "QA",
+    "fullName": "Latoya Head",
+    "email": "latoyahead@visalia.com",
+    "phone": "+7 (921) 484-3474"
+  },
+  {
+    "guid": "aa549482-cf00-4464-adbb-d98fe1d57354",
+    "group": "Тестирование",
+    "position": "Developer",
+    "fullName": "Jeanine Phillips",
+    "email": "jeaninephillips@visalia.com",
+    "phone": "+7 (976) 424-2316"
+  },
+  {
+    "guid": "52db83bb-1e63-43f9-a560-7bf2c2f5475c",
+    "group": "",
+    "position": "Accountant",
+    "fullName": "Jenkins Hines",
+    "email": "jenkinshines@visalia.com",
+    "phone": "+7 (905) 448-2941"
+  },
+  {
+    "guid": "45243146-abc1-4914-a4fc-cb1c3fe1c43a",
+    "group": "Тестирование",
+    "position": "Developer",
+    "fullName": "Fitzpatrick Carver",
+    "email": "fitzpatrickcarver@visalia.com",
+    "phone": "+7 (931) 501-3566"
+  },
+  {
+    "guid": "922694e9-3d0b-4320-b61e-ff97b62cf5a9",
+    "group": "Тестирование",
+    "position": "Big boss",
+    "fullName": "Lilia Chase",
+    "email": "liliachase@visalia.com",
+    "phone": "+7 (978) 460-2497"
+  },
+  {
+    "guid": "d5db7a46-a915-48d4-b303-7c641d3bec4c",
+    "group": "Тестирование",
+    "position": "Manager",
+    "fullName": "Noel Strong",
+    "email": "noelstrong@visalia.com",
+    "phone": "+7 (952) 600-2348"
+  },
+  {
+    "guid": "7b9a3169-8c8c-46f8-b4dd-c4385bc7e826",
+    "group": "Управление",
+    "position": "Manager",
+    "fullName": "Nettie Mccormick",
+    "email": "nettiemccormick@visalia.com",
+    "phone": "+7 (962) 478-3209"
+  },
+  {
+    "guid": "dc16d887-ac0e-41db-ac28-91e5e714f4c5",
+    "group": "Дизайнеры",
+    "position": "QA",
+    "fullName": "Elisabeth Murray",
+    "email": "elisabethmurray@visalia.com",
+    "phone": "+7 (968) 503-3371"
+  },
+  {
+    "guid": "aaa34c89-6966-47c0-bcdd-d3f684806c35",
+    "group": "Дизайнеры",
+    "position": "System administrator",
+    "fullName": "Burns Woodward",
+    "email": "burnswoodward@visalia.com",
+    "phone": "+7 (995) 593-3734"
+  },
+  {
+    "guid": "dea260b0-dafa-488f-9200-b975ee8c4c39",
+    "group": "Бухгалтерия",
+    "position": "QA",
+    "fullName": "Rena Riddle",
+    "email": "renariddle@visalia.com",
+    "phone": "+7 (946) 444-3584"
+  },
+  {
+    "guid": "dcaf7f0c-6e1a-4877-af16-c023e3014505",
+    "group": "Тестирование",
+    "position": "Manager",
+    "fullName": "Sims Gill",
+    "email": "simsgill@visalia.com",
+    "phone": "+7 (875) 574-3167"
+  },
+  {
+    "guid": "e4ca2078-60ba-4200-b934-22cd4263e393",
+    "group": "Разработка",
+    "position": "Developer",
+    "fullName": "Marshall Bryant",
+    "email": "marshallbryant@visalia.com",
+    "phone": "+7 (985) 422-3461"
+  },
+  {
+    "guid": "d7d5c641-a32f-4d43-b5e8-2b73813dda40",
+    "group": "Разработка",
+    "position": "Accountant",
+    "fullName": "Allen Mitchell",
+    "email": "allenmitchell@visalia.com",
+    "phone": "+7 (991) 545-2917"
+  },
+  {
+    "guid": "d5ccf390-7970-4990-af12-66d35b9f29ea",
+    "group": "Разработка",
+    "position": "CEO",
+    "fullName": "Saundra Carter",
+    "email": "saundracarter@visalia.com",
+    "phone": "+7 (975) 543-3705"
+  },
+  {
+    "guid": "7505bccb-5c2c-467a-a9e1-de969426c09d",
+    "group": "Разработка",
+    "position": "Manager",
+    "fullName": "Boyer Keller",
+    "email": "boyerkeller@visalia.com",
+    "phone": "+7 (835) 588-2562"
+  },
+  {
+    "guid": "49341b54-896c-4626-81e5-c2f8180a5f71",
+    "group": "",
+    "position": "CEO",
+    "fullName": "Fisher Caldwell",
+    "email": "fishercaldwell@visalia.com",
+    "phone": "+7 (974) 570-3122"
+  },
+  {
+    "guid": "db2ec388-37b6-4ec3-b8fa-2a2b613f238d",
+    "group": "",
+    "position": "System administrator",
+    "fullName": "Tracy Bray",
+    "email": "tracybray@visalia.com",
+    "phone": "+7 (960) 433-2968"
+  },
+  {
+    "guid": "49d3bef7-2a08-4b0a-ad9e-8d473b21a120",
+    "group": "Тестирование",
+    "position": "QA",
+    "fullName": "Dennis Lynch",
+    "email": "dennislynch@visalia.com",
+    "phone": "+7 (933) 581-2049"
+  },
+  {
+    "guid": "604ded09-0cb6-42ec-bb2c-712afbc141f6",
+    "group": "Управление",
+    "position": "Accountant",
+    "fullName": "Janelle Wallace",
+    "email": "janellewallace@visalia.com",
+    "phone": "+7 (908) 504-3180"
+  },
+  {
+    "guid": "d249ea5a-d69e-46b5-a217-23760cff95e2",
+    "group": "Разработка",
+    "position": "QA",
+    "fullName": "Jaime Estrada",
+    "email": "jaimeestrada@visalia.com",
+    "phone": "+7 (971) 584-2832"
+  },
+  {
+    "guid": "5f0b3ee2-3897-49b8-80a9-f3d65446aef8",
+    "group": "Управление",
+    "position": "QA",
+    "fullName": "Tamra Knowles",
+    "email": "tamraknowles@visalia.com",
+    "phone": "+7 (832) 416-3282"
+  },
+  {
+    "guid": "51162a00-6b9d-4c21-b528-915902269b76",
+    "group": "Дизайнеры",
+    "position": "Developer",
+    "fullName": "Floyd Velez",
+    "email": "floydvelez@visalia.com",
+    "phone": "+7 (998) 490-3901"
+  },
+  {
+    "guid": "3854b32d-5e5d-4f9e-aef6-0dbd276ce8d6",
+    "group": "Разработка",
+    "position": "System administrator",
+    "fullName": "Morin Byrd",
+    "email": "morinbyrd@visalia.com",
+    "phone": "+7 (822) 585-3266"
+  },
+  {
+    "guid": "31fa56c6-1656-4744-b2d5-07f7d8b3ce91",
+    "group": "Дизайнеры",
+    "position": "Developer",
+    "fullName": "Miranda Goodwin",
+    "email": "mirandagoodwin@visalia.com",
+    "phone": "+7 (899) 532-2769"
+  },
+  {
+    "guid": "f073f98d-1681-4f14-8f31-d77a33a0b745",
+    "group": "Тестирование",
+    "position": "QA",
+    "fullName": "Socorro Zimmerman",
+    "email": "socorrozimmerman@visalia.com",
+    "phone": "+7 (912) 514-2475"
+  },
+  {
+    "guid": "045b836a-7c4c-4e12-8b04-5c9d7b3c9519",
+    "group": "Бухгалтерия",
+    "position": "Developer",
+    "fullName": "Avis Hunter",
+    "email": "avishunter@visalia.com",
+    "phone": "+7 (912) 491-2353"
+  },
+  {
+    "guid": "05484591-d0ba-430a-b237-6f1b6fd9c132",
+    "group": "Разработка",
+    "position": "Developer",
+    "fullName": "Mccarthy Harvey",
+    "email": "mccarthyharvey@visalia.com",
+    "phone": "+7 (984) 534-3575"
+  },
+  {
+    "guid": "b8a0d8cc-ac89-4f84-a4b2-3f8c837f2754",
+    "group": "Разработка",
+    "position": "Developer",
+    "fullName": "Robyn Acosta",
+    "email": "robynacosta@visalia.com",
+    "phone": "+7 (939) 576-3131"
+  },
+  {
+    "guid": "3fd4c518-8004-46a2-91dc-067cd3bad022",
+    "group": "Дизайнеры",
+    "position": "QA",
+    "fullName": "Lessie Simmons",
+    "email": "lessiesimmons@visalia.com",
+    "phone": "+7 (861) 403-3598"
+  },
+  {
+    "guid": "6bd77c72-0c87-4c62-a552-bef73232d9e9",
+    "group": "Тестирование",
+    "position": "Big boss",
+    "fullName": "Cathy Cochran",
+    "email": "cathycochran@visalia.com",
+    "phone": "+7 (859) 572-3450"
+  },
+  {
+    "guid": "46c6c2f7-b8f7-4389-bc08-424368f6155f",
+    "group": "",
+    "position": "Manager",
+    "fullName": "Katina Morton",
+    "email": "katinamorton@visalia.com",
+    "phone": "+7 (913) 441-3145"
+  },
+  {
+    "guid": "6de45da3-7ea3-4f4c-9b9d-e97a2f90ec01",
+    "group": "",
+    "position": "Accountant",
+    "fullName": "Rocha Short",
+    "email": "rochashort@visalia.com",
+    "phone": "+7 (893) 482-2198"
+  },
+  {
+    "guid": "85aea4f8-bed9-496c-be11-8b098baf2940",
+    "group": "Разработка",
+    "position": "Manager",
+    "fullName": "Amalia Wong",
+    "email": "amaliawong@visalia.com",
+    "phone": "+7 (916) 594-3822"
+  },
+  {
+    "guid": "25b8a7a7-7e7b-4e0d-a23d-4d5e13640197",
+    "group": "Бухгалтерия",
+    "position": "CEO",
+    "fullName": "Lacy Koch",
+    "email": "lacykoch@visalia.com",
+    "phone": "+7 (963) 469-3648"
+  },
+  {
+    "guid": "c1fd1eff-6a6e-4f83-be79-90b757247547",
+    "group": "Тестирование",
+    "position": "Big boss",
+    "fullName": "Pearlie Knight",
+    "email": "pearlieknight@visalia.com",
+    "phone": "+7 (927) 520-3542"
+  },
+  {
+    "guid": "bb6f775a-10cb-4dfe-ba2c-e9fab546e3b8",
+    "group": "",
+    "position": "CEO",
+    "fullName": "Opal Mcgee",
+    "email": "opalmcgee@visalia.com",
+    "phone": "+7 (836) 563-3908"
+  },
+  {
+    "guid": "6b1f0465-9b04-4658-8ee6-2164cfb3746c",
+    "group": "Тестирование",
+    "position": "CEO",
+    "fullName": "Weiss Kane",
+    "email": "weisskane@visalia.com",
+    "phone": "+7 (811) 561-2366"
+  },
+  {
+    "guid": "31c57eee-5d2d-4d9e-9dc7-2859d744e62e",
+    "group": "Управление",
+    "position": "Big boss",
+    "fullName": "Isabel Buckner",
+    "email": "isabelbuckner@visalia.com",
+    "phone": "+7 (878) 414-3178"
+  },
+  {
+    "guid": "73b81dc1-d90c-4ef7-b3e3-79c326619677",
+    "group": "Дизайнеры",
+    "position": "Developer",
+    "fullName": "Becky Osborn",
+    "email": "beckyosborn@visalia.com",
+    "phone": "+7 (887) 496-3548"
+  },
+  {
+    "guid": "99c1589f-eea7-4e25-8e98-65976115dc4a",
+    "group": "Управление",
+    "position": "Big boss",
+    "fullName": "Alvarez Guzman",
+    "email": "alvarezguzman@visalia.com",
+    "phone": "+7 (866) 511-2365"
+  },
+  {
+    "guid": "72540bb7-a573-4f7f-9e36-9252c42ac74f",
+    "group": "Бухгалтерия",
+    "position": "Manager",
+    "fullName": "Joni Ramirez",
+    "email": "joniramirez@visalia.com",
+    "phone": "+7 (996) 571-2341"
+  },
+  {
+    "guid": "7652c361-0924-47d2-ae20-00e4c2d3e039",
+    "group": "Разработка",
+    "position": "Big boss",
+    "fullName": "Davidson Ingram",
+    "email": "davidsoningram@visalia.com",
+    "phone": "+7 (963) 573-3067"
+  },
+  {
+    "guid": "63c622ce-c912-4f31-bc3e-144c529eb4d4",
+    "group": "",
+    "position": "CEO",
+    "fullName": "Glover Pratt",
+    "email": "gloverpratt@visalia.com",
+    "phone": "+7 (880) 556-3138"
+  },
+  {
+    "guid": "9b7044a7-aa7d-4d6d-b4b2-00964aa0ee82",
+    "group": "Разработка",
+    "position": "Accountant",
+    "fullName": "Rhoda Nieves",
+    "email": "rhodanieves@visalia.com",
+    "phone": "+7 (918) 530-2851"
+  },
+  {
+    "guid": "a3c2d1fb-3323-4953-a3ae-67f8c6238a89",
+    "group": "Тестирование",
+    "position": "System administrator",
+    "fullName": "Trevino Guy",
+    "email": "trevinoguy@visalia.com",
+    "phone": "+7 (935) 523-2676"
+  },
+  {
+    "guid": "521021d4-a83c-4859-8046-41b1df304fbe",
+    "group": "Разработка",
+    "position": "System administrator",
+    "fullName": "Ross Collier",
+    "email": "rosscollier@visalia.com",
+    "phone": "+7 (874) 568-2679"
+  },
+  {
+    "guid": "e6d03c81-9806-46a9-9ea0-f2a3610b22a1",
+    "group": "",
+    "position": "Developer",
+    "fullName": "Clayton Bass",
+    "email": "claytonbass@visalia.com",
+    "phone": "+7 (893) 527-2063"
+  },
+  {
+    "guid": "906ca1fe-2f11-41c6-9949-c20071774405",
+    "group": "Дизайнеры",
+    "position": "Developer",
+    "fullName": "Hampton Jacobs",
+    "email": "hamptonjacobs@visalia.com",
+    "phone": "+7 (868) 563-2219"
+  },
+  {
+    "guid": "b887295d-4685-4fc3-9b81-31404ce2d919",
+    "group": "Бухгалтерия",
+    "position": "Accountant",
+    "fullName": "Josephine Bird",
+    "email": "josephinebird@visalia.com",
+    "phone": "+7 (999) 586-3051"
+  },
+  {
+    "guid": "10b37964-7e53-4c34-88a4-67aaf5ce71b8",
+    "group": "Дизайнеры",
+    "position": "System administrator",
+    "fullName": "Meadows Wilcox",
+    "email": "meadowswilcox@visalia.com",
+    "phone": "+7 (941) 509-3158"
+  },
+  {
+    "guid": "ea653f08-df43-4cf9-abbd-0b7a8f1e4f61",
+    "group": "Дизайнеры",
+    "position": "Developer",
+    "fullName": "Katy Nguyen",
+    "email": "katynguyen@visalia.com",
+    "phone": "+7 (872) 559-2954"
+  },
+  {
+    "guid": "be96ccab-2966-4dc1-a84f-eca6d3a40c56",
+    "group": "",
+    "position": "QA",
+    "fullName": "Elva Leonard",
+    "email": "elvaleonard@visalia.com",
+    "phone": "+7 (900) 463-2462"
+  },
+  {
+    "guid": "27e2a0d1-9e89-43b3-b908-6b4f6dd71843",
+    "group": "Дизайнеры",
+    "position": "Manager",
+    "fullName": "Arlene Booth",
+    "email": "arlenebooth@visalia.com",
+    "phone": "+7 (824) 533-3352"
+  },
+  {
+    "guid": "ffbcd212-d40f-45d0-81f0-0101158a2c10",
+    "group": "Бухгалтерия",
+    "position": "Big boss",
+    "fullName": "Tonia Wilkinson",
+    "email": "toniawilkinson@visalia.com",
+    "phone": "+7 (953) 417-3149"
+  },
+  {
+    "guid": "32ff39ac-e7c5-4a5a-bf36-ca490ffde0aa",
+    "group": "Управление",
+    "position": "Manager",
+    "fullName": "Carey Underwood",
+    "email": "careyunderwood@visalia.com",
+    "phone": "+7 (934) 409-2215"
+  },
+  {
+    "guid": "d29ca901-45c1-42e8-8baa-fc76143f3aae",
+    "group": "Бухгалтерия",
+    "position": "CEO",
+    "fullName": "Rich Rosario",
+    "email": "richrosario@visalia.com",
+    "phone": "+7 (872) 463-2091"
+  },
+  {
+    "guid": "1df8bbc8-228f-4697-a993-ef072d566f23",
+    "group": "Тестирование",
+    "position": "Accountant",
+    "fullName": "Janie Gardner",
+    "email": "janiegardner@visalia.com",
+    "phone": "+7 (987) 567-3747"
+  },
+  {
+    "guid": "8a5a469c-1cdb-4219-a08c-6225a21b2154",
+    "group": "Бухгалтерия",
+    "position": "QA",
+    "fullName": "Margaret Mckee",
+    "email": "margaretmckee@visalia.com",
+    "phone": "+7 (814) 423-2723"
+  },
+  {
+    "guid": "2f0eca73-4e03-4b27-91ac-6440c507fff3",
+    "group": "Управление",
+    "position": "Developer",
+    "fullName": "Lucas Chen",
+    "email": "lucaschen@visalia.com",
+    "phone": "+7 (960) 497-2611"
+  },
+  {
+    "guid": "9d26d5d1-7c41-4aeb-a240-869a271f235e",
+    "group": "Управление",
+    "position": "Big boss",
+    "fullName": "Juana Doyle",
+    "email": "juanadoyle@visalia.com",
+    "phone": "+7 (833) 582-3576"
+  },
+  {
+    "guid": "52f14969-935c-4ffc-ad9f-5bc6aab6853e",
+    "group": "",
+    "position": "Accountant",
+    "fullName": "Mathews Holder",
+    "email": "mathewsholder@visalia.com",
+    "phone": "+7 (863) 505-3681"
+  },
+  {
+    "guid": "8fe3043c-17fb-45b1-9306-ec80e0b5b37a",
+    "group": "Тестирование",
+    "position": "System administrator",
+    "fullName": "Frank Carson",
+    "email": "frankcarson@visalia.com",
+    "phone": "+7 (908) 446-2946"
+  },
+  {
+    "guid": "cbb11a56-6d10-43cf-8e8a-efea85e08bf9",
+    "group": "Управление",
+    "position": "Developer",
+    "fullName": "Patton Hull",
+    "email": "pattonhull@visalia.com",
+    "phone": "+7 (905) 405-2214"
+  },
+  {
+    "guid": "0122a288-bf9d-49b6-b862-255b2c863f19",
+    "group": "Дизайнеры",
+    "position": "QA",
+    "fullName": "Rosalinda Solomon",
+    "email": "rosalindasolomon@visalia.com",
+    "phone": "+7 (837) 595-3481"
+  },
+  {
+    "guid": "f88f7a2c-65ec-4a7a-90bd-4ac92962910d",
+    "group": "",
+    "position": "QA",
+    "fullName": "Shelia Mccarty",
+    "email": "sheliamccarty@visalia.com",
+    "phone": "+7 (927) 548-3450"
+  },
+  {
+    "guid": "f323e7c9-a6ea-4018-8334-1c12bdda2a34",
+    "group": "Бухгалтерия",
+    "position": "Manager",
+    "fullName": "Carmela Carey",
+    "email": "carmelacarey@visalia.com",
+    "phone": "+7 (844) 485-3554"
+  },
+  {
+    "guid": "ce91f470-1adf-41c0-bdf5-0844517ae993",
+    "group": "Тестирование",
+    "position": "Big boss",
+    "fullName": "Frost Berg",
+    "email": "frostberg@visalia.com",
+    "phone": "+7 (893) 461-3620"
+  },
+  {
+    "guid": "1d458aef-e189-43d6-8596-d9001cf3c145",
+    "group": "Дизайнеры",
+    "position": "Accountant",
+    "fullName": "Jenna Dixon",
+    "email": "jennadixon@visalia.com",
+    "phone": "+7 (906) 404-2791"
+  },
+  {
+    "guid": "673e3b46-3a9f-4050-8d14-2aa115f1c171",
+    "group": "Тестирование",
+    "position": "Developer",
+    "fullName": "Terry Cohen",
+    "email": "terrycohen@visalia.com",
+    "phone": "+7 (965) 472-2028"
+  },
+  {
+    "guid": "e00b14ef-0843-40a4-b3dd-4f0d6724096c",
+    "group": "",
+    "position": "QA",
+    "fullName": "Veronica Fulton",
+    "email": "veronicafulton@visalia.com",
+    "phone": "+7 (846) 486-2124"
+  },
+  {
+    "guid": "505a738e-313c-4679-b052-4a08331de7fd",
+    "group": "Управление",
+    "position": "Accountant",
+    "fullName": "Bass Tillman",
+    "email": "basstillman@visalia.com",
+    "phone": "+7 (825) 528-2056"
+  },
+  {
+    "guid": "ea0d0cf9-3e58-43cb-9225-102f8a74659e",
+    "group": "Бухгалтерия",
+    "position": "Accountant",
+    "fullName": "Rhodes Turner",
+    "email": "rhodesturner@visalia.com",
+    "phone": "+7 (911) 518-2028"
+  },
+  {
+    "guid": "29ce9f4c-a0e2-4adc-8436-4f7a690dc05d",
+    "group": "Дизайнеры",
+    "position": "System administrator",
+    "fullName": "Lina Roth",
+    "email": "linaroth@visalia.com",
+    "phone": "+7 (875) 489-2739"
+  },
+  {
+    "guid": "66770fc2-b16e-46df-83af-1cce5d77aca5",
+    "group": "",
+    "position": "Big boss",
+    "fullName": "Sallie Valdez",
+    "email": "sallievaldez@visalia.com",
+    "phone": "+7 (859) 571-3507"
+  },
+  {
+    "guid": "e26eec19-a451-4570-bc6a-d70d6c8dab0f",
+    "group": "Бухгалтерия",
+    "position": "QA",
+    "fullName": "Candace Page",
+    "email": "candacepage@visalia.com",
+    "phone": "+7 (813) 515-2443"
+  },
+  {
+    "guid": "f8264e49-ad69-4230-bcee-11a4f706bf80",
+    "group": "",
+    "position": "Developer",
+    "fullName": "Ella Hart",
+    "email": "ellahart@visalia.com",
+    "phone": "+7 (944) 575-3933"
+  },
+  {
+    "guid": "92461176-0563-4adb-a022-1b9a616ddb0f",
+    "group": "Тестирование",
+    "position": "Manager",
+    "fullName": "Guzman Luna",
+    "email": "guzmanluna@visalia.com",
+    "phone": "+7 (946) 495-3391"
+  },
+  {
+    "guid": "d0a938af-72c4-46ef-811b-f60a12f79bd4",
+    "group": "",
+    "position": "Manager",
+    "fullName": "Glass Lindsay",
+    "email": "glasslindsay@visalia.com",
+    "phone": "+7 (984) 535-2627"
+  },
+  {
+    "guid": "8a4309d9-f97e-4791-8a36-b92a80356ba3",
+    "group": "",
+    "position": "System administrator",
+    "fullName": "Lindsey Castro",
+    "email": "lindseycastro@visalia.com",
+    "phone": "+7 (917) 403-2016"
+  },
+  {
+    "guid": "a7af5603-4174-45fd-88bb-137a4cd6c289",
+    "group": "Разработка",
+    "position": "Manager",
+    "fullName": "Megan Morrison",
+    "email": "meganmorrison@visalia.com",
+    "phone": "+7 (806) 553-2873"
+  },
+  {
+    "guid": "e01b6f04-536e-4e86-9610-bde53bcd29bf",
+    "group": "Дизайнеры",
+    "position": "Accountant",
+    "fullName": "Leticia Marquez",
+    "email": "leticiamarquez@visalia.com",
+    "phone": "+7 (971) 586-3873"
+  },
+  {
+    "guid": "a6f19778-6685-43ae-a1df-c53acfa6a07f",
+    "group": "Бухгалтерия",
+    "position": "Accountant",
+    "fullName": "Dollie Trevino",
+    "email": "dollietrevino@visalia.com",
+    "phone": "+7 (926) 467-2254"
+  },
+  {
+    "guid": "e697ff73-ce96-4a8a-a240-343de82a5c8a",
+    "group": "Управление",
+    "position": "QA",
+    "fullName": "Powell Whitehead",
+    "email": "powellwhitehead@visalia.com",
+    "phone": "+7 (994) 553-3218"
+  },
+  {
+    "guid": "1a38ae51-a564-406e-8b7e-846aaf702d32",
+    "group": "Управление",
+    "position": "Manager",
+    "fullName": "Norman Greer",
+    "email": "normangreer@visalia.com",
+    "phone": "+7 (824) 569-3041"
+  },
+  {
+    "guid": "11864799-c146-4c0e-9246-48b2da226c18",
+    "group": "Бухгалтерия",
+    "position": "CEO",
+    "fullName": "Rosie Daniels",
+    "email": "rosiedaniels@visalia.com",
+    "phone": "+7 (926) 566-3892"
+  },
+  {
+    "guid": "a0f28aff-f9c7-4f04-bfb1-32f68a6a1725",
+    "group": "",
+    "position": "CEO",
+    "fullName": "Sykes Fuller",
+    "email": "sykesfuller@visalia.com",
+    "phone": "+7 (885) 425-3091"
+  },
+  {
+    "guid": "88400be8-3937-4ae3-89dc-8f7d35516018",
+    "group": "Управление",
+    "position": "Developer",
+    "fullName": "Valeria Stevenson",
+    "email": "valeriastevenson@visalia.com",
+    "phone": "+7 (800) 580-3627"
+  },
+  {
+    "guid": "33f364c5-8c27-4c04-87c5-36273d39dcd1",
+    "group": "Дизайнеры",
+    "position": "Developer",
+    "fullName": "Pratt Henson",
+    "email": "pratthenson@visalia.com",
+    "phone": "+7 (803) 458-3758"
+  },
+  {
+    "guid": "ec286326-9e2e-4bcc-8c94-00be97192e0e",
+    "group": "Бухгалтерия",
+    "position": "QA",
+    "fullName": "Houston Macdonald",
+    "email": "houstonmacdonald@visalia.com",
+    "phone": "+7 (808) 560-2486"
+  },
+  {
+    "guid": "b570b3ea-c852-4b3a-be3f-520c68817324",
+    "group": "Управление",
+    "position": "Big boss",
+    "fullName": "Christian Mclean",
+    "email": "christianmclean@visalia.com",
+    "phone": "+7 (938) 438-3524"
+  },
+  {
+    "guid": "37640234-224b-44b7-9913-e30e7e6722c3",
+    "group": "Разработка",
+    "position": "System administrator",
+    "fullName": "Kristine Beasley",
+    "email": "kristinebeasley@visalia.com",
+    "phone": "+7 (868) 444-3581"
+  },
+  {
+    "guid": "34622177-b101-49c8-95ab-f2cf4999295d",
+    "group": "Бухгалтерия",
+    "position": "Developer",
+    "fullName": "Murphy Terry",
+    "email": "murphyterry@visalia.com",
+    "phone": "+7 (847) 565-2144"
+  },
+  {
+    "guid": "009b5d05-6c23-42ff-8a26-739be83cb45b",
+    "group": "Бухгалтерия",
+    "position": "QA",
+    "fullName": "Gloria Frazier",
+    "email": "gloriafrazier@visalia.com",
+    "phone": "+7 (866) 544-2223"
+  },
+  {
+    "guid": "b480420a-6108-44d4-906f-cab9cbb340be",
+    "group": "Дизайнеры",
+    "position": "Developer",
+    "fullName": "Jewel Horton",
+    "email": "jewelhorton@visalia.com",
+    "phone": "+7 (978) 434-3733"
+  },
+  {
+    "guid": "66104678-bcdc-46cf-bc2b-2cf90228ceab",
+    "group": "Дизайнеры",
+    "position": "Manager",
+    "fullName": "Karla Stephens",
+    "email": "karlastephens@visalia.com",
+    "phone": "+7 (810) 469-2804"
+  },
+  {
+    "guid": "5447cc49-01fc-4c14-9abf-59dfd9cb3892",
+    "group": "Дизайнеры",
+    "position": "CEO",
+    "fullName": "Holland Deleon",
+    "email": "hollanddeleon@visalia.com",
+    "phone": "+7 (855) 572-3243"
+  },
+  {
+    "guid": "59764d14-5e55-44ec-aced-d0dd20688ad9",
+    "group": "",
+    "position": "CEO",
+    "fullName": "Rosa Stein",
+    "email": "rosastein@visalia.com",
+    "phone": "+7 (801) 491-2177"
+  },
+  {
+    "guid": "729267b8-3670-4755-91d2-f434d7cdd6f9",
+    "group": "Дизайнеры",
+    "position": "QA",
+    "fullName": "Patrick Downs",
+    "email": "patrickdowns@visalia.com",
+    "phone": "+7 (970) 563-2206"
+  },
+  {
+    "guid": "890dbd6c-42f0-4860-b0d5-29d32915a0a5",
+    "group": "",
+    "position": "Accountant",
+    "fullName": "Vicky Waters",
+    "email": "vickywaters@visalia.com",
+    "phone": "+7 (836) 519-3583"
+  },
+  {
+    "guid": "af5a8cb9-da10-4d74-9884-8fedbbf433e0",
+    "group": "Разработка",
+    "position": "Developer",
+    "fullName": "Hardy Avila",
+    "email": "hardyavila@visalia.com",
+    "phone": "+7 (921) 488-3677"
+  },
+  {
+    "guid": "e55eb55d-625c-473c-8bd0-32786b4cf1f4",
+    "group": "Дизайнеры",
+    "position": "Accountant",
+    "fullName": "Smith Dorsey",
+    "email": "smithdorsey@visalia.com",
+    "phone": "+7 (858) 575-3130"
+  },
+  {
+    "guid": "f46ebce9-79bc-4763-a1e3-485e73f2bed8",
+    "group": "",
+    "position": "Manager",
+    "fullName": "Chelsea Vargas",
+    "email": "chelseavargas@visalia.com",
+    "phone": "+7 (934) 525-3575"
+  },
+  {
+    "guid": "8f084aa8-1d55-4780-bf21-46109193cbd8",
+    "group": "Управление",
+    "position": "QA",
+    "fullName": "Hernandez Mckinney",
+    "email": "hernandezmckinney@visalia.com",
+    "phone": "+7 (908) 479-2170"
+  },
+  {
+    "guid": "b2d311f1-ce74-40a7-9c06-fc9f51fea023",
+    "group": "",
+    "position": "CEO",
+    "fullName": "Paulette Kinney",
+    "email": "paulettekinney@visalia.com",
+    "phone": "+7 (962) 595-3858"
+  },
+  {
+    "guid": "0a22c9b6-3e86-4d35-8e52-2efcfd02ad56",
+    "group": "Разработка",
+    "position": "Accountant",
+    "fullName": "Robert David",
+    "email": "robertdavid@visalia.com",
+    "phone": "+7 (935) 461-3426"
+  },
+  {
+    "guid": "4cb56633-d749-4840-a982-822f6875abca",
+    "group": "Управление",
+    "position": "System administrator",
+    "fullName": "Lois Walton",
+    "email": "loiswalton@visalia.com",
+    "phone": "+7 (931) 401-2744"
+  },
+  {
+    "guid": "5d45c376-e495-4298-bd24-8cb5dd120fbe",
+    "group": "Управление",
+    "position": "CEO",
+    "fullName": "Kitty Church",
+    "email": "kittychurch@visalia.com",
+    "phone": "+7 (966) 437-2001"
+  },
+  {
+    "guid": "61b0b873-22a4-4de7-9f33-a788190be323",
+    "group": "Бухгалтерия",
+    "position": "QA",
+    "fullName": "Brennan Matthews",
+    "email": "brennanmatthews@visalia.com",
+    "phone": "+7 (963) 557-2373"
+  },
+  {
+    "guid": "1af01663-d07b-4612-95c9-97d95024718f",
+    "group": "Тестирование",
+    "position": "QA",
+    "fullName": "Twila Franks",
+    "email": "twilafranks@visalia.com",
+    "phone": "+7 (823) 558-3076"
+  },
+  {
+    "guid": "4a485d3c-14a9-4e02-ad97-fd872a683560",
+    "group": "Тестирование",
+    "position": "Manager",
+    "fullName": "Mosley Armstrong",
+    "email": "mosleyarmstrong@visalia.com",
+    "phone": "+7 (827) 415-2733"
+  },
+  {
+    "guid": "b632f22d-9a2b-496c-9d49-963d60313926",
+    "group": "Тестирование",
+    "position": "CEO",
+    "fullName": "Dena Serrano",
+    "email": "denaserrano@visalia.com",
+    "phone": "+7 (928) 539-3296"
+  },
+  {
+    "guid": "a793812a-2f35-4629-ad35-8ebb34d5cef8",
+    "group": "Управление",
+    "position": "Big boss",
+    "fullName": "Aurelia Frank",
+    "email": "aureliafrank@visalia.com",
+    "phone": "+7 (897) 559-2137"
+  },
+  {
+    "guid": "279fd357-7468-4a2a-90d1-a67e840e01c6",
+    "group": "Тестирование",
+    "position": "QA",
+    "fullName": "Audrey Hunt",
+    "email": "audreyhunt@visalia.com",
+    "phone": "+7 (895) 560-3776"
+  },
+  {
+    "guid": "aed9de36-c654-4c23-940b-9507e5ea9d96",
+    "group": "Тестирование",
+    "position": "Accountant",
+    "fullName": "Abigail Harper",
+    "email": "abigailharper@visalia.com",
+    "phone": "+7 (963) 452-3261"
+  },
+  {
+    "guid": "577f048c-d11d-42e2-87ad-a4bde6dae1a1",
+    "group": "Разработка",
+    "position": "Manager",
+    "fullName": "Bullock Vaughn",
+    "email": "bullockvaughn@visalia.com",
+    "phone": "+7 (975) 522-3175"
+  },
+  {
+    "guid": "2bc84c31-5815-4afb-8cdb-8bd48c53029e",
+    "group": "Тестирование",
+    "position": "Big boss",
+    "fullName": "Marcella Mendez",
+    "email": "marcellamendez@visalia.com",
+    "phone": "+7 (970) 440-2729"
+  },
+  {
+    "guid": "7392b6eb-7594-4a7f-8d83-45d18bba3368",
+    "group": "Тестирование",
+    "position": "Manager",
+    "fullName": "Adams Maddox",
+    "email": "adamsmaddox@visalia.com",
+    "phone": "+7 (965) 466-2874"
+  },
+  {
+    "guid": "cc58ea0b-2f26-46ed-b770-1848181790a4",
+    "group": "Бухгалтерия",
+    "position": "Accountant",
+    "fullName": "Vivian Landry",
+    "email": "vivianlandry@visalia.com",
+    "phone": "+7 (963) 432-2438"
+  },
+  {
+    "guid": "eeb855a7-a5f0-4953-b13e-d623a9be96c2",
+    "group": "Дизайнеры",
+    "position": "Manager",
+    "fullName": "Gwen Bruce",
+    "email": "gwenbruce@visalia.com",
+    "phone": "+7 (950) 407-3355"
+  },
+  {
+    "guid": "31c7783a-fc4d-4b13-88a4-0dcea767459d",
+    "group": "Разработка",
+    "position": "Manager",
+    "fullName": "Medina Rivers",
+    "email": "medinarivers@visalia.com",
+    "phone": "+7 (933) 401-2037"
+  },
+  {
+    "guid": "f1e29fd7-c98e-4fef-a6cd-9a6c7fa2e45b",
+    "group": "Дизайнеры",
+    "position": "Manager",
+    "fullName": "Lauren Rodgers",
+    "email": "laurenrodgers@visalia.com",
+    "phone": "+7 (972) 418-2360"
+  },
+  {
+    "guid": "a9160ed0-4cb1-4cca-a5e7-e6e4df4c41a2",
+    "group": "Бухгалтерия",
+    "position": "QA",
+    "fullName": "Wilkerson White",
+    "email": "wilkersonwhite@visalia.com",
+    "phone": "+7 (831) 535-3135"
+  },
+  {
+    "guid": "b7c2a669-7de3-408f-b055-6379604f8281",
+    "group": "Бухгалтерия",
+    "position": "QA",
+    "fullName": "Jessica Barrera",
+    "email": "jessicabarrera@visalia.com",
+    "phone": "+7 (854) 472-2415"
+  },
+  {
+    "guid": "74cceb36-ef40-4449-a421-b2dba4b7c9e4",
+    "group": "",
+    "position": "Accountant",
+    "fullName": "Mary Burnett",
+    "email": "maryburnett@visalia.com",
+    "phone": "+7 (888) 457-3184"
+  },
+  {
+    "guid": "002fb743-8903-4980-b3ca-a81310d84a7a",
+    "group": "Бухгалтерия",
+    "position": "Big boss",
+    "fullName": "Kelley Stanley",
+    "email": "kelleystanley@visalia.com",
+    "phone": "+7 (965) 487-2663"
+  },
+  {
+    "guid": "5c27cf9f-39ae-4065-98c9-52c361c800bb",
+    "group": "Управление",
+    "position": "Accountant",
+    "fullName": "Downs Roy",
+    "email": "downsroy@visalia.com",
+    "phone": "+7 (848) 512-2113"
+  },
+  {
+    "guid": "3bc081d9-2924-404c-ab80-6e87f10151d2",
+    "group": "",
+    "position": "Big boss",
+    "fullName": "Ronda Dotson",
+    "email": "rondadotson@visalia.com",
+    "phone": "+7 (801) 534-2792"
+  },
+  {
+    "guid": "a6cb9bed-0b93-4058-91c5-a74f1acd3e5e",
+    "group": "Бухгалтерия",
+    "position": "Developer",
+    "fullName": "Brock Mercer",
+    "email": "brockmercer@visalia.com",
+    "phone": "+7 (875) 519-2219"
+  },
+  {
+    "guid": "3bdbdbc7-f94a-461c-80b5-c28669460354",
+    "group": "Тестирование",
+    "position": "Developer",
+    "fullName": "Mccoy Ortega",
+    "email": "mccoyortega@visalia.com",
+    "phone": "+7 (828) 478-3718"
+  },
+  {
+    "guid": "1fadedce-cc86-48e4-aed7-524f51d03fc6",
+    "group": "Управление",
+    "position": "CEO",
+    "fullName": "Francisca Oneal",
+    "email": "franciscaoneal@visalia.com",
+    "phone": "+7 (969) 509-2825"
+  },
+  {
+    "guid": "fe2dc112-a5e6-4409-b0a1-4ee66b7bcfc6",
+    "group": "",
+    "position": "Developer",
+    "fullName": "Jacobson Robinson",
+    "email": "jacobsonrobinson@visalia.com",
+    "phone": "+7 (985) 485-2114"
+  },
+  {
+    "guid": "4238df53-b7bf-40f9-8ec9-7ffa2082b45a",
+    "group": "Тестирование",
+    "position": "Accountant",
+    "fullName": "Shanna Vega",
+    "email": "shannavega@visalia.com",
+    "phone": "+7 (802) 437-3329"
+  },
+  {
+    "guid": "83626a7d-44c7-474f-bbfd-3fea275f49e9",
+    "group": "Бухгалтерия",
+    "position": "QA",
+    "fullName": "Jeannie Klein",
+    "email": "jeannieklein@visalia.com",
+    "phone": "+7 (880) 565-2126"
+  },
+  {
+    "guid": "02adf30e-e142-45f6-9dc7-6d28eb90bdbd",
+    "group": "",
+    "position": "Accountant",
+    "fullName": "Moody Mckenzie",
+    "email": "moodymckenzie@visalia.com",
+    "phone": "+7 (848) 554-3637"
+  },
+  {
+    "guid": "ed6c18d5-a1fa-4d69-8b59-3923dbb142fe",
+    "group": "Дизайнеры",
+    "position": "Manager",
+    "fullName": "Mollie Gonzales",
+    "email": "molliegonzales@visalia.com",
+    "phone": "+7 (932) 455-3274"
+  },
+  {
+    "guid": "c518f9ed-a664-4a62-a6d9-124a8a0ad444",
+    "group": "Дизайнеры",
+    "position": "Accountant",
+    "fullName": "Merle Mcfadden",
+    "email": "merlemcfadden@visalia.com",
+    "phone": "+7 (947) 511-2462"
+  },
+  {
+    "guid": "eb4e5091-964f-4156-b86f-2519037d8cf2",
+    "group": "Управление",
+    "position": "Manager",
+    "fullName": "Chapman Wolfe",
+    "email": "chapmanwolfe@visalia.com",
+    "phone": "+7 (895) 411-2330"
+  },
+  {
+    "guid": "f73206d9-61a4-4ef1-8e7a-97a6d5a64c70",
+    "group": "Бухгалтерия",
+    "position": "System administrator",
+    "fullName": "Beverly Frederick",
+    "email": "beverlyfrederick@visalia.com",
+    "phone": "+7 (865) 451-3201"
+  },
+  {
+    "guid": "6bae7cd9-6b2a-4816-bbbf-d4c2da5bad78",
+    "group": "",
+    "position": "CEO",
+    "fullName": "Frazier Sykes",
+    "email": "fraziersykes@visalia.com",
+    "phone": "+7 (899) 590-2308"
+  },
+  {
+    "guid": "4bc224ec-43dd-4543-8fdc-63d3fba5c1fc",
+    "group": "Бухгалтерия",
+    "position": "Manager",
+    "fullName": "Jan Santos",
+    "email": "jansantos@visalia.com",
+    "phone": "+7 (973) 486-3093"
+  },
+  {
+    "guid": "43d38cfa-32e4-465d-994d-96cf730fd6a0",
+    "group": "",
+    "position": "QA",
+    "fullName": "Myers Gaines",
+    "email": "myersgaines@visalia.com",
+    "phone": "+7 (963) 543-3325"
+  },
+  {
+    "guid": "a4cd434a-d936-4838-b924-2afaa2469f2e",
+    "group": "Тестирование",
+    "position": "System administrator",
+    "fullName": "Amie Rice",
+    "email": "amierice@visalia.com",
+    "phone": "+7 (858) 565-3180"
+  },
+  {
+    "guid": "dfa86180-7dd5-438d-acad-c44fd4b1bfcc",
+    "group": "",
+    "position": "Developer",
+    "fullName": "Salinas Suarez",
+    "email": "salinassuarez@visalia.com",
+    "phone": "+7 (984) 527-2436"
+  },
+  {
+    "guid": "fab8e160-7c71-46e3-b1d4-be6e3db7d476",
+    "group": "Тестирование",
+    "position": "Developer",
+    "fullName": "Jami Wilkerson",
+    "email": "jamiwilkerson@visalia.com",
+    "phone": "+7 (963) 579-2801"
+  },
+  {
+    "guid": "fa3f2839-14dc-431b-a285-34419f8ef781",
+    "group": "Управление",
+    "position": "Developer",
+    "fullName": "Bradford Smith",
+    "email": "bradfordsmith@visalia.com",
+    "phone": "+7 (820) 522-2746"
+  },
+  {
+    "guid": "7b3eff96-03da-46aa-8301-274f4ae26635",
+    "group": "Разработка",
+    "position": "Accountant",
+    "fullName": "Mercedes Nichols",
+    "email": "mercedesnichols@visalia.com",
+    "phone": "+7 (823) 534-3901"
+  },
+  {
+    "guid": "7ac80a01-290e-4bb5-bbcf-50c03568903e",
+    "group": "Тестирование",
+    "position": "System administrator",
+    "fullName": "Janna Roberson",
+    "email": "jannaroberson@visalia.com",
+    "phone": "+7 (958) 533-2026"
+  },
+  {
+    "guid": "af7b7109-66eb-4abb-8615-43c21ee47ffa",
+    "group": "",
+    "position": "Manager",
+    "fullName": "Walker Robertson",
+    "email": "walkerrobertson@visalia.com",
+    "phone": "+7 (903) 514-3421"
+  },
+  {
+    "guid": "e36c987c-00bf-41b1-980b-33ba54de6ca4",
+    "group": "Тестирование",
+    "position": "CEO",
+    "fullName": "Guerra Bryan",
+    "email": "guerrabryan@visalia.com",
+    "phone": "+7 (806) 591-3088"
+  },
+  {
+    "guid": "c7c3b19f-5a55-4f66-a0e7-947fc70c1cc2",
+    "group": "Тестирование",
+    "position": "Big boss",
+    "fullName": "Arline Hopper",
+    "email": "arlinehopper@visalia.com",
+    "phone": "+7 (871) 520-2045"
+  },
+  {
+    "guid": "44798116-cb9b-400d-bd5a-62af21c450a1",
+    "group": "Дизайнеры",
+    "position": "CEO",
+    "fullName": "Odom Sloan",
+    "email": "odomsloan@visalia.com",
+    "phone": "+7 (944) 467-3222"
+  },
+  {
+    "guid": "62b5e140-c380-45c6-8ae8-7a1f07ff6042",
+    "group": "Бухгалтерия",
+    "position": "Accountant",
+    "fullName": "Lesley Mann",
+    "email": "lesleymann@visalia.com",
+    "phone": "+7 (956) 478-3902"
+  },
+  {
+    "guid": "47eeff64-0470-4e29-bf3f-14a8e452dc73",
+    "group": "Разработка",
+    "position": "CEO",
+    "fullName": "Hazel Casey",
+    "email": "hazelcasey@visalia.com",
+    "phone": "+7 (966) 576-2022"
+  },
+  {
+    "guid": "d159e170-d425-4c95-96a0-48a896d6001d",
+    "group": "Дизайнеры",
+    "position": "Accountant",
+    "fullName": "Watson Valencia",
+    "email": "watsonvalencia@visalia.com",
+    "phone": "+7 (814) 552-2385"
+  },
+  {
+    "guid": "089b84ea-e238-4473-8060-d624833205b7",
+    "group": "Дизайнеры",
+    "position": "System administrator",
+    "fullName": "Ester Cooper",
+    "email": "estercooper@visalia.com",
+    "phone": "+7 (939) 458-3863"
+  },
+  {
+    "guid": "2b8d4d3a-3854-492a-b589-a4e3df434c47",
+    "group": "Разработка",
+    "position": "Accountant",
+    "fullName": "Leanna Aguirre",
+    "email": "leannaaguirre@visalia.com",
+    "phone": "+7 (966) 490-3275"
+  },
+  {
+    "guid": "5da0dad8-32b4-4792-b4f2-22d79e691ea8",
+    "group": "Управление",
+    "position": "QA",
+    "fullName": "Maggie Le",
+    "email": "maggiele@visalia.com",
+    "phone": "+7 (843) 562-3022"
+  },
+  {
+    "guid": "8bdd5161-5daa-4daa-bcf7-bf2cfcd84061",
+    "group": "Разработка",
+    "position": "CEO",
+    "fullName": "Young Cameron",
+    "email": "youngcameron@visalia.com",
+    "phone": "+7 (831) 407-3161"
+  },
+  {
+    "guid": "2481c311-245f-48d6-a65f-fde2867c9913",
+    "group": "Бухгалтерия",
+    "position": "System administrator",
+    "fullName": "Erica Callahan",
+    "email": "ericacallahan@visalia.com",
+    "phone": "+7 (851) 500-3496"
+  },
+  {
+    "guid": "0f0b0563-1bf4-4db7-b6b7-0608741fc5d2",
+    "group": "Разработка",
+    "position": "Accountant",
+    "fullName": "Shirley Craft",
+    "email": "shirleycraft@visalia.com",
+    "phone": "+7 (835) 465-3415"
+  },
+  {
+    "guid": "e0b2872c-36b7-419f-ad44-07456d288638",
+    "group": "Разработка",
+    "position": "Manager",
+    "fullName": "Erickson Lucas",
+    "email": "ericksonlucas@visalia.com",
+    "phone": "+7 (806) 513-2454"
+  },
+  {
+    "guid": "90d4f3e2-1ed3-415e-91d0-4eed73e7e93d",
+    "group": "Управление",
+    "position": "Big boss",
+    "fullName": "Julianne Bates",
+    "email": "juliannebates@visalia.com",
+    "phone": "+7 (826) 534-2943"
+  },
+  {
+    "guid": "a25389f5-14c2-413c-b4c2-dbac4b8f5b44",
+    "group": "",
+    "position": "Manager",
+    "fullName": "Evelyn Nash",
+    "email": "evelynnash@visalia.com",
+    "phone": "+7 (875) 567-2722"
+  },
+  {
+    "guid": "b9e6d7ef-c852-4453-aef3-31d4993d3b15",
+    "group": "Тестирование",
+    "position": "Accountant",
+    "fullName": "Curtis West",
+    "email": "curtiswest@visalia.com",
+    "phone": "+7 (868) 414-2603"
+  },
+  {
+    "guid": "913dcfa7-0485-471b-ae6e-7b9acf84c861",
+    "group": "Дизайнеры",
+    "position": "Accountant",
+    "fullName": "Rae Kirk",
+    "email": "raekirk@visalia.com",
+    "phone": "+7 (892) 566-2179"
+  },
+  {
+    "guid": "c250aacf-0a3c-43ca-bf7a-1bc1d00f0277",
+    "group": "Разработка",
+    "position": "Accountant",
+    "fullName": "Olson Adkins",
+    "email": "olsonadkins@visalia.com",
+    "phone": "+7 (926) 478-3167"
+  },
+  {
+    "guid": "abbec26e-3adc-42cf-8774-ac65fb04ac2c",
+    "group": "Дизайнеры",
+    "position": "Developer",
+    "fullName": "Padilla Wynn",
+    "email": "padillawynn@visalia.com",
+    "phone": "+7 (994) 599-3205"
+  },
+  {
+    "guid": "b1f7a0cf-0e96-49b9-8571-65372b47fe86",
+    "group": "Управление",
+    "position": "System administrator",
+    "fullName": "Potts Mcneil",
+    "email": "pottsmcneil@visalia.com",
+    "phone": "+7 (829) 432-2337"
+  },
+  {
+    "guid": "fce18f25-ea4f-4838-88b7-f2a6e7c12ac7",
+    "group": "",
+    "position": "Accountant",
+    "fullName": "Norma Holden",
+    "email": "normaholden@visalia.com",
+    "phone": "+7 (862) 509-3198"
+  },
+  {
+    "guid": "19b694e0-9d4b-418d-9cf9-0b05294a0110",
+    "group": "",
+    "position": "Big boss",
+    "fullName": "Deena Logan",
+    "email": "deenalogan@visalia.com",
+    "phone": "+7 (930) 537-3099"
+  },
+  {
+    "guid": "cdf1c9a4-3aff-4930-9100-c6e65cfcd76e",
+    "group": "",
+    "position": "CEO",
+    "fullName": "Long Justice",
+    "email": "longjustice@visalia.com",
+    "phone": "+7 (995) 599-3050"
+  },
+  {
+    "guid": "edddc981-1a12-40ac-88ec-753d2531e64c",
+    "group": "Дизайнеры",
+    "position": "Accountant",
+    "fullName": "Oliver Parker",
+    "email": "oliverparker@visalia.com",
+    "phone": "+7 (804) 535-3310"
+  },
+  {
+    "guid": "331b36c6-0d24-47c0-b329-75a0d220a98d",
+    "group": "",
+    "position": "Developer",
+    "fullName": "Perez Terrell",
+    "email": "perezterrell@visalia.com",
+    "phone": "+7 (870) 597-3407"
+  },
+  {
+    "guid": "2fc7c4eb-fbd6-48ab-956a-e97e67497041",
+    "group": "Дизайнеры",
+    "position": "CEO",
+    "fullName": "Everett Hatfield",
+    "email": "everetthatfield@visalia.com",
+    "phone": "+7 (829) 483-2630"
+  },
+  {
+    "guid": "531e4ea5-01ba-4be7-aa68-7fced5ea1b73",
+    "group": "Дизайнеры",
+    "position": "Manager",
+    "fullName": "Moses Juarez",
+    "email": "mosesjuarez@visalia.com",
+    "phone": "+7 (930) 503-2210"
+  },
+  {
+    "guid": "6ef71d6d-bb34-4bc7-8d74-aa498096bfed",
+    "group": "Разработка",
+    "position": "System administrator",
+    "fullName": "Dawn Munoz",
+    "email": "dawnmunoz@visalia.com",
+    "phone": "+7 (998) 534-2058"
+  },
+  {
+    "guid": "fcfda6b1-40ed-43bf-8760-a943205bf5fe",
+    "group": "Бухгалтерия",
+    "position": "Accountant",
+    "fullName": "Mcpherson Banks",
+    "email": "mcphersonbanks@visalia.com",
+    "phone": "+7 (817) 507-3595"
+  },
+  {
+    "guid": "bac4c9c5-59e6-4132-a1ee-c465871575d0",
+    "group": "Разработка",
+    "position": "Developer",
+    "fullName": "Hale Curtis",
+    "email": "halecurtis@visalia.com",
+    "phone": "+7 (822) 458-3222"
+  },
+  {
+    "guid": "cb84805d-37f0-49fd-ac8d-fd5d6657e1bc",
+    "group": "Тестирование",
+    "position": "Manager",
+    "fullName": "Mitzi Strickland",
+    "email": "mitzistrickland@visalia.com",
+    "phone": "+7 (906) 514-2032"
+  },
+  {
+    "guid": "5c0c1dca-8a0e-45f0-af3b-64299902bf10",
+    "group": "Управление",
+    "position": "QA",
+    "fullName": "Joyce Jordan",
+    "email": "joycejordan@visalia.com",
+    "phone": "+7 (994) 481-2761"
+  },
+  {
+    "guid": "63d5eadf-7c7e-4f97-a4dc-6ccb1b39834d",
+    "group": "Управление",
+    "position": "Manager",
+    "fullName": "Gardner Mueller",
+    "email": "gardnermueller@visalia.com",
+    "phone": "+7 (884) 444-3201"
+  },
+  {
+    "guid": "42e8535e-0a16-48b7-8b93-cbf2a416454e",
+    "group": "Дизайнеры",
+    "position": "Manager",
+    "fullName": "Sandy Rich",
+    "email": "sandyrich@visalia.com",
+    "phone": "+7 (837) 445-3505"
+  },
+  {
+    "guid": "d4265e3d-bd71-4d7a-a6d8-792399bc41b9",
+    "group": "Дизайнеры",
+    "position": "Developer",
+    "fullName": "Rowe Hurley",
+    "email": "rowehurley@visalia.com",
+    "phone": "+7 (984) 443-3687"
+  },
+  {
+    "guid": "8133e772-3664-4ba2-a45f-c778228ba258",
+    "group": "Разработка",
+    "position": "System administrator",
+    "fullName": "Elvira Black",
+    "email": "elvirablack@visalia.com",
+    "phone": "+7 (892) 496-3092"
+  },
+  {
+    "guid": "37a8b1a8-c09a-4bd9-a0fc-56653bd392e2",
+    "group": "Управление",
+    "position": "Big boss",
+    "fullName": "Dickson Ware",
+    "email": "dicksonware@visalia.com",
+    "phone": "+7 (919) 412-2585"
+  },
+  {
+    "guid": "8978b86d-5f37-459c-8003-a4dfce69fea0",
+    "group": "Дизайнеры",
+    "position": "CEO",
+    "fullName": "Elsa Crane",
+    "email": "elsacrane@visalia.com",
+    "phone": "+7 (826) 452-3995"
+  },
+  {
+    "guid": "4b184e8a-d625-4d50-8a85-ca56a0824d70",
+    "group": "Бухгалтерия",
+    "position": "QA",
+    "fullName": "Wendy Mayer",
+    "email": "wendymayer@visalia.com",
+    "phone": "+7 (858) 471-2642"
+  },
+  {
+    "guid": "fa3043e0-5e26-4570-84d7-8372e03128ff",
+    "group": "Управление",
+    "position": "Big boss",
+    "fullName": "Mckay Nunez",
+    "email": "mckaynunez@visalia.com",
+    "phone": "+7 (831) 415-3023"
+  },
+  {
+    "guid": "6383cf82-7aac-44f5-9a94-9de657011f45",
+    "group": "Дизайнеры",
+    "position": "Accountant",
+    "fullName": "Acevedo Salinas",
+    "email": "acevedosalinas@visalia.com",
+    "phone": "+7 (869) 545-2358"
+  },
+  {
+    "guid": "63916b1e-c0ed-4414-b36c-8ed513379b2f",
+    "group": "",
+    "position": "Accountant",
+    "fullName": "Luz Pickett",
+    "email": "luzpickett@visalia.com",
+    "phone": "+7 (850) 517-2148"
+  },
+  {
+    "guid": "8969acf0-d1df-4cdb-a3b6-ff4ff2e14d1f",
+    "group": "Дизайнеры",
+    "position": "Accountant",
+    "fullName": "Velez Kaufman",
+    "email": "velezkaufman@visalia.com",
+    "phone": "+7 (881) 585-3984"
+  },
+  {
+    "guid": "0784f72f-1943-4f70-9a9f-bc9919864f04",
+    "group": "",
+    "position": "Accountant",
+    "fullName": "Jolene James",
+    "email": "jolenejames@visalia.com",
+    "phone": "+7 (931) 446-3845"
+  },
+  {
+    "guid": "5ed1f4d4-07ed-435a-b262-12020e92021f",
+    "group": "Разработка",
+    "position": "QA",
+    "fullName": "Cantu Little",
+    "email": "cantulittle@visalia.com",
+    "phone": "+7 (940) 412-3379"
+  },
+  {
+    "guid": "41330daf-4e79-4e7d-b199-ed62d870240f",
+    "group": "Тестирование",
+    "position": "Accountant",
+    "fullName": "Wilda Reyes",
+    "email": "wildareyes@visalia.com",
+    "phone": "+7 (967) 526-3239"
+  },
+  {
+    "guid": "fccba762-c8a1-4bde-9304-5cd39ff66a84",
+    "group": "Бухгалтерия",
+    "position": "Manager",
+    "fullName": "Sybil Powell",
+    "email": "sybilpowell@visalia.com",
+    "phone": "+7 (938) 539-3351"
+  },
+  {
+    "guid": "ca031a6e-eb31-4b8f-9b5c-00bea59c4065",
+    "group": "Дизайнеры",
+    "position": "System administrator",
+    "fullName": "Cassandra Guerra",
+    "email": "cassandraguerra@visalia.com",
+    "phone": "+7 (947) 494-2541"
+  },
+  {
+    "guid": "db1f86b0-c783-460e-aab0-6f2ca25ebd68",
+    "group": "Управление",
+    "position": "Manager",
+    "fullName": "Christi Farley",
+    "email": "christifarley@visalia.com",
+    "phone": "+7 (892) 549-2934"
+  },
+  {
+    "guid": "ca0f8604-c143-4911-bf69-9dc1d93e107c",
+    "group": "Тестирование",
+    "position": "Manager",
+    "fullName": "Kane Henderson",
+    "email": "kanehenderson@visalia.com",
+    "phone": "+7 (914) 593-3859"
+  },
+  {
+    "guid": "55e37d2f-83c4-4455-a3db-6750eaddb0ae",
+    "group": "Дизайнеры",
+    "position": "CEO",
+    "fullName": "Oneal Grant",
+    "email": "onealgrant@visalia.com",
+    "phone": "+7 (822) 403-2539"
+  },
+  {
+    "guid": "a848c62c-a57a-4819-9ee6-569bd90f98f2",
+    "group": "Управление",
+    "position": "Developer",
+    "fullName": "Patrica Boyer",
+    "email": "patricaboyer@visalia.com",
+    "phone": "+7 (957) 545-3847"
+  },
+  {
+    "guid": "f95bb5fa-f90d-4892-ba2f-a2a2c9854790",
+    "group": "Дизайнеры",
+    "position": "System administrator",
+    "fullName": "Eliza Charles",
+    "email": "elizacharles@visalia.com",
+    "phone": "+7 (966) 484-3128"
+  },
+  {
+    "guid": "7aa5d2ed-c04c-44f3-a4ef-8da4d75121c0",
+    "group": "Разработка",
+    "position": "System administrator",
+    "fullName": "Franks Williams",
+    "email": "frankswilliams@visalia.com",
+    "phone": "+7 (963) 533-2155"
+  },
+  {
+    "guid": "9f12b9a3-e438-46c6-8f98-6e32a1f53424",
+    "group": "Разработка",
+    "position": "QA",
+    "fullName": "Fern Dillard",
+    "email": "ferndillard@visalia.com",
+    "phone": "+7 (935) 543-2794"
+  },
+  {
+    "guid": "ed2a023d-1490-4e89-8c8e-e259b9df36ea",
+    "group": "Разработка",
+    "position": "Developer",
+    "fullName": "Tommie Mathis",
+    "email": "tommiemathis@visalia.com",
+    "phone": "+7 (926) 442-3369"
+  },
+  {
+    "guid": "0a85c67f-0b56-488d-a60c-ee2f27407aa8",
+    "group": "Тестирование",
+    "position": "Big boss",
+    "fullName": "Jodie Mosley",
+    "email": "jodiemosley@visalia.com",
+    "phone": "+7 (862) 463-2305"
+  },
+  {
+    "guid": "651526fa-e9ce-4177-a1df-53a79b2873b6",
+    "group": "Разработка",
+    "position": "QA",
+    "fullName": "Phoebe Buck",
+    "email": "phoebebuck@visalia.com",
+    "phone": "+7 (952) 501-3173"
+  },
+  {
+    "guid": "5eea1d81-432f-4916-b4f6-51fc3cecba07",
+    "group": "Разработка",
+    "position": "Developer",
+    "fullName": "Francine Lee",
+    "email": "francinelee@visalia.com",
+    "phone": "+7 (821) 442-3477"
+  },
+  {
+    "guid": "2c6bc29a-adc7-4224-be87-e4e1cd6b507f",
+    "group": "Управление",
+    "position": "Accountant",
+    "fullName": "Glenn Maldonado",
+    "email": "glennmaldonado@visalia.com",
+    "phone": "+7 (935) 508-3344"
+  },
+  {
+    "guid": "228b4969-add5-4175-aa8b-867b976cd0e2",
+    "group": "Управление",
+    "position": "Developer",
+    "fullName": "Wright Petersen",
+    "email": "wrightpetersen@visalia.com",
+    "phone": "+7 (880) 478-3897"
+  },
+  {
+    "guid": "dfc6f6c5-ebc5-4623-b971-7107a7fc3976",
+    "group": "Бухгалтерия",
+    "position": "System administrator",
+    "fullName": "Edith Roman",
+    "email": "edithroman@visalia.com",
+    "phone": "+7 (830) 491-2522"
+  },
+  {
+    "guid": "3c2771c0-c10f-4cbf-bebd-e6dd20ddd863",
+    "group": "Дизайнеры",
+    "position": "Developer",
+    "fullName": "Bianca Durham",
+    "email": "biancadurham@visalia.com",
+    "phone": "+7 (915) 532-3872"
+  },
+  {
+    "guid": "c0c3ef80-913e-449a-9554-797036c992d0",
+    "group": "",
+    "position": "QA",
+    "fullName": "Goodman Goff",
+    "email": "goodmangoff@visalia.com",
+    "phone": "+7 (971) 428-2679"
+  },
+  {
+    "guid": "098a3026-6698-42fc-92ee-4d58c79ba67b",
+    "group": "Разработка",
+    "position": "Manager",
+    "fullName": "Hickman Ross",
+    "email": "hickmanross@visalia.com",
+    "phone": "+7 (878) 524-2070"
+  },
+  {
+    "guid": "8fff659d-3746-4899-b197-f136a539be0d",
+    "group": "Тестирование",
+    "position": "Big boss",
+    "fullName": "Inez Mendoza",
+    "email": "inezmendoza@visalia.com",
+    "phone": "+7 (858) 472-3781"
+  },
+  {
+    "guid": "668d8878-fad0-4e5e-b3fd-a05b68ebff81",
+    "group": "Дизайнеры",
+    "position": "QA",
+    "fullName": "Ramos Walker",
+    "email": "ramoswalker@visalia.com",
+    "phone": "+7 (909) 597-2604"
+  },
+  {
+    "guid": "2c7411df-5642-41ce-8155-4c13fad25952",
+    "group": "Разработка",
+    "position": "Accountant",
+    "fullName": "Mia Shaw",
+    "email": "miashaw@visalia.com",
+    "phone": "+7 (992) 543-2826"
+  },
+  {
+    "guid": "fe0768ab-0472-4895-a34b-b0f9c8b9dd4e",
+    "group": "Управление",
+    "position": "QA",
+    "fullName": "Bell Ray",
+    "email": "bellray@visalia.com",
+    "phone": "+7 (962) 444-2047"
+  },
+  {
+    "guid": "78ec8234-1fe8-4654-ad08-6516b6079035",
+    "group": "Дизайнеры",
+    "position": "System administrator",
+    "fullName": "Sophie Montgomery",
+    "email": "sophiemontgomery@visalia.com",
+    "phone": "+7 (971) 516-2213"
+  },
+  {
+    "guid": "f2d7bd39-9913-427f-aefe-e3a52b91f0e0",
+    "group": "Управление",
+    "position": "Developer",
+    "fullName": "Reeves Romero",
+    "email": "reevesromero@visalia.com",
+    "phone": "+7 (846) 467-3770"
+  },
+  {
+    "guid": "8fda0247-c216-4773-bada-d98791cc2464",
+    "group": "Управление",
+    "position": "System administrator",
+    "fullName": "Beard Alston",
+    "email": "beardalston@visalia.com",
+    "phone": "+7 (995) 590-3023"
+  },
+  {
+    "guid": "ddf900f7-de02-4aeb-9dca-3a18e7047640",
+    "group": "Разработка",
+    "position": "Big boss",
+    "fullName": "Kathrine Campbell",
+    "email": "kathrinecampbell@visalia.com",
+    "phone": "+7 (867) 550-3078"
+  },
+  {
+    "guid": "d0c0c124-c68e-4f79-a817-3a1c7727da3a",
+    "group": "Разработка",
+    "position": "Manager",
+    "fullName": "Rhea Norris",
+    "email": "rheanorris@visalia.com",
+    "phone": "+7 (984) 557-2319"
+  },
+  {
+    "guid": "40714dad-9586-4bcb-87fa-7c17ca763591",
+    "group": "Дизайнеры",
+    "position": "Big boss",
+    "fullName": "Roberson Herring",
+    "email": "robersonherring@visalia.com",
+    "phone": "+7 (979) 414-3327"
+  },
+  {
+    "guid": "f226532d-ff0b-437f-9529-cbc3cb11c0ea",
+    "group": "",
+    "position": "CEO",
+    "fullName": "Millie Mays",
+    "email": "milliemays@visalia.com",
+    "phone": "+7 (860) 570-3380"
+  },
+  {
+    "guid": "ddfc3af4-d716-414b-9597-9a0842160b64",
+    "group": "Дизайнеры",
+    "position": "Manager",
+    "fullName": "Williams Melendez",
+    "email": "williamsmelendez@visalia.com",
+    "phone": "+7 (899) 582-3533"
+  },
+  {
+    "guid": "97749f55-3ae3-4688-a952-264446d2099b",
+    "group": "Бухгалтерия",
+    "position": "QA",
+    "fullName": "Morrison Spence",
+    "email": "morrisonspence@visalia.com",
+    "phone": "+7 (816) 569-3874"
+  },
+  {
+    "guid": "917c656d-f77e-4fb5-b4b4-7cb7f45035e2",
+    "group": "Разработка",
+    "position": "Accountant",
+    "fullName": "Blackwell Bowen",
+    "email": "blackwellbowen@visalia.com",
+    "phone": "+7 (962) 576-2357"
+  },
+  {
+    "guid": "0400e79b-c9d8-441d-a4c0-c0e13870f784",
+    "group": "Дизайнеры",
+    "position": "Manager",
+    "fullName": "Gilda Powers",
+    "email": "gildapowers@visalia.com",
+    "phone": "+7 (880) 426-3904"
+  },
+  {
+    "guid": "cd72ace6-5e0a-4b3e-b62d-2c8f5f7ef35c",
+    "group": "Бухгалтерия",
+    "position": "Accountant",
+    "fullName": "Ferrell Shepherd",
+    "email": "ferrellshepherd@visalia.com",
+    "phone": "+7 (862) 573-2531"
+  },
+  {
+    "guid": "f0727e32-a1d7-42d3-b5a2-1b4f6fd55cdb",
+    "group": "Бухгалтерия",
+    "position": "System administrator",
+    "fullName": "Conway Flores",
+    "email": "conwayflores@visalia.com",
+    "phone": "+7 (933) 589-3144"
+  },
+  {
+    "guid": "1b51ad34-0f5b-4493-a7a4-f52c1f62f7da",
+    "group": "Тестирование",
+    "position": "Developer",
+    "fullName": "Francis Decker",
+    "email": "francisdecker@visalia.com",
+    "phone": "+7 (938) 445-3854"
+  },
+  {
+    "guid": "c3b7787a-caa3-4a9b-86b1-814683d8698d",
+    "group": "",
+    "position": "System administrator",
+    "fullName": "Camacho Bullock",
+    "email": "camachobullock@visalia.com",
+    "phone": "+7 (858) 584-2964"
+  },
+  {
+    "guid": "789a769d-c00a-404e-a657-297587d5074d",
+    "group": "Бухгалтерия",
+    "position": "System administrator",
+    "fullName": "Jordan Bishop",
+    "email": "jordanbishop@visalia.com",
+    "phone": "+7 (926) 480-2119"
+  },
+  {
+    "guid": "3a163791-92e3-479a-adea-ad1e7c7611e6",
+    "group": "Управление",
+    "position": "QA",
+    "fullName": "Janette Dawson",
+    "email": "janettedawson@visalia.com",
+    "phone": "+7 (972) 562-3269"
+  },
+  {
+    "guid": "60859326-2e60-430f-8809-a63063555fdc",
+    "group": "Управление",
+    "position": "Accountant",
+    "fullName": "Bowen Berry",
+    "email": "bowenberry@visalia.com",
+    "phone": "+7 (960) 472-2269"
+  },
+  {
+    "guid": "665dee84-c2c5-44c0-88fa-2b3c4f03dcd3",
+    "group": "Управление",
+    "position": "CEO",
+    "fullName": "Rita Green",
+    "email": "ritagreen@visalia.com",
+    "phone": "+7 (843) 573-3792"
+  },
+  {
+    "guid": "d9fbbd18-1c01-45ae-be31-cc0d7adf6a96",
+    "group": "",
+    "position": "Developer",
+    "fullName": "Mable Sampson",
+    "email": "mablesampson@visalia.com",
+    "phone": "+7 (915) 403-3771"
+  },
+  {
+    "guid": "24b5bf8d-1fac-44bc-9dd8-9cf1a81cd71a",
+    "group": "Разработка",
+    "position": "System administrator",
+    "fullName": "Hilary Roberts",
+    "email": "hilaryroberts@visalia.com",
+    "phone": "+7 (950) 573-3429"
+  },
+  {
+    "guid": "9a67958a-5cf2-4f39-a1cb-c7c667953109",
+    "group": "Тестирование",
+    "position": "System administrator",
+    "fullName": "Pansy Calhoun",
+    "email": "pansycalhoun@visalia.com",
+    "phone": "+7 (890) 521-3595"
+  },
+  {
+    "guid": "06743198-8491-4dfd-a950-abbf0d9ed841",
+    "group": "Бухгалтерия",
+    "position": "CEO",
+    "fullName": "Mcneil Long",
+    "email": "mcneillong@visalia.com",
+    "phone": "+7 (820) 573-2505"
+  },
+  {
+    "guid": "d4edc412-e882-4270-a05c-ff20a988e426",
+    "group": "Дизайнеры",
+    "position": "Developer",
+    "fullName": "Holcomb Delaney",
+    "email": "holcombdelaney@visalia.com",
+    "phone": "+7 (876) 486-2180"
+  },
+  {
+    "guid": "1e27be27-509d-490c-b0bc-ab2c105d7321",
+    "group": "Разработка",
+    "position": "Big boss",
+    "fullName": "Pennington Crosby",
+    "email": "penningtoncrosby@visalia.com",
+    "phone": "+7 (897) 516-3533"
+  },
+  {
+    "guid": "d510ab9f-1f12-4b9e-9efc-525e9a0dbee6",
+    "group": "Разработка",
+    "position": "Manager",
+    "fullName": "Irwin Jarvis",
+    "email": "irwinjarvis@visalia.com",
+    "phone": "+7 (987) 486-3464"
+  },
+  {
+    "guid": "7d31bfd0-a08f-4c74-b79d-4ee4e459f467",
+    "group": "Дизайнеры",
+    "position": "Manager",
+    "fullName": "Jefferson Carrillo",
+    "email": "jeffersoncarrillo@visalia.com",
+    "phone": "+7 (814) 502-3649"
+  },
+  {
+    "guid": "71b3fd04-f4a8-4abd-8f08-283d1c5610d7",
+    "group": "Дизайнеры",
+    "position": "Manager",
+    "fullName": "Reyna Cummings",
+    "email": "reynacummings@visalia.com",
+    "phone": "+7 (858) 567-2527"
+  },
+  {
+    "guid": "a64eae4d-1748-428a-804a-6afb4556783f",
+    "group": "Разработка",
+    "position": "QA",
+    "fullName": "Stevens Finch",
+    "email": "stevensfinch@visalia.com",
+    "phone": "+7 (884) 549-2021"
+  },
+  {
+    "guid": "8d004e3f-bbb0-4768-a766-08d506b8eb67",
+    "group": "Дизайнеры",
+    "position": "System administrator",
+    "fullName": "Marianne Hammond",
+    "email": "mariannehammond@visalia.com",
+    "phone": "+7 (912) 444-2220"
+  },
+  {
+    "guid": "bbcb2c10-9fd4-4259-af96-b4b773f10402",
+    "group": "Разработка",
+    "position": "Manager",
+    "fullName": "Holly Gordon",
+    "email": "hollygordon@visalia.com",
+    "phone": "+7 (893) 464-3067"
+  },
+  {
+    "guid": "db14c6fd-752d-42a7-8671-5891b783048b",
+    "group": "",
+    "position": "Developer",
+    "fullName": "Shana Mullins",
+    "email": "shanamullins@visalia.com",
+    "phone": "+7 (884) 497-3423"
+  },
+  {
+    "guid": "07c7ff13-58a1-42e3-8d58-5311dc320fb7",
+    "group": "Разработка",
+    "position": "CEO",
+    "fullName": "Meghan Brooks",
+    "email": "meghanbrooks@visalia.com",
+    "phone": "+7 (983) 544-2231"
+  },
+  {
+    "guid": "2695a706-ec49-49e7-9893-e6e3ac7015b4",
+    "group": "Разработка",
+    "position": "System administrator",
+    "fullName": "Burgess Montoya",
+    "email": "burgessmontoya@visalia.com",
+    "phone": "+7 (998) 455-3717"
+  },
+  {
+    "guid": "a4160250-6c2b-47b0-be4a-f52ead80987f",
+    "group": "Управление",
+    "position": "CEO",
+    "fullName": "Stacie Oliver",
+    "email": "stacieoliver@visalia.com",
+    "phone": "+7 (935) 444-3015"
+  },
+  {
+    "guid": "d7e5c843-c874-4124-8d5e-e4939c124568",
+    "group": "Тестирование",
+    "position": "Accountant",
+    "fullName": "Sharpe Rutledge",
+    "email": "sharperutledge@visalia.com",
+    "phone": "+7 (973) 415-3675"
+  },
+  {
+    "guid": "c9373ab7-27ca-4f1d-a782-01e9663b5983",
+    "group": "Дизайнеры",
+    "position": "Manager",
+    "fullName": "Spence Mcclain",
+    "email": "spencemcclain@visalia.com",
+    "phone": "+7 (827) 411-2223"
+  },
+  {
+    "guid": "5757423c-6a85-4de8-afd3-10a05947bce9",
+    "group": "Дизайнеры",
+    "position": "Accountant",
+    "fullName": "Alisha Boyle",
+    "email": "alishaboyle@visalia.com",
+    "phone": "+7 (849) 446-3336"
+  },
+  {
+    "guid": "f6de735d-7179-4220-849c-4c244acdcd0d",
+    "group": "Бухгалтерия",
+    "position": "System administrator",
+    "fullName": "Luna Rivas",
+    "email": "lunarivas@visalia.com",
+    "phone": "+7 (808) 519-2863"
+  },
+  {
+    "guid": "ade78294-0000-4ee5-a8ed-b3ce8c141329",
+    "group": "Бухгалтерия",
+    "position": "CEO",
+    "fullName": "Heather Patrick",
+    "email": "heatherpatrick@visalia.com",
+    "phone": "+7 (870) 499-3339"
+  },
+  {
+    "guid": "f379a580-8137-4ccc-b076-5410013841f6",
+    "group": "Тестирование",
+    "position": "Manager",
+    "fullName": "Ware Arnold",
+    "email": "warearnold@visalia.com",
+    "phone": "+7 (986) 515-2069"
+  },
+  {
+    "guid": "3c7d3fb6-36e8-4c8a-ad85-8da2d5c8b536",
+    "group": "",
+    "position": "Developer",
+    "fullName": "Dodson Martin",
+    "email": "dodsonmartin@visalia.com",
+    "phone": "+7 (884) 522-2480"
+  },
+  {
+    "guid": "3f420593-2a62-42bc-ab99-dc3250bc3053",
+    "group": "",
+    "position": "CEO",
+    "fullName": "Sue Leon",
+    "email": "sueleon@visalia.com",
+    "phone": "+7 (830) 559-3287"
+  },
+  {
+    "guid": "63b06979-d36d-45e6-bfd0-fae5d33fa290",
+    "group": "",
+    "position": "Big boss",
+    "fullName": "Kathryn Moses",
+    "email": "kathrynmoses@visalia.com",
+    "phone": "+7 (905) 533-2481"
+  },
+  {
+    "guid": "d0453673-a75c-485e-96b1-c49c076fff6f",
+    "group": "Управление",
+    "position": "CEO",
+    "fullName": "Wyatt Barnett",
+    "email": "wyattbarnett@visalia.com",
+    "phone": "+7 (974) 482-3840"
+  },
+  {
+    "guid": "32db13c2-4e73-4a1e-889e-96928fa510fd",
+    "group": "Тестирование",
+    "position": "Accountant",
+    "fullName": "Dee Gallegos",
+    "email": "deegallegos@visalia.com",
+    "phone": "+7 (800) 476-3583"
+  },
+  {
+    "guid": "33f87e9b-4470-4841-ab27-d38e5687cdf0",
+    "group": "Дизайнеры",
+    "position": "System administrator",
+    "fullName": "Caldwell Irwin",
+    "email": "caldwellirwin@visalia.com",
+    "phone": "+7 (857) 516-2971"
+  },
+  {
+    "guid": "a3f05a04-5c97-4c98-88d6-a7d48cb174c7",
+    "group": "Тестирование",
+    "position": "Manager",
+    "fullName": "Alexandra Rosa",
+    "email": "alexandrarosa@visalia.com",
+    "phone": "+7 (887) 474-3397"
+  },
+  {
+    "guid": "655f5683-6ceb-4b80-934b-3faa29e00639",
+    "group": "Дизайнеры",
+    "position": "Developer",
+    "fullName": "Ada Hess",
+    "email": "adahess@visalia.com",
+    "phone": "+7 (875) 526-3786"
+  },
+  {
+    "guid": "a4b651b9-fb85-4f86-8f32-b23d70dc8da6",
+    "group": "",
+    "position": "QA",
+    "fullName": "Kline Patel",
+    "email": "klinepatel@visalia.com",
+    "phone": "+7 (805) 542-2722"
+  },
+  {
+    "guid": "139fe625-06ec-43c5-8944-b655adbace38",
+    "group": "Бухгалтерия",
+    "position": "Developer",
+    "fullName": "Hallie Mcmahon",
+    "email": "halliemcmahon@visalia.com",
+    "phone": "+7 (961) 483-3841"
+  },
+  {
+    "guid": "9f81191e-e351-428d-9d5a-c6da9bee679a",
+    "group": "Тестирование",
+    "position": "Accountant",
+    "fullName": "Jerry Blevins",
+    "email": "jerryblevins@visalia.com",
+    "phone": "+7 (958) 455-2680"
+  },
+  {
+    "guid": "1ed7261b-ea95-45dc-9fc4-0a2c6ac1cc58",
+    "group": "Управление",
+    "position": "Accountant",
+    "fullName": "Keith Barrett",
+    "email": "keithbarrett@visalia.com",
+    "phone": "+7 (889) 412-3091"
+  },
+  {
+    "guid": "c63b35b7-2617-4eee-a012-e45dee84c62f",
+    "group": "Бухгалтерия",
+    "position": "Manager",
+    "fullName": "Angie Odonnell",
+    "email": "angieodonnell@visalia.com",
+    "phone": "+7 (852) 462-3828"
+  },
+  {
+    "guid": "0b52d74a-db60-4aba-a9d5-0fcf7dc222af",
+    "group": "Дизайнеры",
+    "position": "Manager",
+    "fullName": "Summer Golden",
+    "email": "summergolden@visalia.com",
+    "phone": "+7 (997) 546-3661"
+  },
+  {
+    "guid": "81174665-349d-49c0-baee-9c4a58de2bf9",
+    "group": "Дизайнеры",
+    "position": "QA",
+    "fullName": "Ewing Dillon",
+    "email": "ewingdillon@visalia.com",
+    "phone": "+7 (947) 426-2531"
+  },
+  {
+    "guid": "d4672c22-40c2-48ad-9178-c5249f4d85a8",
+    "group": "Разработка",
+    "position": "System administrator",
+    "fullName": "Greer Vinson",
+    "email": "greervinson@visalia.com",
+    "phone": "+7 (981) 477-3420"
+  },
+  {
+    "guid": "b181bacd-6fbc-46d7-a770-16bdee5542fa",
+    "group": "Разработка",
+    "position": "QA",
+    "fullName": "Sofia Hale",
+    "email": "sofiahale@visalia.com",
+    "phone": "+7 (990) 468-2780"
+  },
+  {
+    "guid": "7fe5fa84-3d34-4731-bf64-fb4da314e942",
+    "group": "Дизайнеры",
+    "position": "Accountant",
+    "fullName": "Lakisha Lancaster",
+    "email": "lakishalancaster@visalia.com",
+    "phone": "+7 (800) 507-2806"
+  },
+  {
+    "guid": "77b6ad7c-e6dd-4d29-96ab-4b87c6b03821",
+    "group": "Тестирование",
+    "position": "CEO",
+    "fullName": "May Hernandez",
+    "email": "mayhernandez@visalia.com",
+    "phone": "+7 (878) 445-3894"
+  },
+  {
+    "guid": "e0d4b028-24f3-4b46-af06-7323447dc177",
+    "group": "Тестирование",
+    "position": "Big boss",
+    "fullName": "Brandy Maynard",
+    "email": "brandymaynard@visalia.com",
+    "phone": "+7 (848) 497-2625"
+  },
+  {
+    "guid": "32684480-f8e4-441e-b214-fbc95d97bf6e",
+    "group": "Бухгалтерия",
+    "position": "Big boss",
+    "fullName": "Acosta Fischer",
+    "email": "acostafischer@visalia.com",
+    "phone": "+7 (845) 492-2755"
+  },
+  {
+    "guid": "707b0605-6e06-4bda-b7bc-b2a924749605",
+    "group": "Дизайнеры",
+    "position": "System administrator",
+    "fullName": "Latasha Travis",
+    "email": "latashatravis@visalia.com",
+    "phone": "+7 (896) 502-2816"
+  },
+  {
+    "guid": "c94c7063-1166-479d-8b2c-0f76d9bc55fb",
+    "group": "Дизайнеры",
+    "position": "Accountant",
+    "fullName": "Carly Foley",
+    "email": "carlyfoley@visalia.com",
+    "phone": "+7 (892) 590-2372"
+  },
+  {
+    "guid": "31e48ef4-5f5b-4f97-a215-88741b3c744a",
+    "group": "",
+    "position": "QA",
+    "fullName": "Woods Gilbert",
+    "email": "woodsgilbert@visalia.com",
+    "phone": "+7 (908) 401-2871"
+  },
+  {
+    "guid": "5521931b-1e93-4077-afe3-a07dafb7a5a3",
+    "group": "Бухгалтерия",
+    "position": "Big boss",
+    "fullName": "Baxter Wyatt",
+    "email": "baxterwyatt@visalia.com",
+    "phone": "+7 (880) 470-3547"
+  },
+  {
+    "guid": "013fe736-8fea-408e-9077-8240f766c225",
+    "group": "Тестирование",
+    "position": "Accountant",
+    "fullName": "Leigh Mcmillan",
+    "email": "leighmcmillan@visalia.com",
+    "phone": "+7 (911) 521-3788"
+  },
+  {
+    "guid": "fe604589-bda3-4fb4-93dd-2e404b845fba",
+    "group": "Разработка",
+    "position": "Accountant",
+    "fullName": "Deborah Bender",
+    "email": "deborahbender@visalia.com",
+    "phone": "+7 (932) 465-2493"
+  },
+  {
+    "guid": "442baf9e-c436-4898-a43a-5bad121dd2df",
+    "group": "Бухгалтерия",
+    "position": "Accountant",
+    "fullName": "Cole Cardenas",
+    "email": "colecardenas@visalia.com",
+    "phone": "+7 (857) 554-2881"
+  },
+  {
+    "guid": "6d0bbd97-71ce-4870-88b4-4d79111ebb32",
+    "group": "Тестирование",
+    "position": "Developer",
+    "fullName": "Shelby Clark",
+    "email": "shelbyclark@visalia.com",
+    "phone": "+7 (992) 492-3340"
+  },
+  {
+    "guid": "40616adf-a0ef-4956-aece-80976744798b",
+    "group": "Разработка",
+    "position": "CEO",
+    "fullName": "Maria Chaney",
+    "email": "mariachaney@visalia.com",
+    "phone": "+7 (877) 457-2426"
+  },
+  {
+    "guid": "a40039e8-82bb-4f2a-9f69-be240aecc0b1",
+    "group": "Дизайнеры",
+    "position": "Developer",
+    "fullName": "Maryann Cantrell",
+    "email": "maryanncantrell@visalia.com",
+    "phone": "+7 (865) 407-2307"
+  },
+  {
+    "guid": "89b9a8f6-a66b-43a3-b026-0c6e52ba58a7",
+    "group": "",
+    "position": "System administrator",
+    "fullName": "Maldonado Perez",
+    "email": "maldonadoperez@visalia.com",
+    "phone": "+7 (857) 419-3084"
+  },
+  {
+    "guid": "71894b5d-d616-4687-bd17-10069cb0087c",
+    "group": "Дизайнеры",
+    "position": "System administrator",
+    "fullName": "Chase Alvarado",
+    "email": "chasealvarado@visalia.com",
+    "phone": "+7 (957) 580-2365"
+  },
+  {
+    "guid": "ecae93fb-d11b-434f-95dc-8beebb6a50e5",
+    "group": "Бухгалтерия",
+    "position": "Accountant",
+    "fullName": "Edwards Soto",
+    "email": "edwardssoto@visalia.com",
+    "phone": "+7 (890) 423-2769"
+  },
+  {
+    "guid": "54c6b38e-9eba-4307-81f8-26e8cf89a69c",
+    "group": "Дизайнеры",
+    "position": "Developer",
+    "fullName": "Kelly Marshall",
+    "email": "kellymarshall@visalia.com",
+    "phone": "+7 (867) 535-3127"
+  },
+  {
+    "guid": "55ab0dee-6537-4e0c-9ca2-219cfa981706",
+    "group": "Бухгалтерия",
+    "position": "Developer",
+    "fullName": "Lawrence Fry",
+    "email": "lawrencefry@visalia.com",
+    "phone": "+7 (810) 593-3815"
+  },
+  {
+    "guid": "d167b21b-e164-4abc-ae2c-6e07abdf69bf",
+    "group": "",
+    "position": "QA",
+    "fullName": "Julie Beck",
+    "email": "juliebeck@visalia.com",
+    "phone": "+7 (972) 452-2676"
+  },
+  {
+    "guid": "8e911836-3456-408f-a7e5-7b89a12897e2",
+    "group": "Тестирование",
+    "position": "Accountant",
+    "fullName": "Rodgers Chapman",
+    "email": "rodgerschapman@visalia.com",
+    "phone": "+7 (919) 553-2592"
+  },
+  {
+    "guid": "b3724b94-a185-4e9a-a639-552f1a005036",
+    "group": "Бухгалтерия",
+    "position": "Big boss",
+    "fullName": "Aida Love",
+    "email": "aidalove@visalia.com",
+    "phone": "+7 (984) 431-3641"
+  },
+  {
+    "guid": "d768ec4b-2e2e-42c1-aa47-096a0bdc1ee7",
+    "group": "Бухгалтерия",
+    "position": "System administrator",
+    "fullName": "Clare Ward",
+    "email": "clareward@visalia.com",
+    "phone": "+7 (973) 539-2389"
+  },
+  {
+    "guid": "a8790a9e-017d-4c10-9ce0-681ce65e447d",
+    "group": "Управление",
+    "position": "Manager",
+    "fullName": "Barnes Gates",
+    "email": "barnesgates@visalia.com",
+    "phone": "+7 (985) 464-2654"
+  },
+  {
+    "guid": "94e75d9a-762b-4a57-bf32-e358fb724abb",
+    "group": "Дизайнеры",
+    "position": "Big boss",
+    "fullName": "Muriel Brady",
+    "email": "murielbrady@visalia.com",
+    "phone": "+7 (981) 595-3576"
+  },
+  {
+    "guid": "b5ab8759-173d-4915-ac8f-665f19a9bd2e",
+    "group": "Управление",
+    "position": "System administrator",
+    "fullName": "Sheree Warner",
+    "email": "shereewarner@visalia.com",
+    "phone": "+7 (894) 439-3046"
+  },
+  {
+    "guid": "918516e1-d347-4746-b2f1-4f212547cd13",
+    "group": "Тестирование",
+    "position": "Big boss",
+    "fullName": "Austin Young",
+    "email": "austinyoung@visalia.com",
+    "phone": "+7 (922) 560-3743"
+  },
+  {
+    "guid": "909bf547-1c95-416c-afba-6532a8ef2a8e",
+    "group": "",
+    "position": "System administrator",
+    "fullName": "Stephenson Castillo",
+    "email": "stephensoncastillo@visalia.com",
+    "phone": "+7 (967) 464-3122"
+  },
+  {
+    "guid": "f1337ec0-c1e9-4e1b-ab53-d498dba4825b",
+    "group": "Управление",
+    "position": "Big boss",
+    "fullName": "Natalia Collins",
+    "email": "nataliacollins@visalia.com",
+    "phone": "+7 (976) 445-2324"
+  },
+  {
+    "guid": "d838a5c0-66d3-4f3d-b711-46dcf354246e",
+    "group": "Тестирование",
+    "position": "Big boss",
+    "fullName": "Beatrice Rush",
+    "email": "beatricerush@visalia.com",
+    "phone": "+7 (892) 529-3469"
+  },
+  {
+    "guid": "81ebc1ff-e1e6-442a-b602-162688d34b8f",
+    "group": "Управление",
+    "position": "QA",
+    "fullName": "Ofelia Lowery",
+    "email": "ofelialowery@visalia.com",
+    "phone": "+7 (825) 529-3333"
+  },
+  {
+    "guid": "5f16f7df-741e-4421-87ff-ca77750de33a",
+    "group": "Разработка",
+    "position": "CEO",
+    "fullName": "Terra Fleming",
+    "email": "terrafleming@visalia.com",
+    "phone": "+7 (960) 493-3393"
+  },
+  {
+    "guid": "b82be6b0-949f-47d7-b02d-3b040302271e",
+    "group": "Разработка",
+    "position": "CEO",
+    "fullName": "Serrano Williamson",
+    "email": "serranowilliamson@visalia.com",
+    "phone": "+7 (913) 442-3320"
+  },
+  {
+    "guid": "871fc27a-c427-4e21-b777-d5f001cd8a16",
+    "group": "Дизайнеры",
+    "position": "System administrator",
+    "fullName": "Grace Johns",
+    "email": "gracejohns@visalia.com",
+    "phone": "+7 (952) 529-2892"
+  },
+  {
+    "guid": "987d5e61-fbe0-4133-8662-be41a80639f0",
+    "group": "Тестирование",
+    "position": "Big boss",
+    "fullName": "Elba Cote",
+    "email": "elbacote@visalia.com",
+    "phone": "+7 (973) 515-3728"
+  },
+  {
+    "guid": "c13ccfc4-75ca-48b5-a138-8daa186bf7ac",
+    "group": "",
+    "position": "CEO",
+    "fullName": "Kay Calderon",
+    "email": "kaycalderon@visalia.com",
+    "phone": "+7 (899) 497-2603"
+  },
+  {
+    "guid": "2205a31b-d180-4b71-8a30-ffae3febc8e3",
+    "group": "Бухгалтерия",
+    "position": "Big boss",
+    "fullName": "Gregory Noble",
+    "email": "gregorynoble@visalia.com",
+    "phone": "+7 (975) 467-3902"
+  },
+  {
+    "guid": "ac8c9725-7d20-4650-99de-58dfb633440a",
+    "group": "Разработка",
+    "position": "CEO",
+    "fullName": "Brittney Cortez",
+    "email": "brittneycortez@visalia.com",
+    "phone": "+7 (966) 450-2424"
+  },
+  {
+    "guid": "b03d7143-e676-4faa-ba8b-cccf5ee3d6c7",
+    "group": "Разработка",
+    "position": "Developer",
+    "fullName": "Haley Guthrie",
+    "email": "haleyguthrie@visalia.com",
+    "phone": "+7 (927) 496-3066"
+  },
+  {
+    "guid": "cb84df9c-7121-4e7c-98a1-d0d17e62f173",
+    "group": "Бухгалтерия",
+    "position": "Developer",
+    "fullName": "Young Reed",
+    "email": "youngreed@visalia.com",
+    "phone": "+7 (897) 577-3048"
+  },
+  {
+    "guid": "9f0e7923-3153-4b13-99b1-217b662f19f1",
+    "group": "Тестирование",
+    "position": "QA",
+    "fullName": "Susanna Diaz",
+    "email": "susannadiaz@visalia.com",
+    "phone": "+7 (982) 571-2229"
+  },
+  {
+    "guid": "5cfe0b0e-c002-4351-a312-de7fe131556d",
+    "group": "Разработка",
+    "position": "CEO",
+    "fullName": "Harriett Freeman",
+    "email": "harriettfreeman@visalia.com",
+    "phone": "+7 (816) 544-3007"
+  },
+  {
+    "guid": "49d4443f-8dcf-4a05-96ca-7bf0251c54e7",
+    "group": "Бухгалтерия",
+    "position": "System administrator",
+    "fullName": "Adele Nelson",
+    "email": "adelenelson@visalia.com",
+    "phone": "+7 (889) 527-2701"
+  },
+  {
+    "guid": "03fbe690-d1ee-49c5-960f-671c8f224907",
+    "group": "Разработка",
+    "position": "Developer",
+    "fullName": "Patricia Morgan",
+    "email": "patriciamorgan@visalia.com",
+    "phone": "+7 (963) 436-3791"
+  },
+  {
+    "guid": "02669dc7-bcb7-46de-b8fd-92cc589b8319",
+    "group": "Дизайнеры",
+    "position": "QA",
+    "fullName": "Kris Cunningham",
+    "email": "kriscunningham@visalia.com",
+    "phone": "+7 (845) 521-2812"
+  },
+  {
+    "guid": "4f526aeb-0ba7-4e1a-be98-b2b18505c1c4",
+    "group": "",
+    "position": "Manager",
+    "fullName": "Colleen Norman",
+    "email": "colleennorman@visalia.com",
+    "phone": "+7 (861) 569-3165"
+  },
+  {
+    "guid": "47a2a846-3adb-4bce-a140-fbc3aba9d3ec",
+    "group": "Управление",
+    "position": "CEO",
+    "fullName": "Thornton Graham",
+    "email": "thorntongraham@visalia.com",
+    "phone": "+7 (876) 595-3651"
+  },
+  {
+    "guid": "da4a7d2e-fe97-465a-87c7-5fc9a0fda59b",
+    "group": "",
+    "position": "Developer",
+    "fullName": "Kerry Monroe",
+    "email": "kerrymonroe@visalia.com",
+    "phone": "+7 (828) 518-2975"
+  },
+  {
+    "guid": "3d22fa9e-82f3-4145-9c4b-e35f027621f9",
+    "group": "Дизайнеры",
+    "position": "Developer",
+    "fullName": "Vickie Hardy",
+    "email": "vickiehardy@visalia.com",
+    "phone": "+7 (869) 528-2694"
+  },
+  {
+    "guid": "0ecfe603-b023-4206-9fbd-a704432010d4",
+    "group": "Разработка",
+    "position": "Developer",
+    "fullName": "Hurst Merrill",
+    "email": "hurstmerrill@visalia.com",
+    "phone": "+7 (803) 480-2156"
+  },
+  {
+    "guid": "a4892c8c-9b0a-4487-93c4-63b4dbf27a5e",
+    "group": "Бухгалтерия",
+    "position": "Manager",
+    "fullName": "Wallace Santana",
+    "email": "wallacesantana@visalia.com",
+    "phone": "+7 (903) 593-3109"
+  },
+  {
+    "guid": "2ac7d14e-8753-4740-b2a5-eb1662adf3d4",
+    "group": "Тестирование",
+    "position": "Manager",
+    "fullName": "Lydia Warren",
+    "email": "lydiawarren@visalia.com",
+    "phone": "+7 (903) 443-2097"
+  },
+  {
+    "guid": "d880201b-c37b-49c4-90b0-7573f6abddcf",
+    "group": "",
+    "position": "CEO",
+    "fullName": "Jerri Rose",
+    "email": "jerrirose@visalia.com",
+    "phone": "+7 (916) 485-2381"
+  },
+  {
+    "guid": "9af07895-b31d-40fc-a788-a40f24646d9e",
+    "group": "Тестирование",
+    "position": "Accountant",
+    "fullName": "Herring Carney",
+    "email": "herringcarney@visalia.com",
+    "phone": "+7 (867) 437-3144"
+  },
+  {
+    "guid": "5288cad3-a7e7-454e-8085-4f4a9cdcb94f",
+    "group": "Бухгалтерия",
+    "position": "Big boss",
+    "fullName": "House Cobb",
+    "email": "housecobb@visalia.com",
+    "phone": "+7 (935) 444-2622"
+  },
+  {
+    "guid": "b756ba2d-2704-41d9-9f44-629a7efd6aa6",
+    "group": "Управление",
+    "position": "System administrator",
+    "fullName": "Lesa Reese",
+    "email": "lesareese@visalia.com",
+    "phone": "+7 (894) 539-2138"
+  },
+  {
+    "guid": "3f66b7a7-78fa-458c-a9f5-5691f0eefa8d",
+    "group": "Дизайнеры",
+    "position": "Developer",
+    "fullName": "Gay Macias",
+    "email": "gaymacias@visalia.com",
+    "phone": "+7 (891) 586-3904"
+  },
+  {
+    "guid": "e8897cff-6eed-43b6-95cf-28c3ce357fe4",
+    "group": "Бухгалтерия",
+    "position": "System administrator",
+    "fullName": "Rosales Elliott",
+    "email": "rosaleselliott@visalia.com",
+    "phone": "+7 (834) 524-2422"
+  },
+  {
+    "guid": "7bba02d3-793d-440d-bc32-36eaac8748b5",
+    "group": "Управление",
+    "position": "QA",
+    "fullName": "Barbra Bond",
+    "email": "barbrabond@visalia.com",
+    "phone": "+7 (843) 484-3013"
+  },
+  {
+    "guid": "b5f17110-6634-47a9-89eb-92d900946677",
+    "group": "Управление",
+    "position": "Developer",
+    "fullName": "Laura Kelly",
+    "email": "laurakelly@visalia.com",
+    "phone": "+7 (858) 526-3598"
+  },
+  {
+    "guid": "c7bfeb5b-9228-4e00-848d-02196308094e",
+    "group": "Разработка",
+    "position": "Developer",
+    "fullName": "Benjamin Hopkins",
+    "email": "benjaminhopkins@visalia.com",
+    "phone": "+7 (935) 573-2315"
+  },
+  {
+    "guid": "c20fc685-b730-4451-8d83-36e378a6f198",
+    "group": "Дизайнеры",
+    "position": "Developer",
+    "fullName": "Bessie Mcdowell",
+    "email": "bessiemcdowell@visalia.com",
+    "phone": "+7 (818) 407-3996"
+  },
+  {
+    "guid": "627ab3a2-84eb-4046-80ec-e82ff841dd33",
+    "group": "Разработка",
+    "position": "CEO",
+    "fullName": "Randolph Wilson",
+    "email": "randolphwilson@visalia.com",
+    "phone": "+7 (808) 514-3393"
+  },
+  {
+    "guid": "9a7c2119-da38-4aef-8ab2-06682e79ed19",
+    "group": "Дизайнеры",
+    "position": "CEO",
+    "fullName": "Wagner Manning",
+    "email": "wagnermanning@visalia.com",
+    "phone": "+7 (896) 538-3546"
+  },
+  {
+    "guid": "2084674f-1eae-4613-9cd7-750c76a88b4f",
+    "group": "Разработка",
+    "position": "CEO",
+    "fullName": "Stuart Hebert",
+    "email": "stuarthebert@visalia.com",
+    "phone": "+7 (880) 474-3605"
+  },
+  {
+    "guid": "c7c89e9b-4925-41f4-9679-9f8b58aeb001",
+    "group": "Управление",
+    "position": "QA",
+    "fullName": "Carmen Evans",
+    "email": "carmenevans@visalia.com",
+    "phone": "+7 (913) 561-2756"
+  },
+  {
+    "guid": "a62bf804-758f-4014-84aa-c1ee0b991057",
+    "group": "Разработка",
+    "position": "CEO",
+    "fullName": "Cooper Workman",
+    "email": "cooperworkman@visalia.com",
+    "phone": "+7 (944) 432-3482"
+  },
+  {
+    "guid": "93c85a0a-9914-4ac1-aa1f-b0f9f1308312",
+    "group": "Управление",
+    "position": "Manager",
+    "fullName": "Krista Alexander",
+    "email": "kristaalexander@visalia.com",
+    "phone": "+7 (938) 442-3518"
+  },
+  {
+    "guid": "3205232d-b62e-4a08-9cf6-cac5cec1137e",
+    "group": "Дизайнеры",
+    "position": "QA",
+    "fullName": "Delacruz Mccullough",
+    "email": "delacruzmccullough@visalia.com",
+    "phone": "+7 (818) 473-3088"
+  },
+  {
+    "guid": "76012f16-a78c-4e81-9c91-513591373dae",
+    "group": "Управление",
+    "position": "Manager",
+    "fullName": "Jones Brewer",
+    "email": "jonesbrewer@visalia.com",
+    "phone": "+7 (895) 434-2689"
+  },
+  {
+    "guid": "47a8584e-a2b9-45ef-a203-50a914ea4b24",
+    "group": "Бухгалтерия",
+    "position": "QA",
+    "fullName": "Jillian Beard",
+    "email": "jillianbeard@visalia.com",
+    "phone": "+7 (882) 559-3947"
+  },
+  {
+    "guid": "57fdac5f-8e80-4abe-a5d8-c54d59eee76d",
+    "group": "Разработка",
+    "position": "CEO",
+    "fullName": "Sonia Bradshaw",
+    "email": "soniabradshaw@visalia.com",
+    "phone": "+7 (870) 419-3783"
+  },
+  {
+    "guid": "d89fe8f4-2277-4b0a-9f7e-ddd9c066a70b",
+    "group": "Управление",
+    "position": "Manager",
+    "fullName": "Olga Mayo",
+    "email": "olgamayo@visalia.com",
+    "phone": "+7 (855) 593-3658"
+  },
+  {
+    "guid": "0fece12e-2d4d-4934-9f5c-16a42e3962dc",
+    "group": "Бухгалтерия",
+    "position": "Accountant",
+    "fullName": "Lane Ewing",
+    "email": "laneewing@visalia.com",
+    "phone": "+7 (926) 485-2302"
+  },
+  {
+    "guid": "920b6df2-b4b5-4065-942b-43d1651c0102",
+    "group": "Дизайнеры",
+    "position": "System administrator",
+    "fullName": "Burris Scott",
+    "email": "burrisscott@visalia.com",
+    "phone": "+7 (904) 599-3445"
+  },
+  {
+    "guid": "714c3c3a-e7e1-415c-8285-ec1adcc671a8",
+    "group": "Дизайнеры",
+    "position": "Accountant",
+    "fullName": "Ellis Walters",
+    "email": "elliswalters@visalia.com",
+    "phone": "+7 (958) 511-2058"
+  },
+  {
+    "guid": "71ed65b7-1a04-44c1-bce2-31781b66fe6e",
+    "group": "",
+    "position": "Manager",
+    "fullName": "Angelita Horne",
+    "email": "angelitahorne@visalia.com",
+    "phone": "+7 (858) 456-3337"
+  },
+  {
+    "guid": "793dac1f-96a3-4bf5-bd57-de0276012b9f",
+    "group": "Дизайнеры",
+    "position": "QA",
+    "fullName": "Donna Hill",
+    "email": "donnahill@visalia.com",
+    "phone": "+7 (865) 551-2973"
+  },
+  {
+    "guid": "5a494b8e-95f2-4e3f-bd20-0886bdecf493",
+    "group": "Управление",
+    "position": "Developer",
+    "fullName": "Tisha Zamora",
+    "email": "tishazamora@visalia.com",
+    "phone": "+7 (927) 579-3478"
+  },
+  {
+    "guid": "f2343f1e-fd3d-4fb7-aa92-5118a9a48000",
+    "group": "Бухгалтерия",
+    "position": "QA",
+    "fullName": "Tonya Richardson",
+    "email": "tonyarichardson@visalia.com",
+    "phone": "+7 (850) 446-2118"
+  },
+  {
+    "guid": "fcf6adab-ddc6-423a-a9f5-9122a3f8e17d",
+    "group": "Дизайнеры",
+    "position": "Manager",
+    "fullName": "Sheri Carroll",
+    "email": "shericarroll@visalia.com",
+    "phone": "+7 (845) 580-2687"
+  },
+  {
+    "guid": "d16044ae-11a6-42ae-b4e3-5bd6f5ce0c0c",
+    "group": "Дизайнеры",
+    "position": "Developer",
+    "fullName": "Coleen Townsend",
+    "email": "coleentownsend@visalia.com",
+    "phone": "+7 (968) 552-2008"
+  },
+  {
+    "guid": "ba54acc8-4519-4644-8efd-6d78a76c1dc3",
+    "group": "Тестирование",
+    "position": "Accountant",
+    "fullName": "Becker Richards",
+    "email": "beckerrichards@visalia.com",
+    "phone": "+7 (912) 493-2334"
+  },
+  {
+    "guid": "8b3f742a-30d6-4c31-9ca1-1ad71d5df378",
+    "group": "",
+    "position": "Big boss",
+    "fullName": "Cherie Pittman",
+    "email": "cheriepittman@visalia.com",
+    "phone": "+7 (947) 514-3177"
+  },
+  {
+    "guid": "33a84406-d1d2-4252-8704-73e4a2aeb987",
+    "group": "Управление",
+    "position": "Developer",
+    "fullName": "Adela Porter",
+    "email": "adelaporter@visalia.com",
+    "phone": "+7 (941) 473-2068"
+  },
+  {
+    "guid": "40e6dbe9-bdd6-441f-b58a-8a33e2a8e12a",
+    "group": "Бухгалтерия",
+    "position": "QA",
+    "fullName": "Brenda Watkins",
+    "email": "brendawatkins@visalia.com",
+    "phone": "+7 (924) 525-3420"
+  },
+  {
+    "guid": "f03fbe6b-a4d9-43fc-81ed-1eb60445c568",
+    "group": "Дизайнеры",
+    "position": "CEO",
+    "fullName": "Vega Fox",
+    "email": "vegafox@visalia.com",
+    "phone": "+7 (894) 469-2954"
+  },
+  {
+    "guid": "6a3c8add-a2c6-4679-83c1-3fc156ed3825",
+    "group": "Бухгалтерия",
+    "position": "CEO",
+    "fullName": "Marks Valentine",
+    "email": "marksvalentine@visalia.com",
+    "phone": "+7 (962) 589-2596"
+  },
+  {
+    "guid": "4f0de417-1a88-4b05-a56a-0b4b78ca5eb0",
+    "group": "Управление",
+    "position": "Developer",
+    "fullName": "Fox Bailey",
+    "email": "foxbailey@visalia.com",
+    "phone": "+7 (915) 494-3329"
+  },
+  {
+    "guid": "34d669b4-293b-43f5-b78d-2fc2f11e51bf",
+    "group": "",
+    "position": "CEO",
+    "fullName": "Davis Hughes",
+    "email": "davishughes@visalia.com",
+    "phone": "+7 (930) 465-3810"
+  },
+  {
+    "guid": "fb638311-7fbf-4332-8432-e0b31e3289d3",
+    "group": "Управление",
+    "position": "Developer",
+    "fullName": "Lynn Wiley",
+    "email": "lynnwiley@visalia.com",
+    "phone": "+7 (851) 403-3000"
+  },
+  {
+    "guid": "5b1ec7dd-9620-421c-ba16-0bd5f113f86a",
+    "group": "Разработка",
+    "position": "Accountant",
+    "fullName": "Corine Mathews",
+    "email": "corinemathews@visalia.com",
+    "phone": "+7 (944) 406-2260"
+  },
+  {
+    "guid": "2274a373-7498-4d76-bca7-7a156ff314c1",
+    "group": "Тестирование",
+    "position": "Developer",
+    "fullName": "Guadalupe Potts",
+    "email": "guadalupepotts@visalia.com",
+    "phone": "+7 (994) 441-3285"
+  },
+  {
+    "guid": "f9fcb09e-9c65-4489-ba4a-b7893918aa8a",
+    "group": "Тестирование",
+    "position": "System administrator",
+    "fullName": "Fran Stokes",
+    "email": "franstokes@visalia.com",
+    "phone": "+7 (911) 592-3695"
+  },
+  {
+    "guid": "243c3dc0-936c-4420-8077-10ecc645f20b",
+    "group": "Тестирование",
+    "position": "Manager",
+    "fullName": "Morris Reynolds",
+    "email": "morrisreynolds@visalia.com",
+    "phone": "+7 (948) 478-2228"
+  },
+  {
+    "guid": "2f081044-040e-4a84-8931-fc4394c28820",
+    "group": "",
+    "position": "Accountant",
+    "fullName": "Ochoa Velasquez",
+    "email": "ochoavelasquez@visalia.com",
+    "phone": "+7 (933) 582-3409"
+  },
+  {
+    "guid": "d923b927-2097-4b29-a171-93fb255e9526",
+    "group": "Дизайнеры",
+    "position": "QA",
+    "fullName": "Lorna Nixon",
+    "email": "lornanixon@visalia.com",
+    "phone": "+7 (910) 498-2812"
+  },
+  {
+    "guid": "f5334eab-96a1-4166-9b9c-2ee68db91c3d",
+    "group": "Бухгалтерия",
+    "position": "System administrator",
+    "fullName": "Stacy Frye",
+    "email": "stacyfrye@visalia.com",
+    "phone": "+7 (992) 530-2361"
+  },
+  {
+    "guid": "1b27613c-f3c2-4ca7-8ac6-514fe66b3350",
+    "group": "Управление",
+    "position": "Big boss",
+    "fullName": "Lindsay Clements",
+    "email": "lindsayclements@visalia.com",
+    "phone": "+7 (973) 419-3395"
+  },
+  {
+    "guid": "325a34d2-51d6-4c47-bf06-9dbaed03ee1c",
+    "group": "Управление",
+    "position": "CEO",
+    "fullName": "Flowers Pruitt",
+    "email": "flowerspruitt@visalia.com",
+    "phone": "+7 (946) 461-2795"
+  },
+  {
+    "guid": "791fa35d-def1-49aa-bbed-8fe354fb357f",
+    "group": "Бухгалтерия",
+    "position": "Manager",
+    "fullName": "Hahn Osborne",
+    "email": "hahnosborne@visalia.com",
+    "phone": "+7 (963) 470-2384"
+  },
+  {
+    "guid": "e03689b4-c2cd-4495-bbe0-150096a43e54",
+    "group": "Управление",
+    "position": "Developer",
+    "fullName": "Jennifer Hensley",
+    "email": "jenniferhensley@visalia.com",
+    "phone": "+7 (926) 566-2655"
+  },
+  {
+    "guid": "e52d1389-6135-4d62-9b24-27c14d3fbdeb",
+    "group": "Бухгалтерия",
+    "position": "Big boss",
+    "fullName": "Amber House",
+    "email": "amberhouse@visalia.com",
+    "phone": "+7 (937) 425-3484"
+  },
+  {
+    "guid": "91b33451-6faf-47ee-bf44-e9d1fa8259c5",
+    "group": "Разработка",
+    "position": "QA",
+    "fullName": "Matilda Barr",
+    "email": "matildabarr@visalia.com",
+    "phone": "+7 (890) 598-3823"
+  },
+  {
+    "guid": "c4d83958-6c97-4088-b446-a8e5e3508700",
+    "group": "Разработка",
+    "position": "Manager",
+    "fullName": "Shawna Ellis",
+    "email": "shawnaellis@visalia.com",
+    "phone": "+7 (850) 508-2512"
+  },
+  {
+    "guid": "94875e07-b45b-427b-a835-b7c7532d67ed",
+    "group": "Тестирование",
+    "position": "Developer",
+    "fullName": "Antonia Garrison",
+    "email": "antoniagarrison@visalia.com",
+    "phone": "+7 (979) 508-2514"
+  },
+  {
+    "guid": "6133de06-edfe-4715-9976-84a690f881f3",
+    "group": "",
+    "position": "Accountant",
+    "fullName": "Alba Ruiz",
+    "email": "albaruiz@visalia.com",
+    "phone": "+7 (887) 443-3379"
+  },
+  {
+    "guid": "f5dd3453-db9e-4733-9a96-4f137c456c00",
+    "group": "Разработка",
+    "position": "QA",
+    "fullName": "Maricela Tyler",
+    "email": "maricelatyler@visalia.com",
+    "phone": "+7 (950) 570-2586"
+  },
+  {
+    "guid": "978041f3-3086-4634-b5ed-996e7abe3ebb",
+    "group": "Разработка",
+    "position": "Big boss",
+    "fullName": "Castaneda Sharpe",
+    "email": "castanedasharpe@visalia.com",
+    "phone": "+7 (926) 416-2306"
+  },
+  {
+    "guid": "a7e64dd2-e1df-44ab-88f8-25a20137cd0a",
+    "group": "Тестирование",
+    "position": "QA",
+    "fullName": "Powers Stafford",
+    "email": "powersstafford@visalia.com",
+    "phone": "+7 (938) 542-2375"
+  },
+  {
+    "guid": "fe200901-3d0c-4f1d-9ec2-57695f65d4a8",
+    "group": "Бухгалтерия",
+    "position": "Developer",
+    "fullName": "Sexton Fowler",
+    "email": "sextonfowler@visalia.com",
+    "phone": "+7 (859) 560-2092"
+  },
+  {
+    "guid": "8770d810-9cb9-41d5-a4ba-d631ffa3f953",
+    "group": "Бухгалтерия",
+    "position": "Accountant",
+    "fullName": "Figueroa Dominguez",
+    "email": "figueroadominguez@visalia.com",
+    "phone": "+7 (929) 525-2548"
+  },
+  {
+    "guid": "d95e5e04-31a1-4d16-83ac-86f7478a4e79",
+    "group": "Управление",
+    "position": "Accountant",
+    "fullName": "Ava Anthony",
+    "email": "avaanthony@visalia.com",
+    "phone": "+7 (968) 445-3548"
+  },
+  {
+    "guid": "de2bbe16-45e7-40d9-aab3-c01f284335df",
+    "group": "Управление",
+    "position": "Developer",
+    "fullName": "Sherry Contreras",
+    "email": "sherrycontreras@visalia.com",
+    "phone": "+7 (859) 419-2514"
+  },
+  {
+    "guid": "62722571-5204-4c16-bd82-7645b61f23fc",
+    "group": "Разработка",
+    "position": "QA",
+    "fullName": "Viola Schroeder",
+    "email": "violaschroeder@visalia.com",
+    "phone": "+7 (874) 461-3183"
+  },
+  {
+    "guid": "628617b4-abbb-4b9a-bf45-78f3637cf35a",
+    "group": "Тестирование",
+    "position": "Developer",
+    "fullName": "Vicki Austin",
+    "email": "vickiaustin@visalia.com",
+    "phone": "+7 (893) 497-3313"
+  },
+  {
+    "guid": "295ce2bf-fc31-4ef8-8dfd-4ae51f643a82",
+    "group": "Дизайнеры",
+    "position": "Developer",
+    "fullName": "Sally Bolton",
+    "email": "sallybolton@visalia.com",
+    "phone": "+7 (850) 589-3452"
+  },
+  {
+    "guid": "44d05a6d-52ec-4556-a46f-3713080267ac",
+    "group": "Дизайнеры",
+    "position": "QA",
+    "fullName": "Courtney Harding",
+    "email": "courtneyharding@visalia.com",
+    "phone": "+7 (930) 444-3046"
+  },
+  {
+    "guid": "7748eaa7-e635-468a-81dc-948fee1a2981",
+    "group": "Разработка",
+    "position": "Manager",
+    "fullName": "Juarez Floyd",
+    "email": "juarezfloyd@visalia.com",
+    "phone": "+7 (806) 476-2024"
+  },
+  {
+    "guid": "06c05d93-a11d-441a-97c1-175c359a33c8",
+    "group": "Управление",
+    "position": "Big boss",
+    "fullName": "Hoover Baird",
+    "email": "hooverbaird@visalia.com",
+    "phone": "+7 (982) 579-2428"
+  },
+  {
+    "guid": "a6ac9ed1-a708-4481-ab00-368f3f33acf0",
+    "group": "",
+    "position": "Manager",
+    "fullName": "Reid Hendricks",
+    "email": "reidhendricks@visalia.com",
+    "phone": "+7 (936) 554-3928"
+  },
+  {
+    "guid": "cceafb05-3230-4857-98d6-bda00a51f8a7",
+    "group": "Управление",
+    "position": "QA",
+    "fullName": "Bonnie Gould",
+    "email": "bonniegould@visalia.com",
+    "phone": "+7 (995) 534-2148"
+  },
+  {
+    "guid": "0f3106f1-26c7-47e6-9440-e4c5a7825e71",
+    "group": "Тестирование",
+    "position": "CEO",
+    "fullName": "Jackie Woods",
+    "email": "jackiewoods@visalia.com",
+    "phone": "+7 (815) 586-2518"
+  },
+  {
+    "guid": "f93b103d-035e-43e8-926d-2ffebefc583d",
+    "group": "Разработка",
+    "position": "QA",
+    "fullName": "Sheppard Hutchinson",
+    "email": "sheppardhutchinson@visalia.com",
+    "phone": "+7 (968) 485-2984"
+  },
+  {
+    "guid": "e4a68e58-4e4a-4fd7-802b-2cd666f2dafc",
+    "group": "Разработка",
+    "position": "Manager",
+    "fullName": "Nelson Watson",
+    "email": "nelsonwatson@visalia.com",
+    "phone": "+7 (928) 407-3736"
+  },
+  {
+    "guid": "eaaac885-ebd6-4c7a-b69d-5d6f8a13c44c",
+    "group": "Тестирование",
+    "position": "Big boss",
+    "fullName": "Hensley Avery",
+    "email": "hensleyavery@visalia.com",
+    "phone": "+7 (806) 530-3172"
+  },
+  {
+    "guid": "fbeeb33d-8942-44e5-beab-f73e03e48035",
+    "group": "Дизайнеры",
+    "position": "CEO",
+    "fullName": "Audra Leach",
+    "email": "audraleach@visalia.com",
+    "phone": "+7 (880) 427-2324"
+  },
+  {
+    "guid": "c8da134a-6637-4d98-8031-e384355d51b5",
+    "group": "Разработка",
+    "position": "CEO",
+    "fullName": "Shauna Atkins",
+    "email": "shaunaatkins@visalia.com",
+    "phone": "+7 (878) 402-3681"
+  },
+  {
+    "guid": "88d43fda-65d6-41c4-93dc-057b855c534a",
+    "group": "Тестирование",
+    "position": "Manager",
+    "fullName": "Briana Herman",
+    "email": "brianaherman@visalia.com",
+    "phone": "+7 (936) 490-3252"
+  },
+  {
+    "guid": "3b831790-7a62-45ea-86b4-9474182df9f7",
+    "group": "",
+    "position": "Big boss",
+    "fullName": "Buckley Kent",
+    "email": "buckleykent@visalia.com",
+    "phone": "+7 (932) 403-2952"
+  },
+  {
+    "guid": "3801cfd3-2333-431a-96d7-f17a7d7cf246",
+    "group": "Бухгалтерия",
+    "position": "Manager",
+    "fullName": "Josie Todd",
+    "email": "josietodd@visalia.com",
+    "phone": "+7 (953) 449-3800"
+  },
+  {
+    "guid": "5c0d9ca2-013f-46d8-96b1-1eb7838c1abf",
+    "group": "Дизайнеры",
+    "position": "Manager",
+    "fullName": "Mack Harrison",
+    "email": "mackharrison@visalia.com",
+    "phone": "+7 (876) 516-3777"
+  },
+  {
+    "guid": "bbe64a7e-41b5-49eb-80a8-1fb2be7a5e57",
+    "group": "Тестирование",
+    "position": "CEO",
+    "fullName": "Maude Torres",
+    "email": "maudetorres@visalia.com",
+    "phone": "+7 (950) 525-2793"
+  },
+  {
+    "guid": "98e4d822-1da2-4b82-9cd7-47f91f00b942",
+    "group": "",
+    "position": "Manager",
+    "fullName": "Bobbi Mcconnell",
+    "email": "bobbimcconnell@visalia.com",
+    "phone": "+7 (869) 471-2205"
+  },
+  {
+    "guid": "e93e5275-8871-4818-9f16-18ee787c759d",
+    "group": "Разработка",
+    "position": "Developer",
+    "fullName": "Janell Huber",
+    "email": "janellhuber@visalia.com",
+    "phone": "+7 (916) 584-3443"
+  },
+  {
+    "guid": "f308a6cb-2011-4f1f-ad06-2d016c72f5ef",
+    "group": "Тестирование",
+    "position": "QA",
+    "fullName": "Elliott Stout",
+    "email": "elliottstout@visalia.com",
+    "phone": "+7 (889) 406-2181"
+  },
+  {
+    "guid": "e3713fca-2ece-4596-811d-7119712bf0a1",
+    "group": "Управление",
+    "position": "Developer",
+    "fullName": "Klein Baxter",
+    "email": "kleinbaxter@visalia.com",
+    "phone": "+7 (845) 503-2856"
+  },
+  {
+    "guid": "c943de4c-652e-4a02-bc57-aeaf3d93e268",
+    "group": "Бухгалтерия",
+    "position": "Accountant",
+    "fullName": "Bonita Kramer",
+    "email": "bonitakramer@visalia.com",
+    "phone": "+7 (979) 506-3879"
+  },
+  {
+    "guid": "52d09053-2b49-4abb-bb0d-33c777bfcaf8",
+    "group": "Разработка",
+    "position": "Developer",
+    "fullName": "Sutton Abbott",
+    "email": "suttonabbott@visalia.com",
+    "phone": "+7 (958) 533-2086"
+  },
+  {
+    "guid": "e5f4bede-4dac-44c1-8d5b-7e5d3a8ad4d7",
+    "group": "Разработка",
+    "position": "Manager",
+    "fullName": "Terrell Cantu",
+    "email": "terrellcantu@visalia.com",
+    "phone": "+7 (919) 519-3895"
+  },
+  {
+    "guid": "dcfbe660-450b-4257-afbd-013af41a0e99",
+    "group": "Управление",
+    "position": "QA",
+    "fullName": "Casandra Duncan",
+    "email": "casandraduncan@visalia.com",
+    "phone": "+7 (865) 586-3015"
+  },
+  {
+    "guid": "6af8a4da-abf1-4e71-af7d-ab5afbe5bdac",
+    "group": "Бухгалтерия",
+    "position": "Accountant",
+    "fullName": "Kim Watts",
+    "email": "kimwatts@visalia.com",
+    "phone": "+7 (975) 443-2704"
+  },
+  {
+    "guid": "a9694ae6-e664-42ae-a474-e840b3d99259",
+    "group": "",
+    "position": "Big boss",
+    "fullName": "Mae Burris",
+    "email": "maeburris@visalia.com",
+    "phone": "+7 (966) 476-2662"
+  },
+  {
+    "guid": "1b293e21-b95d-468d-b901-ffaace92ad43",
+    "group": "Дизайнеры",
+    "position": "CEO",
+    "fullName": "Hodge Summers",
+    "email": "hodgesummers@visalia.com",
+    "phone": "+7 (819) 456-3954"
+  },
+  {
+    "guid": "e1270a63-65e8-4364-91bb-d08918d52484",
+    "group": "Управление",
+    "position": "Big boss",
+    "fullName": "Neva Gomez",
+    "email": "nevagomez@visalia.com",
+    "phone": "+7 (951) 551-2320"
+  },
+  {
+    "guid": "2656790e-732d-414d-8b9a-b019bcf22622",
+    "group": "Разработка",
+    "position": "Manager",
+    "fullName": "Vonda Whitney",
+    "email": "vondawhitney@visalia.com",
+    "phone": "+7 (845) 587-3142"
+  },
+  {
+    "guid": "e676474e-f1f7-41ee-b68e-47a2b21742d7",
+    "group": "Тестирование",
+    "position": "Accountant",
+    "fullName": "James Butler",
+    "email": "jamesbutler@visalia.com",
+    "phone": "+7 (947) 560-2219"
+  },
+  {
+    "guid": "90ee29c2-a089-4f0f-a46f-4144dd3b328a",
+    "group": "Дизайнеры",
+    "position": "CEO",
+    "fullName": "Mckenzie Shannon",
+    "email": "mckenzieshannon@visalia.com",
+    "phone": "+7 (917) 558-2281"
+  },
+  {
+    "guid": "4cd709f0-cc8c-4212-82cc-42c589d711e7",
+    "group": "Дизайнеры",
+    "position": "Developer",
+    "fullName": "Tillman Coleman",
+    "email": "tillmancoleman@visalia.com",
+    "phone": "+7 (895) 528-3294"
+  },
+  {
+    "guid": "839faeb7-02ab-4e97-bc0a-68b91f8bef06",
+    "group": "",
+    "position": "Manager",
+    "fullName": "Hester Buchanan",
+    "email": "hesterbuchanan@visalia.com",
+    "phone": "+7 (945) 541-3385"
+  },
+  {
+    "guid": "b50c4e09-7c5a-4485-ae62-5b378558ebe4",
+    "group": "",
+    "position": "QA",
+    "fullName": "Cooke Allen",
+    "email": "cookeallen@visalia.com",
+    "phone": "+7 (891) 526-2395"
+  },
+  {
+    "guid": "3de526a3-0e12-4b70-812c-63f01bd3582d",
+    "group": "Бухгалтерия",
+    "position": "Developer",
+    "fullName": "Dolly Lawson",
+    "email": "dollylawson@visalia.com",
+    "phone": "+7 (928) 474-2041"
+  },
+  {
+    "guid": "80d8f43b-2545-479f-a946-f277efc54f8c",
+    "group": "Бухгалтерия",
+    "position": "QA",
+    "fullName": "Dillard Dennis",
+    "email": "dillarddennis@visalia.com",
+    "phone": "+7 (977) 407-2606"
+  },
+  {
+    "guid": "8a4a7392-6eef-44da-a6cd-4ed65f0f7811",
+    "group": "Разработка",
+    "position": "System administrator",
+    "fullName": "Peters Hewitt",
+    "email": "petershewitt@visalia.com",
+    "phone": "+7 (930) 405-2755"
+  },
+  {
+    "guid": "0254060a-9c16-4b50-9360-ae4b9cf10055",
+    "group": "Бухгалтерия",
+    "position": "CEO",
+    "fullName": "Lena Newton",
+    "email": "lenanewton@visalia.com",
+    "phone": "+7 (817) 490-3765"
+  },
+  {
+    "guid": "ba05e60c-fb1f-40d5-95f8-271683aeb151",
+    "group": "Управление",
+    "position": "Developer",
+    "fullName": "Jeanette Gray",
+    "email": "jeanettegray@visalia.com",
+    "phone": "+7 (847) 585-2564"
+  },
+  {
+    "guid": "09b94bd8-9118-4ced-b2cd-fbddd5c99864",
+    "group": "Тестирование",
+    "position": "CEO",
+    "fullName": "Foster Meadows",
+    "email": "fostermeadows@visalia.com",
+    "phone": "+7 (960) 484-3437"
+  },
+  {
+    "guid": "be36a11c-90ef-4d7a-87d5-08922a6ac000",
+    "group": "",
+    "position": "Developer",
+    "fullName": "Moon Lewis",
+    "email": "moonlewis@visalia.com",
+    "phone": "+7 (888) 455-2605"
+  },
+  {
+    "guid": "4ceb1795-835f-476c-8b2f-d896e0765971",
+    "group": "Бухгалтерия",
+    "position": "Manager",
+    "fullName": "Josefina Knox",
+    "email": "josefinaknox@visalia.com",
+    "phone": "+7 (825) 524-2629"
+  },
+  {
+    "guid": "3ab3823d-bd90-474b-a400-76ec7c43ba62",
+    "group": "Дизайнеры",
+    "position": "Accountant",
+    "fullName": "Richards Bean",
+    "email": "richardsbean@visalia.com",
+    "phone": "+7 (811) 410-3356"
+  },
+  {
+    "guid": "c4dda260-06f8-4458-8496-7a1b071b790f",
+    "group": "Тестирование",
+    "position": "Big boss",
+    "fullName": "Hope Ramos",
+    "email": "hoperamos@visalia.com",
+    "phone": "+7 (915) 420-3398"
+  },
+  {
+    "guid": "b9313ecc-647b-4c2d-9cc5-65be25eea31f",
+    "group": "Управление",
+    "position": "CEO",
+    "fullName": "Danielle Hooper",
+    "email": "daniellehooper@visalia.com",
+    "phone": "+7 (854) 550-2023"
+  },
+  {
+    "guid": "3f48b7c4-e611-4a9c-acfa-2f5331d28d15",
+    "group": "Бухгалтерия",
+    "position": "CEO",
+    "fullName": "Deidre Best",
+    "email": "deidrebest@visalia.com",
+    "phone": "+7 (802) 569-2101"
+  },
+  {
+    "guid": "8d795745-5a02-471e-957b-4b1e9d3e8115",
+    "group": "Тестирование",
+    "position": "Accountant",
+    "fullName": "Wells Peters",
+    "email": "wellspeters@visalia.com",
+    "phone": "+7 (870) 484-3363"
+  },
+  {
+    "guid": "fc387c6d-6ce1-4cd1-9079-04b483ccff9a",
+    "group": "Бухгалтерия",
+    "position": "Manager",
+    "fullName": "Alston Owens",
+    "email": "alstonowens@visalia.com",
+    "phone": "+7 (963) 415-3947"
+  },
+  {
+    "guid": "d5311faf-5683-496c-a049-d53e2bfbd2e6",
+    "group": "",
+    "position": "System administrator",
+    "fullName": "Kim Vang",
+    "email": "kimvang@visalia.com",
+    "phone": "+7 (874) 581-2478"
+  },
+  {
+    "guid": "09f4fc7f-945a-46fc-a143-e93a7c5c8665",
+    "group": "Дизайнеры",
+    "position": "Accountant",
+    "fullName": "Emilia Howe",
+    "email": "emiliahowe@visalia.com",
+    "phone": "+7 (959) 488-2527"
+  },
+  {
+    "guid": "b5ff25c1-98a2-400b-827c-d7720685a1b6",
+    "group": "Разработка",
+    "position": "Manager",
+    "fullName": "Ginger Owen",
+    "email": "gingerowen@visalia.com",
+    "phone": "+7 (857) 523-3456"
+  },
+  {
+    "guid": "5521ea23-8263-40b1-b75a-059cad24b98f",
+    "group": "Разработка",
+    "position": "System administrator",
+    "fullName": "Shepard Baker",
+    "email": "shepardbaker@visalia.com",
+    "phone": "+7 (861) 474-2363"
+  },
+  {
+    "guid": "19cc70ee-2508-4192-80e4-0b07112dd8bb",
+    "group": "Тестирование",
+    "position": "CEO",
+    "fullName": "Jeanie Odom",
+    "email": "jeanieodom@visalia.com",
+    "phone": "+7 (832) 401-2496"
+  },
+  {
+    "guid": "d0080be4-6ab8-431f-8483-5791561a382e",
+    "group": "Бухгалтерия",
+    "position": "QA",
+    "fullName": "Greta Dyer",
+    "email": "gretadyer@visalia.com",
+    "phone": "+7 (890) 555-3573"
+  },
+  {
+    "guid": "79384903-2586-450c-8a7c-020fef506a29",
+    "group": "Тестирование",
+    "position": "QA",
+    "fullName": "Karina Hood",
+    "email": "karinahood@visalia.com",
+    "phone": "+7 (954) 452-3107"
+  },
+  {
+    "guid": "f3a809a6-81fe-4ed9-9bab-d64f4fd68374",
+    "group": "Дизайнеры",
+    "position": "System administrator",
+    "fullName": "Angelica Stone",
+    "email": "angelicastone@visalia.com",
+    "phone": "+7 (923) 511-2311"
+  },
+  {
+    "guid": "29dba9ff-778d-4c2e-a69b-c7522d1e3204",
+    "group": "",
+    "position": "QA",
+    "fullName": "Tamera Mcdaniel",
+    "email": "tameramcdaniel@visalia.com",
+    "phone": "+7 (820) 521-3041"
+  },
+  {
+    "guid": "5f083566-7089-4b33-a76d-a22aae23a10c",
+    "group": "",
+    "position": "Accountant",
+    "fullName": "Bridgett Davenport",
+    "email": "bridgettdavenport@visalia.com",
+    "phone": "+7 (936) 467-3477"
+  },
+  {
+    "guid": "06f9af0f-47c1-4063-a63a-1123c4ded5d1",
+    "group": "",
+    "position": "CEO",
+    "fullName": "Lang Maxwell",
+    "email": "langmaxwell@visalia.com",
+    "phone": "+7 (839) 484-2188"
+  },
+  {
+    "guid": "e6d8c569-a2fb-4b40-a587-f54290aa8297",
+    "group": "Дизайнеры",
+    "position": "CEO",
+    "fullName": "Addie Foreman",
+    "email": "addieforeman@visalia.com",
+    "phone": "+7 (838) 592-2144"
+  },
+  {
+    "guid": "ec133c73-d960-4052-82a9-6acdbbc0ce74",
+    "group": "",
+    "position": "System administrator",
+    "fullName": "Miller Brock",
+    "email": "millerbrock@visalia.com",
+    "phone": "+7 (882) 500-3869"
+  },
+  {
+    "guid": "b4340e7f-ea32-4cd1-8f6b-4fb5dfca55d6",
+    "group": "",
+    "position": "Accountant",
+    "fullName": "Joanne Vance",
+    "email": "joannevance@visalia.com",
+    "phone": "+7 (893) 525-2163"
+  },
+  {
+    "guid": "d0a4e0af-d4e0-4b63-bead-e523519383a6",
+    "group": "Тестирование",
+    "position": "CEO",
+    "fullName": "Vaughn Chambers",
+    "email": "vaughnchambers@visalia.com",
+    "phone": "+7 (890) 522-3109"
+  },
+  {
+    "guid": "dd4b975b-8378-4e3a-9945-b5924daa7bc0",
+    "group": "Дизайнеры",
+    "position": "CEO",
+    "fullName": "Kelsey Cox",
+    "email": "kelseycox@visalia.com",
+    "phone": "+7 (939) 464-3968"
+  },
+  {
+    "guid": "0a045535-099d-4b32-93bd-f80a21517a79",
+    "group": "Бухгалтерия",
+    "position": "Big boss",
+    "fullName": "Williamson Holman",
+    "email": "williamsonholman@visalia.com",
+    "phone": "+7 (807) 585-3413"
+  },
+  {
+    "guid": "9642cf4a-4dac-4fa5-a6bd-0c5c32a27ca2",
+    "group": "",
+    "position": "Big boss",
+    "fullName": "Grant Barber",
+    "email": "grantbarber@visalia.com",
+    "phone": "+7 (910) 525-2331"
+  },
+  {
+    "guid": "4474ebbe-e5c5-4b16-83ac-14a3ae5a72d6",
+    "group": "Дизайнеры",
+    "position": "Developer",
+    "fullName": "Ray Hobbs",
+    "email": "rayhobbs@visalia.com",
+    "phone": "+7 (959) 508-3638"
+  },
+  {
+    "guid": "65922248-d109-4037-ab1e-b6b9ab398057",
+    "group": "Бухгалтерия",
+    "position": "CEO",
+    "fullName": "Beasley Hayes",
+    "email": "beasleyhayes@visalia.com",
+    "phone": "+7 (982) 503-3813"
+  },
+  {
+    "guid": "92208485-5121-4c1f-898c-877bdeaef3d1",
+    "group": "Тестирование",
+    "position": "Manager",
+    "fullName": "Flynn Castaneda",
+    "email": "flynncastaneda@visalia.com",
+    "phone": "+7 (968) 516-2426"
+  },
+  {
+    "guid": "b65b3deb-df37-428a-ac25-85b518880cae",
+    "group": "",
+    "position": "Big boss",
+    "fullName": "Snow Burgess",
+    "email": "snowburgess@visalia.com",
+    "phone": "+7 (966) 498-3286"
+  },
+  {
+    "guid": "cb6b4809-eee2-46f2-8d9d-f422723e435c",
+    "group": "",
+    "position": "Manager",
+    "fullName": "Sheryl England",
+    "email": "sherylengland@visalia.com",
+    "phone": "+7 (879) 501-3528"
+  },
+  {
+    "guid": "3448d1fc-23f0-45eb-b8cb-14e11513748d",
+    "group": "Управление",
+    "position": "System administrator",
+    "fullName": "Ila Gregory",
+    "email": "ilagregory@visalia.com",
+    "phone": "+7 (823) 417-2804"
+  },
+  {
+    "guid": "173fff21-ea2e-4dea-b7d2-c12df9bedf6d",
+    "group": "",
+    "position": "Manager",
+    "fullName": "Bernadette Whitfield",
+    "email": "bernadettewhitfield@visalia.com",
+    "phone": "+7 (942) 405-2905"
+  },
+  {
+    "guid": "73b6c612-46fa-47da-aa0a-2cdda089da50",
+    "group": "",
+    "position": "Developer",
+    "fullName": "Guy Ryan",
+    "email": "guyryan@visalia.com",
+    "phone": "+7 (949) 548-3019"
+  },
+  {
+    "guid": "c72a832e-dbdb-48e3-bdea-0fac599078f4",
+    "group": "Тестирование",
+    "position": "Developer",
+    "fullName": "Jamie Glover",
+    "email": "jamieglover@visalia.com",
+    "phone": "+7 (906) 443-2227"
+  },
+  {
+    "guid": "aa6f66e8-b7e7-477d-82a6-308679d05708",
+    "group": "Бухгалтерия",
+    "position": "Manager",
+    "fullName": "Adriana Walsh",
+    "email": "adrianawalsh@visalia.com",
+    "phone": "+7 (995) 467-3966"
+  },
+  {
+    "guid": "2c798724-2830-4615-9178-29707f9d48e1",
+    "group": "Дизайнеры",
+    "position": "Big boss",
+    "fullName": "Julia Perkins",
+    "email": "juliaperkins@visalia.com",
+    "phone": "+7 (830) 452-2491"
+  },
+  {
+    "guid": "cfec37da-06c0-411f-b431-a656aa343031",
+    "group": "Бухгалтерия",
+    "position": "CEO",
+    "fullName": "Carlene Wilder",
+    "email": "carlenewilder@visalia.com",
+    "phone": "+7 (963) 586-3989"
+  },
+  {
+    "guid": "516ea9cc-2f96-475b-9b1f-f5695cf18e10",
+    "group": "Управление",
+    "position": "QA",
+    "fullName": "Erna Medina",
+    "email": "ernamedina@visalia.com",
+    "phone": "+7 (871) 429-3715"
+  },
+  {
+    "guid": "23473e74-a8ac-46f6-a548-c71f594681f6",
+    "group": "Разработка",
+    "position": "Accountant",
+    "fullName": "Howell Hansen",
+    "email": "howellhansen@visalia.com",
+    "phone": "+7 (986) 467-2289"
+  },
+  {
+    "guid": "f8c01d2a-4f9b-4c36-a29d-f758ee0e24b3",
+    "group": "Тестирование",
+    "position": "Accountant",
+    "fullName": "Kara Myers",
+    "email": "karamyers@visalia.com",
+    "phone": "+7 (850) 482-2577"
+  },
+  {
+    "guid": "e065f98c-dcca-4396-879d-68dea35fd318",
+    "group": "Разработка",
+    "position": "CEO",
+    "fullName": "Jewell Mccoy",
+    "email": "jewellmccoy@visalia.com",
+    "phone": "+7 (951) 472-3838"
+  },
+  {
+    "guid": "7c4aa9e9-9f97-4736-8d88-a0c29dfdfa94",
+    "group": "Управление",
+    "position": "Manager",
+    "fullName": "Janis Holmes",
+    "email": "janisholmes@visalia.com",
+    "phone": "+7 (928) 527-3084"
+  },
+  {
+    "guid": "c992c05c-cdea-466d-a6c1-575451dfac88",
+    "group": "Управление",
+    "position": "Developer",
+    "fullName": "Maritza Tate",
+    "email": "maritzatate@visalia.com",
+    "phone": "+7 (869) 477-2582"
+  },
+  {
+    "guid": "f1208fb9-dada-47b6-a87b-ad406d7c39cd",
+    "group": "Разработка",
+    "position": "System administrator",
+    "fullName": "Priscilla Poole",
+    "email": "priscillapoole@visalia.com",
+    "phone": "+7 (885) 465-3408"
+  },
+  {
+    "guid": "ca61124b-5778-4f09-96a2-0a4e3cd0ec80",
+    "group": "Разработка",
+    "position": "System administrator",
+    "fullName": "Mcintosh Mcclure",
+    "email": "mcintoshmcclure@visalia.com",
+    "phone": "+7 (905) 485-3194"
+  },
+  {
+    "guid": "3854a439-591d-4313-b62a-63317228756b",
+    "group": "Управление",
+    "position": "Accountant",
+    "fullName": "Roman Donaldson",
+    "email": "romandonaldson@visalia.com",
+    "phone": "+7 (966) 599-2084"
+  },
+  {
+    "guid": "aef47bbd-3b27-4e5b-afa4-ed253dcc1107",
+    "group": "Тестирование",
+    "position": "Big boss",
+    "fullName": "Mueller Bowman",
+    "email": "muellerbowman@visalia.com",
+    "phone": "+7 (849) 508-2519"
+  },
+  {
+    "guid": "484c91a5-508d-4cc4-bf6c-7c1ac24dc656",
+    "group": "Разработка",
+    "position": "CEO",
+    "fullName": "Joyce Welch",
+    "email": "joycewelch@visalia.com",
+    "phone": "+7 (829) 558-3927"
+  },
+  {
+    "guid": "b04e9a99-7b15-4e17-8190-d8dd9871b293",
+    "group": "Разработка",
+    "position": "Manager",
+    "fullName": "Mara Higgins",
+    "email": "marahiggins@visalia.com",
+    "phone": "+7 (908) 594-2418"
+  },
+  {
+    "guid": "e9b0278b-ad7e-40ed-ae37-cc705542306e",
+    "group": "Дизайнеры",
+    "position": "Developer",
+    "fullName": "Tanya Jones",
+    "email": "tanyajones@visalia.com",
+    "phone": "+7 (905) 514-2426"
+  },
+  {
+    "guid": "92641255-f1af-47c4-9a03-c1ecdb1014ba",
+    "group": "",
+    "position": "System administrator",
+    "fullName": "Mai Winters",
+    "email": "maiwinters@visalia.com",
+    "phone": "+7 (908) 539-2847"
+  },
+  {
+    "guid": "6941cdfc-3333-4c39-81eb-056973ef7c00",
+    "group": "Дизайнеры",
+    "position": "Developer",
+    "fullName": "Mavis Hendrix",
+    "email": "mavishendrix@visalia.com",
+    "phone": "+7 (990) 556-2663"
+  },
+  {
+    "guid": "013f958d-1a50-48d9-b443-2bc852c4ee22",
+    "group": "Дизайнеры",
+    "position": "Manager",
+    "fullName": "Stefanie Mercado",
+    "email": "stefaniemercado@visalia.com",
+    "phone": "+7 (890) 447-3260"
+  },
+  {
+    "guid": "0baf7308-d617-4180-8b83-1d6fe72a9f53",
+    "group": "",
+    "position": "System administrator",
+    "fullName": "Huber Burke",
+    "email": "huberburke@visalia.com",
+    "phone": "+7 (815) 402-3793"
+  },
+  {
+    "guid": "fd589297-286b-4296-b6b3-ae1f41d41309",
+    "group": "Тестирование",
+    "position": "System administrator",
+    "fullName": "Spears Franklin",
+    "email": "spearsfranklin@visalia.com",
+    "phone": "+7 (978) 595-3637"
+  },
+  {
+    "guid": "f65e12d4-5a2c-48a0-94d4-fe5b4b80c78f",
+    "group": "Управление",
+    "position": "QA",
+    "fullName": "Isabelle Bartlett",
+    "email": "isabellebartlett@visalia.com",
+    "phone": "+7 (843) 550-2178"
+  },
+  {
+    "guid": "d05608cd-8a34-4308-a130-0a745245fd38",
+    "group": "Разработка",
+    "position": "QA",
+    "fullName": "Connie Ferguson",
+    "email": "connieferguson@visalia.com",
+    "phone": "+7 (863) 527-2348"
+  },
+  {
+    "guid": "67b3f40c-6d94-479c-adee-3cda1c881914",
+    "group": "Бухгалтерия",
+    "position": "CEO",
+    "fullName": "Ivy Acevedo",
+    "email": "ivyacevedo@visalia.com",
+    "phone": "+7 (884) 441-2798"
+  },
+  {
+    "guid": "d7b2b2a6-8e8f-439e-8018-2ff5f80f5fc4",
+    "group": "Управление",
+    "position": "Developer",
+    "fullName": "Hogan Herrera",
+    "email": "hoganherrera@visalia.com",
+    "phone": "+7 (948) 497-3459"
+  },
+  {
+    "guid": "dd244f00-5cc1-4e45-9ba3-39426325254f",
+    "group": "Управление",
+    "position": "QA",
+    "fullName": "Ortiz Peck",
+    "email": "ortizpeck@visalia.com",
+    "phone": "+7 (819) 406-3879"
+  },
+  {
+    "guid": "a80890b0-6366-40d6-822a-f623479929e9",
+    "group": "Разработка",
+    "position": "System administrator",
+    "fullName": "Melva Brennan",
+    "email": "melvabrennan@visalia.com",
+    "phone": "+7 (816) 554-3081"
+  },
+  {
+    "guid": "aacff9a0-5fbc-4c1d-8f0f-8dff55ee979b",
+    "group": "Дизайнеры",
+    "position": "CEO",
+    "fullName": "Ladonna Melton",
+    "email": "ladonnamelton@visalia.com",
+    "phone": "+7 (878) 486-2169"
+  },
+  {
+    "guid": "b6bf25e4-3d8a-4209-a6f7-7d013f766393",
+    "group": "Дизайнеры",
+    "position": "System administrator",
+    "fullName": "Dona Ortiz",
+    "email": "donaortiz@visalia.com",
+    "phone": "+7 (811) 417-2298"
+  },
+  {
+    "guid": "aa6017e0-4181-4461-a5ab-62e0f3530565",
+    "group": "Бухгалтерия",
+    "position": "CEO",
+    "fullName": "Doyle Boyd",
+    "email": "doyleboyd@visalia.com",
+    "phone": "+7 (818) 584-3963"
+  },
+  {
+    "guid": "0b94cd63-c122-416d-9b24-784f1233630a",
+    "group": "Бухгалтерия",
+    "position": "Developer",
+    "fullName": "Minerva Solis",
+    "email": "minervasolis@visalia.com",
+    "phone": "+7 (976) 527-3491"
+  },
+  {
+    "guid": "895501f5-d776-4cf8-a6a6-96e143354b81",
+    "group": "Дизайнеры",
+    "position": "QA",
+    "fullName": "Rose Bridges",
+    "email": "rosebridges@visalia.com",
+    "phone": "+7 (801) 522-2899"
+  },
+  {
+    "guid": "63bc7bf5-0ceb-4b39-8d34-1a09b28ea0e3",
+    "group": "Дизайнеры",
+    "position": "Accountant",
+    "fullName": "Hancock Rowland",
+    "email": "hancockrowland@visalia.com",
+    "phone": "+7 (946) 567-3306"
+  },
+  {
+    "guid": "504520c7-42bb-411f-8547-fc77b8932c27",
+    "group": "Управление",
+    "position": "Big boss",
+    "fullName": "Deanna Roach",
+    "email": "deannaroach@visalia.com",
+    "phone": "+7 (814) 528-2290"
+  },
+  {
+    "guid": "e532cd96-89f1-46ff-a82c-fc7065a0cb14",
+    "group": "Разработка",
+    "position": "Big boss",
+    "fullName": "Eaton Fuentes",
+    "email": "eatonfuentes@visalia.com",
+    "phone": "+7 (862) 468-2475"
+  },
+  {
+    "guid": "fc5908b7-7eac-4db1-a09b-7f37e0d66af1",
+    "group": "Управление",
+    "position": "Accountant",
+    "fullName": "Alana Duke",
+    "email": "alanaduke@visalia.com",
+    "phone": "+7 (959) 573-3562"
+  },
+  {
+    "guid": "4ba5365a-48e3-4a68-a1c3-3e19c5c53e87",
+    "group": "Дизайнеры",
+    "position": "CEO",
+    "fullName": "Rosetta Wade",
+    "email": "rosettawade@visalia.com",
+    "phone": "+7 (995) 518-2811"
+  },
+  {
+    "guid": "6441f22c-e32e-4e76-95fe-3f4e64d7d9ab",
+    "group": "Тестирование",
+    "position": "Accountant",
+    "fullName": "Wolf Hays",
+    "email": "wolfhays@visalia.com",
+    "phone": "+7 (844) 419-3238"
+  },
+  {
+    "guid": "9c48b1ea-37c9-43ea-ae48-29ef63c4cc3e",
+    "group": "Тестирование",
+    "position": "QA",
+    "fullName": "Christensen Lowe",
+    "email": "christensenlowe@visalia.com",
+    "phone": "+7 (875) 504-2433"
+  },
+  {
+    "guid": "b4cfe50c-c0fc-4279-9911-68af594b7aad",
+    "group": "Дизайнеры",
+    "position": "System administrator",
+    "fullName": "Strong Skinner",
+    "email": "strongskinner@visalia.com",
+    "phone": "+7 (855) 423-2155"
+  },
+  {
+    "guid": "e7a6c0df-1213-4cfb-9163-ee66afb3e9a9",
+    "group": "",
+    "position": "Accountant",
+    "fullName": "Johnnie Hamilton",
+    "email": "johnniehamilton@visalia.com",
+    "phone": "+7 (858) 543-2655"
+  },
+  {
+    "guid": "11b4aeec-8e16-4e37-af48-11b8e34b235e",
+    "group": "Дизайнеры",
+    "position": "Big boss",
+    "fullName": "Gomez Rojas",
+    "email": "gomezrojas@visalia.com",
+    "phone": "+7 (805) 448-3030"
+  },
+  {
+    "guid": "cb6a9763-85fb-4343-b010-09a4ac9e7d67",
+    "group": "",
+    "position": "Big boss",
+    "fullName": "Moreno Fitzgerald",
+    "email": "morenofitzgerald@visalia.com",
+    "phone": "+7 (948) 442-3278"
+  },
+  {
+    "guid": "66ba48af-6b77-43e0-8cb3-f517316f42d5",
+    "group": "Тестирование",
+    "position": "Accountant",
+    "fullName": "Roslyn Fisher",
+    "email": "roslynfisher@visalia.com",
+    "phone": "+7 (978) 469-2174"
+  },
+  {
+    "guid": "098c9a9e-7214-46c4-9c62-8ab2e2902ce5",
+    "group": "Тестирование",
+    "position": "QA",
+    "fullName": "Head Burch",
+    "email": "headburch@visalia.com",
+    "phone": "+7 (907) 404-2279"
+  },
+  {
+    "guid": "618f38fd-775f-4f33-a340-29e79be22e28",
+    "group": "Тестирование",
+    "position": "Accountant",
+    "fullName": "Dominguez Peterson",
+    "email": "dominguezpeterson@visalia.com",
+    "phone": "+7 (897) 491-2457"
+  },
+  {
+    "guid": "37c823fc-3306-4753-8e4f-f6dd73586945",
+    "group": "Разработка",
+    "position": "CEO",
+    "fullName": "Kelley Cruz",
+    "email": "kelleycruz@visalia.com",
+    "phone": "+7 (882) 412-2249"
+  },
+  {
+    "guid": "08678bc6-ca18-45a6-8030-fde33a2b26a6",
+    "group": "",
+    "position": "Big boss",
+    "fullName": "Henson Larsen",
+    "email": "hensonlarsen@visalia.com",
+    "phone": "+7 (885) 599-3151"
+  },
+  {
+    "guid": "0da07724-0f9e-4568-a310-46256215780a",
+    "group": "",
+    "position": "CEO",
+    "fullName": "Hawkins Miller",
+    "email": "hawkinsmiller@visalia.com",
+    "phone": "+7 (995) 410-3248"
+  },
+  {
+    "guid": "4f6ced5c-b2cf-4eef-b5b3-67544af960e4",
+    "group": "",
+    "position": "System administrator",
+    "fullName": "Consuelo Padilla",
+    "email": "consuelopadilla@visalia.com",
+    "phone": "+7 (826) 435-2754"
+  },
+  {
+    "guid": "4dcc0857-8394-4837-b206-cb441abce15d",
+    "group": "Управление",
+    "position": "CEO",
+    "fullName": "Rosemarie French",
+    "email": "rosemariefrench@visalia.com",
+    "phone": "+7 (926) 498-3386"
+  },
+  {
+    "guid": "7454ae9f-f555-480a-8db6-455dc1890b7d",
+    "group": "Управление",
+    "position": "Manager",
+    "fullName": "Bradshaw Sanford",
+    "email": "bradshawsanford@visalia.com",
+    "phone": "+7 (950) 455-3679"
+  },
+  {
+    "guid": "004b01bd-8a7c-40be-8793-c797743c76e2",
+    "group": "",
+    "position": "Manager",
+    "fullName": "Stewart Clarke",
+    "email": "stewartclarke@visalia.com",
+    "phone": "+7 (877) 547-2958"
+  }
+]

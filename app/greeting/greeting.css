@@ -1,0 +1,6 @@
+.greeting {
+   padding: 16px;
+}
+.greeting__message {
+   margin-bottom: 8px;
+}

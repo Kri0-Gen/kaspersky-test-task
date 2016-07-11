@@ -1,0 +1,11 @@
+{
+  "name": "users-kaspersky-test-task",
+  "description": "A test users application for Kaspersky lab",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "angular": "1.5.x",
+	"angular-resource": "1.5.x",
+    "angular-route": "1.5.x"
+  }
+}
